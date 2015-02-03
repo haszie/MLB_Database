@@ -2,7 +2,7 @@
 Database that holds MLB player records and prints relevant information written in Java
 
 An effecient database that parses and stores MLB player information. This info can then
-be rectrieved through a series of commands entered as a script file. The database uses a 
+be retrieved through a series of commands entered as a script file. The database uses a 
 hashtable and an AVL tree to store the player information. The hash table is used to look up
 players by name and the AVL tree is used to look up players by debut date. Only a small
 amount of info is saved in each. To retrieve more information on a player, the program 
