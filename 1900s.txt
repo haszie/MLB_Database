@@ -1,0 +1,1083 @@
+12730	scotted01	8/12/1870	USA	OH	Walbridge	11/1/1933	USA	OH	Toledo	Ed	Scott		75	R	R	4/19/1900	8/3/1901
+3595	dillapa01	6/12/1873	USA	TN	Chattanooga	7/22/1907	USA	CO	Denver	Pat	Dillard	180	72	L	R	4/21/1900	8/18/1900
+11298	pittito01	1/12/1872	USA	PA	Greencastle	1/14/1909	USA	PA	Greencastle	Togie	Pittinger	175	74	L	R	4/26/1900	7/17/1907
+10378	newtodo01	10/26/1877	USA	IN	Indianapolis	5/14/1931	USA	TN	Memphis	Doc	Newton	185	72	L	L	4/27/1900	5/7/1909
+5950	harveza01	1/5/1879	USA	CA	Saratoga	6/3/1954	USA	CA	Santa Monica	Zaza	Harvey	190	72	L	L	5/3/1900	5/4/1902
+2321	chambro01	8/31/1875	USA	NC	Weaverville	8/30/1902	USA	NC	Weaverville	Rome	Chambers	173	74	L	L	5/7/1900	5/7/1900
+6828	jacklfr01	5/24/1876	USA	NY	Brooklyn	7/18/1937	USA	NY	Brooklyn	Fred	Jacklitsch	180	69	R	R	6/6/1900	6/30/1917
+13656	stimmar01	5/30/1873	USA	MD	Woodsboro	8/18/1958	USA	MD	Frederick	Archie	Stimmel	175	72	R	R	7/3/1900	5/9/1902
+9361	mclauwa01	1/22/1876	USA	NJ	North Plainfield	10/22/1923	USA	NJ	Plainfield	Warren	McLaughlin				L	7/7/1900	5/21/1903
+8958	mathech01	8/12/1880	USA	PA	Factoryville	10/7/1925	USA	NY	Saranac Lake	Christy	Mathewson	195	73.5	R	R	7/17/1900	9/4/1916
+12913	sheehto01	11/6/1877	USA	CA	Sacramento	5/22/1959	Panama Canal Zone		Ancon	Tommy	Sheehan	160	68	R	R	8/2/1900	10/7/1908
+6767	hustibe01	3/6/1878	USA	WI	Fond Du Lac	9/3/1948	USA	WI	Milwaukee	Bert	Husting			R	R	8/16/1900	9/18/1902
+14004	taylodu01	2/21/1875	USA	KS	Oskaloosa	8/22/1958	USA	IL	Jacksonville	Dummy	Taylor	160	73	R	R	8/27/1900	9/29/1908
+6692	hugheto01	11/29/1878	USA	IL	Chicago	2/8/1956	USA	IL	Chicago	Tom	Hughes	175	73	R	R	9/7/1900	10/3/1913
+3666	donahji02	7/13/1879	USA	OH	Springfield	7/19/1913	USA	OH	Columbus	Jiggs	Donahue	178	73	L	L	9/10/1900	10/2/1909
+7608	klingjo01	11/13/1875	USA	MO	Kansas City	1/31/1947	USA	MO	Kansas City	Johnny	Kling	160		R	R	9/11/1900	9/21/1913
+986	bernacu01	2/18/1878	USA	WV	Parkersburg	4/10/1955	USA	CA	Culver City	Curt	Bernard	150	70	L	R	9/17/1900	6/24/1901
+10162	murphda02	8/11/1876	USA	PA	Philadelphia	11/22/1955	USA	NJ	Jersey City	Danny	Murphy	175	69	R	R	9/17/1900	7/1/1915
+3954	easonma01	3/13/1879	USA	PA	Brookville	4/16/1970	USA	AZ	Douglas	Mal	Eason	175	72	R	R	10/1/1900	10/4/1906
+11361	pooleed01	9/7/1874	USA	OH	Canton	3/11/1919	USA	OH	Malvern	Ed	Poole	175	70	R	R	10/6/1900	7/27/1904
+13528	stantha01									Harry	Stanton				R	10/14/1900	10/14/1900
+3341	davisle01	2/4/1875	USA	TN	Nashville	2/4/1919	USA	NY	Collins	Lefty	Davis	170	70	L	L	4/18/1901	7/16/1907
+3033	crolifr01	12/16/1876	USA	NJ	Jersey City	8/25/1960	USA	FL	Ormond Beach	Fred	Crolius					4/19/1901	8/30/1902
+14307	townsha01	4/9/1879	USA	DE	Townsend	12/21/1963	USA	DE	Wilmington	Happy	Townsend	190	72	R	R	4/19/1901	9/21/1906
+9089	mccange01	6/13/1876	USA	MD	Baltimore	4/26/1943	USA	NY	New York	Gene	McCann		70		R	4/19/1901	4/28/1902
+3449	delahji01	6/20/1879	USA	OH	Cleveland	10/17/1953	USA	OH	Cleveland	Jim	Delahanty	170		R	R	4/19/1901	5/8/1915
+3637	dobbsjo01	6/3/1875	USA	TN	Chattanooga	9/9/1934	USA	NC	Charlotte	John	Dobbs	170		L	R	4/20/1901	9/20/1905
+15097	whitedo01	4/9/1879	USA	DC	Washington	2/19/1969	USA	MD	Silver Spring	Doc	White	150	73	L	L	4/22/1901	10/4/1913
+4866	gammoda01	3/17/1876	USA	MA	New Bedford	9/24/1963	USA	RI	E.Greenwich	Daff	Gammons	170	71	R	R	4/23/1901	6/26/1901
+1465	brainda01	1/24/1879	England		Hereford	5/25/1959	USA	CA	Los Angeles	Dave	Brain	170	70	R	R	4/24/1901	10/7/1908
+11687	raymefr01	11/12/1875	USA	KS	Leavenworth	6/11/1957	USA	CA	Los Angeles	Fred	Raymer	185	71	R	R	4/24/1901	10/7/1905
+2392	childpe01	11/15/1871	USA	PA	Philadelphia	2/15/1922	USA	PA	Philadelphia	Pete	Childs				R	4/24/1901	10/3/1902
+10958	pattero01	12/17/1876	USA	WI	Stoddard	4/14/1953	USA	WI	St.Croix Falls	Roy	Patterson	185	72	R	R	4/24/1901	9/16/1907
+9219	mcfadba01	3/20/1877	USA	PA	Eckley	4/28/1924	USA	PA	Mauch Chunk	Barney	McFadden	195	73	R	R	4/24/1901	9/16/1902
+14714	waldrir01	1/21/1872	USA	NY	Hillside	7/22/1944	USA	MA	Worcester	Irv	Waldron			R	R	4/25/1901	9/27/1901
+9704	millero01	12/2/1876	USA	IN	Greenville	4/18/1913	USA	IN	Corydon	Roscoe	Miller	190	74	R	R	4/25/1901	7/30/1904
+5725	hallmbi02	3/15/1876	USA	PA	Philadelphia	4/23/1950	USA	PA	Philadelphia	Bill	Hallman			L	L	4/25/1901	9/27/1907
+2771	conrowi01	4/5/1877	USA	PA	Philadelphia	12/6/1959	USA	NJ	Mt.Holly	Wid	Conroy	158	69	R	R	4/25/1901	10/5/1911
+13123	skopejo01	5/8/1880	USA	IL	Chicago	10/20/1912	USA	IL	Chicago	John	Skopec	190	70	R	L	4/25/1901	9/11/1903
+5095	gilbebi02	6/21/1876	USA	PA	Tullytown	8/8/1927	USA	NY	New York	Billy	Gilbert	153	64	R	R	4/25/1901	6/27/1909
+9893	mooreea01	7/29/1879	USA	OH	Pickerington	11/28/1961	USA	OH	Columbus	Earl	Moore	195	72	R	R	4/25/1901	10/10/1914
+6005	haydeja01	10/21/1880	USA	PA	Bryn Mawr	8/3/1942	USA	PA	Haverford	Jack	Hayden	170	69	L	L	4/26/1901	9/26/1908
+6842	jacksji01	11/28/1877	USA	PA	Philadelphia	10/9/1955	USA	PA	Philadelphia	Jim	Jackson			R	R	4/26/1901	9/28/1906
+4296	farrejo02	12/4/1876	USA	KY	Covington	5/13/1921	USA	MO	Kansas City	John	Farrell	160	70	R	R	4/26/1901	4/25/1905
+4365	ferriho01	12/7/1874	England		Trowbridge	3/18/1938	USA	MI	Detroit	Hobe	Ferris	162	68	R	R	4/26/1901	10/1/1909
+7371	kelluwi01	4/11/1876	CAN	ON	Waterford	8/10/1951	USA	MI	Big Rapids	Win	Kellum	190	70	B	L	4/26/1901	6/16/1905
+13035	sieveed01	4/2/1875	USA	KS	Goddard	2/4/1920	USA	MI	Detroit	Ed	Siever	190		L	L	4/26/1901	6/18/1908
+4638	foutzfr01	4/8/1877	USA	MD	Baltimore	12/25/1961	USA	OH	Lima	Frank	Foutz	165	71	R	R	4/26/1901	5/27/1901
+9364	mcleala01	7/18/1881	CAN	NB	Fredericton	3/24/1921	USA	MA	Boston	Larry	McLean	228	77	R	R	4/26/1901	6/6/1915
+9781	mitchfr01	6/5/1878	USA	MA	Cambridge	10/13/1970	USA	MA	Newton	Fred	Mitchell	185		R	R	4/27/1901	6/15/1913
+497	bakerbo01	7/17/1878	USA	NY	Troy	8/17/1940	USA	NY	New York	Bock	Baker	181	69		L	4/28/1901	5/13/1901
+10782	owenfr01	12/23/1879	USA	MI	Ypsilanti	11/24/1942	USA	MI	Dearborn	Frank	Owen	160	71	B	R	4/29/1901	5/12/1909
+12892	shayda01	11/8/1876	USA	OH	Springfield	12/1/1927	USA	MO	Kansas City	Danny	Shay		70	R	R	4/30/1901	9/10/1907
+8102	leewa01	8/12/1879	USA	VA	Lynch Station	3/6/1936	USA	DC	Washington	Watty	Lee	171		L	L	4/30/1901	5/26/1904
+9720	millibi01	8/19/1878	USA	NY	Buffalo	10/14/1928	USA	NY	Buffalo	Billy	Milligan		67	R	L	4/30/1901	5/15/1904
+3940	eagantr01	8/10/1877	USA	CA	San Francisco	3/19/1949	USA	CA	San Francisco	Truck	Eagan	190	71	R	R	5/1/1901	5/30/1901
+8411	loospe01	3/23/1878	USA	PA	Philadelphia	2/23/1956	USA	PA	Darby	Pete	Loos	178	69		R	5/2/1901	5/2/1901
+7104	jonesch03	6/2/1876	USA	PA	Butler	4/2/1947	USA	MN	Two Harbors	Charlie	Jones		73	R	R	5/2/1901	8/14/1908
+8741	malonbi01	6/5/1878	USA	ME	Lewiston	9/2/1960	USA	TX	Breckenridge	Billy	Maloney	177	70	L	R	5/2/1901	10/6/1908
+15622	yerkest01	11/28/1874	USA	PA	Cheltenham	7/28/1940	USA	MA	Boston	Stan	Yerkes	165	70	R	R	5/3/1901	4/17/1903
+4735	frielbi01	4/1/1876	USA	PA	Renovo	12/24/1959	USA	MO	St.Louis	Bill	Friel	165	70	L	R	5/3/1901	9/13/1903
+1654	brownfr01	4/12/1879	USA	NH	Ossipee	2/3/1955	USA	NH	Somersworth	Fred	Brown	190		R	R	5/4/1901	4/18/1902
+10940	patteca01	5/7/1874	USA	NY	Westport	5/31/1935	USA	NY	Rochester	Case	Patten	175	72	B	L	5/4/1901	6/18/1908
+15379	wiltssn01	12/5/1871	USA	NY	Bouckville	8/25/1928	USA	PA	Harrisburg	Snake	Wiltse			R	L	5/5/1901	5/18/1903
+964	bergebi01	6/13/1878	USA	MA	North Brookfield	12/19/1943	USA	MA	Worcester	Bill	Bergen	184	72	R	R	5/6/1901	9/20/1911
+10331	nelsora01	8/4/1875	USA	MA	Holyoke	1/8/1961	USA	NY	Mt.Vernon	Ray	Nelson	150	69	R	R	5/6/1901	8/16/1901
+8034	lawsobo01	8/23/1876	USA	VA	Brookneal	10/28/1952	USA	NC	Durham	Bob	Lawson	170	70	R	R	5/7/1901	6/10/1902
+12160	rohege01	9/15/1874	USA	OH	Cincinnati	6/10/1957	USA	OH	Cincinnati	George	Rohe	165	69	R	R	5/7/1901	10/6/1907
+11308	planked01	8/31/1875	USA	PA	Gettysburg	2/24/1926	USA	PA	Gettysburg	Eddie	Plank	175		L	L	5/13/1901	8/6/1917
+9942	moranpa01	2/7/1876	USA	MA	Fitchburg	3/7/1924	USA	FL	Orlando	Pat	Moran	180	70	R	R	5/15/1901	6/5/1914
+13324	snodgch01	3/18/1870	USA	OH	Springfield	9/9/1951	USA	NY	New York	Chappie	Snodgrass	165	70	R	R	5/15/1901	5/16/1901
+1463	braggdi01	12/25/1879	USA	PA	Mercer	8/16/1963	USA	FL	Lake Wales	Dick	Braggins	170	71	R	R	5/16/1901	6/26/1901
+3054	crossfr01	1/20/1873	USA	OH	Cleveland	11/2/1932	USA	OH	Geauga Lake	Frank	Cross				R	5/20/1901	5/20/1901
+1042	bevilbe01	8/28/1877	USA	CA	Colusa	1/5/1937	USA	CA	Yountville	Ben	Beville	190	69	R	R	5/24/1901	6/2/1901
+1779	bueloch01	1/12/1877	USA	IA	Dubuque	5/4/1951	USA	IA	Dubuque	Charlie	Buelow			R	R	6/1/1901	8/1/1901
+6365	hintojo01	6/20/1876	USA	PA	Pittsburgh	7/19/1920	USA	PA	Pittsburgh	John	Hinton	200	72	R	R	6/3/1901	6/7/1901
+5917	hartbu01	6/28/1870	USA	MN	Brown County	1/29/1921	USA	CA	Sacramento	Burt	Hart	200	75	B		6/6/1901	8/24/1901
+5537	grossge01	4/11/1880	USA	PA	Meadville	4/18/1902	USA	PA	Pittsburgh	George	Grossart					6/7/1901	6/15/1901
+12881	shawal01	5/22/1873	England		Burslem	3/25/1958	USA	OH	Uhrichsville	Al	Shaw	170	68	R	R	6/8/1901	9/13/1909
+15407	wintege01	4/27/1878	USA	PA	New Providence	5/26/1951	USA	NJ	Franklin Lakes	George	Winter	155	68	R	R	6/15/1901	9/18/1908
+12726	scottdi01	2/5/1883	USA	OH	Bethel	1/18/1911	USA	IL	Chicago	Dick	Scott	180	72	R	R	6/26/1901	7/8/1901
+8139	leitndu01	6/19/1872	USA	MD	Parkton	2/20/1960	USA	MD	Baltimore	Dummy	Leitner	120	67	L	R	6/29/1901	8/25/1902
+10171	murphfr01	4/6/1876	USA	NY	North Tarrytown	11/4/1912	USA	NY	Central Islip	Frank	Murphy			R		7/2/1901	10/5/1901
+9313	mcintma01	6/12/1880	USA	CT	Stonington	4/2/1920	USA	MI	Detroit	Matty	McIntyre	175	71	L	L	7/3/1901	8/21/1912
+6304	highed01	10/26/1873	USA	MD	Baltimore	2/10/1926	USA	MD	Baltimore	Ed	High				L	7/4/1901	8/5/1901
+6425	hoffmla01	7/18/1878	USA	IL	Chicago	12/29/1948	USA	IL	Chicago	Larry	Hoffman	175	68	R	R	7/4/1901	7/9/1901
+2163	carrle01	8/15/1872	USA	NY	Union Springs	6/15/1954	USA	NY	Moravia	Lew	Carr	200	74	R	R	7/4/1901	7/10/1901
+2216	casech01	9/7/1879	USA	OH	Smith Landing	4/16/1964	USA	OH	Batavia	Charlie	Case	170	72	R	R	7/5/1901	4/29/1906
+1865	burnsfa01	6/2/1876								Farmer	Burns	168	67		R	7/6/1901	7/6/1901
+6075	heilech01	8/10/1872	USA	OH	Cincinnati	7/19/1940	USA	OH	Cincinnati	Chink	Heileman	155	68	R	R	7/8/1901	7/21/1901
+5633	haberem01	2/2/1878	USA	OH	Cincinnati	10/19/1951	USA	KY	Louisville	Emil	Haberer	204	73	R	R	7/9/1901	9/3/1909
+13238	smithha03	10/31/1874	England		Yorkshire	2/17/1933	USA	NJ	Salem	Harry	Smith			R	R	7/11/1901	9/15/1910
+3030	crockda01	10/5/1875	USA	VA	Roanoke	2/23/1961	USA	VA	Charlottesville	Davey	Crockett	175	73	L	R	7/11/1901	8/12/1901
+9422	mcphejo01	3/9/1869	USA	PA	Easton	9/30/1941	USA	PA	Easton	John	McPherson					7/12/1901	7/10/1904
+5572	guesewh01	1/24/1872	USA	OH	New Bremen	4/8/1951	USA	OH	Wapakoneta	Whitey	Guese	200	72	R	R	7/13/1901	8/9/1901
+10018	morrifr01	5/5/1876	USA	MD	Baltimore	2/22/1939	USA	MD	Baltimore	Frank	Morrissey	140	64		R	7/13/1901	10/4/1902
+9737	millswi01	8/15/1877	USA	NY	Schenevus	7/5/1914	USA	NY	Norwood	Willie	Mills	150	67	R	R	7/13/1901	7/17/1901
+769	bayha01	1/17/1878	USA	IL	Pontiac	3/20/1952	USA	IL	Peoria	Harry	Bay	138	68	L	L	7/23/1901	5/3/1908
+9338	mckinbo01	10/4/1875	USA	PA	McSherrystown	8/19/1946	USA	PA	Hanover	Bob	McKinney	165	67	R	R	7/23/1901	8/2/1901
+7754	krausch01	10/2/1873	USA	MI	Detroit	3/30/1948	USA	MI	Eloise	Charlie	Krause		66		R	7/27/1901	7/27/1901
+7279	karnsbi01	12/28/1875	USA	IA	Richmond	11/15/1941	USA	WA	Seattle	Bill	Karns			L	L	8/1/1901	9/26/1901
+3423	deegadu01	11/16/1874	USA	NY	Bronx	5/17/1957	USA	NY	Bronx	Dummy	Deegan					8/3/1901	8/9/1901
+14537	vanzaik01	//1876	USA	NY	Brooklyn	9/14/1908	USA	NH	Nashua	Ike	Van Zandt			L	L	8/5/1901	10/8/1905
+9410	mcneaha01	8/11/1878	USA	OH	Iberia	1/11/1945	USA	OH	Cleveland	Harry	McNeal	175	74	R	R	8/5/1901	9/26/1901
+1745	bruyeed01	8/31/1874	USA	WI	Manawa	8/5/1940	USA	WA	Peshastin	Ed	Bruyette	170	70	L	R	8/6/1901	9/10/1901
+1423	brackja01	4/14/1881	USA	OH	Cleveland	7/16/1954	USA	MI	Highland Park	Jack	Bracken	175	71	R	R	8/7/1901	9/27/1901
+9047	mcaleja01	//1877	USA	PA	Sharon	11/15/1950	USA	NY	New York	Jack	McAleese		68	R	R	8/10/1901	10/3/1909
+7190	jordati01	2/14/1879	USA	NY	New York	9/13/1949	USA	NY	Bronx	Tim	Jordan	170	73	L	L	8/10/1901	5/2/1910
+15155	wickebo01	5/24/1878	USA	IN	Bono	1/22/1955	USA	IL	Evanston	Bob	Wicker	210	71	R	R	8/11/1901	9/21/1906
+6436	hoganha01	11/1/1876	USA	NY	Syracuse	1/24/1934	USA	NY	Syracuse	Harry	Hogan					8/13/1901	8/13/1901
+4848	gallash01	4/30/1872	USA	MI	Detroit	6/23/1924	USA	MI	Detroit	Shorty	Gallagher					8/13/1901	8/13/1901
+3892	dupeefr01	4/29/1877	USA	VT	Monkton	8/14/1956	USA	ME	West Falmouth	Frank	Dupee	200	73		L	8/24/1901	8/24/1901
+14407	turnete01	2/28/1881	USA	PA	Sandy Lake	7/18/1960	USA	OH	Cleveland	Terry	Turner	149	68	R	R	8/25/1901	9/29/1919
+8272	lindebo01	6/5/1881	USA	PA	Philadelphia	12/19/1951	USA	PA	Williamsport	Bob	Lindemann	175	72	B	R	8/28/1901	8/31/1901
+6041	hearnhu01	4/18/1873	USA	NY	Troy	9/22/1932	USA	NY	Troy	Hughie	Hearne	182	68	R	R	8/29/1901	7/2/1903
+8329	livinpa01	1/14/1880	USA	OH	Cleveland	9/19/1977	USA	OH	Cleveland	Paddy	Livingston	197	68	R	R	9/2/1901	6/15/1917
+6274	hickeed01	8/18/1872	USA	OH	Cleveland	3/25/1941	USA	WA	Tacoma	Eddie	Hickey					9/3/1901	9/23/1901
+3025	cristbi01	9/12/1875	Ukraine		Odessa	1/28/1939	USA	NY	Buffalo	Bill	Cristall	145	67	L	L	9/3/1901	9/28/1901
+6256	hestela01	6/9/1878	USA	NJ	Newark	9/22/1943	USA	NJ	Cedar Grove	Larry	Hesterfer	145	68	R	L	9/5/1901	9/5/1901
+8330	livinja01	1/1/1880	Russia		St. Petersburg	3/22/1949	USA	NY	Wassaic	Jake	Livingstone					9/6/1901	9/9/1901
+9548	merrige01	4/14/1880	USA	NJ	Paterson	2/21/1938	USA	TN	Memphis	George	Merritt	160	72		R	9/6/1901	5/26/1903
+9675	milleji01	10/2/1880	USA	PA	Pittsburgh	2/7/1937	USA	PA	Pittsburgh	Jim	Miller	143	64	R	R	9/9/1901	9/30/1901
+2298	cermaed01	3/10/1882	USA	OH	Cleveland	11/22/1911	USA	OH	Cleveland	Ed	Cermak	170	71	R	R	9/9/1901	9/9/1901
+4871	gannobi01	3/17/1873	USA	CT	New Haven	4/26/1927	USA	TX	Fort Worth	Bill	Gannon	170	69			9/9/1901	10/6/1901
+3699	donovto01	1/1/1873	USA	NY	West Troy	3/25/1933	USA	NY	Watervliet	Tom	Donovan	168	74	R	R	9/10/1901	9/28/1901
+9293	mcguiji01	2/4/1875	USA	NY	Dunkirk	1/26/1917	USA	NY	Buffalo	Jim	McGuire				R	9/10/1901	9/28/1901
+9067	mcbrige01	11/20/1880	USA	WI	Milwaukee	7/2/1973	USA	WI	Milwaukee	George	McBride	170	71	R	R	9/12/1901	7/29/1920
+8530	luskech01	4/6/1876	USA	DC	Washington	12/20/1962	USA	MD	Bethesda	Charlie	Luskey	165	67	R	R	9/12/1901	9/23/1901
+5041	gertelo01	5/4/1875	USA	IL	Chicago	10/20/1933	USA	IL	Chicago	Lou	Gertenrich	175	68	R	R	9/15/1901	7/21/1903
+7115	jonesda01	6/30/1880	USA	WI	Cambria	3/30/1972	USA	MN	Mankato	Davy	Jones	165	70	L	R	9/15/1901	9/2/1918
+1276	bonege01	8/28/1874	USA	CT	New Haven	5/26/1918	USA	CT	West Haven	George	Bone	152	67	B	R	9/18/1901	9/28/1901
+11890	richabi01	1/24/1878	USA	IN	Salem	11/6/1949	USA	IN	Sullivan	Bill	Richardson	200	71	R	R	9/20/1901	10/6/1901
+4339	ferguch02	5/10/1875	USA	MI	Okemos	5/17/1931	USA	MI	Sault Ste.Marie	Charlie	Ferguson		71		R	9/20/1901	9/20/1901
+2152	carnepa01	8/7/1876	USA	MA	Holyoke	1/9/1953	USA	MA	Worcester	Pat	Carney	200	72	L	L	9/20/1901	8/17/1904
+10588	oneilmi01	9/7/1877	Ireland		Maam	8/12/1959	USA	PA	Scranton	Mike	O'Neill	185	71	R	R	9/20/1901	10/6/1907
+10529	obriepe02	6/17/1877	USA	NY	Binghamton	1/31/1917	USA	NJ	Jersey City	Pete	O'Brien	170	67	L	R	9/21/1901	10/2/1907
+14758	walljo01	7/24/1873	USA	NY	Brooklyn	7/17/1936	USA	NY	Brooklyn	Joe	Wall			L	L	9/22/1901	8/24/1902
+6754	hurleje02	4//1875	USA	NY	New York	12/27/1919	USA	NY	New York	Jerry	Hurley			R	R	9/23/1901	4/15/1907
+11455	prentge01	6/10/1876	USA	DE	Wilmington	9/8/1902	USA	DE	Wilmington	George	Prentiss	175	71	B	R	9/23/1901	7/29/1902
+6090	heismcr01	4/16/1880	USA	OH	Cincinnati	11/19/1951	USA	OH	Cincinnati	Crese	Heismann	150	72	R	L	9/25/1901	9/4/1902
+5903	harribe01	//1870								Ben	Harrison					9/27/1901	9/27/1901
+1707	brownge01	1/12/1876	USA	VA	Richmond	12/9/1920	USA	NY	Hyde Park	George	Browne	160		L	R	9/27/1901	6/24/1912
+5185	gleasha01	3/28/1875	USA	NJ	Camden	10/21/1961	USA	NJ	Camden	Harry	Gleason	160	66	R	R	9/27/1901	10/8/1905
+13136	slattja01	1/6/1878	USA	MA	South Boston	7/17/1949	USA	MA	Boston	Jack	Slattery	191	74	R	R	9/28/1901	9/29/1909
+14653	volzja01	4/4/1878	USA	TX	San Antonio	8/11/1962	USA	TX	San Antonio	Jake	Volz	175	70	R	R	9/28/1901	9/2/1908
+1939	butlejo01	7/26/1879	USA	MA	Boston	2/2/1950	USA	MA	Boston	John	Butler	170	67	R	R	9/28/1901	6/14/1907
+7189	jordasl01	9/27/1878	USA	MD	Baltimore	12/7/1953	USA	MD	Catonsville	Slats	Jordan	190	73	L	L	9/28/1901	9/27/1902
+13930	swormle01	10/6/1878	USA	OH	Cincinnati	7/19/1964	USA	MA	Salem	Len	Swormstedt	165		R	R	9/29/1901	10/6/1906
+5212	gochnjo01	9/12/1875	USA	PA	Altoona	9/27/1929	USA	PA	Altoona	John	Gochnauer	160	69	R	R	9/29/1901	9/29/1903
+4323	felixha01	//1879	USA	NY	Brooklyn	10/17/1961	USA	FL	Miami	Harry	Felix	160		R	R	10/5/1901	7/24/1902
+15554	wrighge02	12/11/1878	USA	OH	Cleveland	10/29/1930	USA	OH	Barberton	Gene	Wright	185	74	R	R	10/5/1901	4/18/1904
+12553	schaege01	2/4/1876	USA	IL	Chicago	5/16/1919	USA	NY	Saranac Lake	Germany	Schaefer	175	69	R	R	10/5/1901	4/25/1918
+2920	courter01	1/20/1875	USA	IA	Des Moines	2/29/1920	USA	NY	Buffalo	Ernie	Courtney		70	L	R	4/17/1902	10/2/1908
+2724	congabu01	1/24/1875	CAN	ON	Guelph	8/16/1937	USA	OH	Cleveland	Bunk	Congalton	190	71	L	L	4/17/1902	10/5/1907
+14098	thielhe01	10/3/1880	USA	MN	St. Cloud	9/2/1942	USA	NY	New York	Henry	Thielman	175	71	R	R	4/17/1902	5/15/1903
+6789	iburgha01	10/30/1873	USA	CA	San Francisco	2/11/1945	USA	CA	San Francisco	Ham	Iburg	165	71	R	R	4/17/1902	10/3/1902
+13311	smootho01	3/23/1878	USA	MD	Galestown	3/25/1928	USA	MD	Salisbury	Homer	Smoot	180	70	L	R	4/17/1902	10/7/1906
+597	barclge01	5/16/1876	USA	PA	Millville	4/3/1909	USA	PA	Philadelphia	George	Barclay	162	70		R	4/17/1902	5/30/1905
+14230	tinkejo01	7/27/1880	USA	KS	Muscotah	7/27/1948	USA	FL	Orlando	Joe	Tinker	175	69	R	R	4/17/1902	9/22/1916
+6026	hazledo01	8/28/1876	USA	VT	Strafford	3/10/1941	USA	VT	Burlington	Doc	Hazleton			R		4/17/1902	4/26/1902
+9659	milledu02	9/3/1876	USA	IA	Malvern	4/19/1950	USA	CA	Stockton	Dusty	Miller	175	70	L	R	4/17/1902	7/22/1902
+14659	vorhecy01	9/30/1874	USA	OH	Lodi	2/8/1910	USA	OH	Perry	Cy	Vorhees	200	75			4/17/1902	9/18/1902
+6311	hildege01	9/6/1878	USA	CA	San Francisco	5/30/1960	USA	CA	Reseda	George	Hildebrand	170	68	R	R	4/17/1902	4/17/1902
+5194	glendma01	2/8/1877	USA	WI	Milwaukee	11/6/1950	USA	IL	Norwood Park	Martin	Glendon	165	68	R	R	4/18/1902	9/25/1903
+3700	dooinre01	6/12/1879	USA	OH	Cincinnati	5/14/1952	USA	NY	Rochester	Red	Dooin	165		R	R	4/18/1902	6/24/1916
+3730	doughpa01	10/27/1876	USA	NY	Andover	4/30/1940	USA	NY	Bolivar	Patsy	Dougherty	190	74	L	R	4/19/1902	9/22/1911
+11859	rhoadbo01	10/4/1879	USA	OH	Wooster	2/12/1967	USA	CA	San Bernardino	Bob	Rhoads	215	73	R	R	4/19/1902	8/19/1909
+12411	salisbi01	11/12/1876	USA	IA	Algona	1/17/1952	USA	OR	Rowena	Bill	Salisbury	180	72	R	R	4/19/1902	4/24/1902
+9376	mcmakjo01	3/6/1878	USA	SC	Spartanburg	9/25/1956	USA	SC	Lyman	John	McMakin	165	71	R	L	4/19/1902	5/31/1902
+4223	ewingbo01	4/24/1873	USA	OH	New Hampshire	6/20/1947	USA	OH	Wapakoneta	Bob	Ewing	170		R	R	4/19/1902	5/13/1912
+2502	clarkro01	5/11/1874	USA	CT	New Haven	11/1/1925	USA	CT	Bridgeport	Roy	Clark	170	68	L	R	4/19/1902	7/12/1902
+11369	poppbi01	6/7/1877	USA	MO	St. Louis	9/5/1909	USA	MO	St.Louis	Bill	Popp	170			R	4/19/1902	7/21/1902
+13478	stvraji01	6/6/1883	USA	MO	Ralls County	6/12/1937	USA	MT	Butte	Jim	St.Vrain	175	69	R	L	4/20/1902	6/14/1902
+10585	oneilja01	1/10/1873	Ireland		Maam	6/29/1935	USA	PA	Minooka	Jack	O'Neill	165	70	R	R	4/21/1902	10/3/1906
+15396	winhala01	10/23/1881	USA	NY	Brooklyn	9/12/1951	USA	NY	Brooklyn	Lave	Winham	200	71	L	L	4/21/1902	9/21/1903
+5683	haleda01	2/18/1880	USA	MI	Allegan	2/1/1946	USA	MI	Allegan	Dad	Hale	180	70	R	R	4/21/1902	8/16/1902
+2268	castrlu01	//1876	USA	NY	New York	9/24/1941	USA	NY	New York	Luis	Castro		67	R	R	4/23/1902	9/27/1902
+12960	shielch01	12/10/1879	USA	TN	Jackson	8/27/1953	USA	TN	Memphis	Charlie	Shields			L	L	4/23/1902	6/10/1907
+909	bemisha01	2/1/1874	USA	NH	Farmington	5/23/1947	USA	OH	Cleveland	Harry	Bemis	175		R	R	4/23/1902	8/15/1910
+3809	drillle01	5/9/1877	USA	MN	Browerville	7/4/1969	USA	MN	St.Paul	Lew	Drill	186	66	R	R	4/23/1902	10/3/1905
+8682	maherto01	7/6/1870	USA	PA	Philadelphia	8/25/1929	USA	PA	Philadelphia	Tom	Maher					4/24/1902	4/26/1902
+8548	lynchmi01	9/10/1875	USA	MN	St. Paul	4/1/1947	USA	OR	Jennings Lodge	Mike	Lynch	155	70		R	4/24/1902	5/5/1902
+1494	brashro01	1/3/1874	USA	OH	Ashtabula	4/20/1951	USA	CA	Los Angeles	Roy	Brashear	190	71	R	R	4/25/1902	5/23/1903
+3150	curricl01	12/30/1878	CAN	ON	Windsor	7/15/1941	USA	WI	Little Chute	Clarence	Currie	170	70	R	R	4/25/1902	9/21/1903
+3435	deinipe01	10/10/1877	Germany		Wasseralfingen	9/25/1950	USA	MA	Boston	Pep	Deininger	180		L	L	4/26/1902	10/7/1909
+62	adamsjo01	10/28/1877	USA	IL	Cowden	10/8/1952	USA	MO	Bachelor	Joe	Adams	190	72	R	L	4/26/1902	4/26/1902
+14186	thoneja01	12/8/1879	USA	KY	Fort Thomas	10/24/1948	USA	KY	Covington	Jack	Thoney	175	70	R	R	4/26/1902	8/12/1911
+7202	jossad01	4/12/1880	USA	WI	Woodland	4/14/1911	USA	OH	Toledo	Addie	Joss	185	75	R	R	4/26/1902	7/11/1910
+14558	vasbica01	7/19/1880	USA	OH	Scio	12/22/1950	USA	OH	Cadiz	Cal	Vasbinder		74	R	R	4/27/1902	5/7/1902
+14840	wardru01	2/6/1879	USA	OH	New Lexington	1/17/1945	USA	OH	Akron	Rube	Ward	152	67			4/28/1902	8/14/1902
+785	beanjo01	3/18/1874	USA	MA	Boston	2/15/1961	USA	GA	Atlanta	Joe	Bean	138	68	R	R	4/28/1902	6/30/1902
+7431	kennesn01	11/1/1878	USA	OH	Conneaut	8/15/1945	USA	TX	Pasadena	Snapper	Kennedy	165	70	B	R	5/1/1902	5/1/1902
+14107	thomabi01	12/8/1877	USA	PA	Norristown	1/14/1950	USA	PA	Evansburg	Bill	Thomas	190	70	R	R	5/1/1902	9/8/1902
+10110	mullige01	7/4/1880	USA	OH	Toledo	1/7/1944	USA	IN	Wabash	George	Mullin	188	71	R	R	5/4/1902	5/23/1915
+7412	kennaed01	10/17/1877	USA	WV	Charleston	3/22/1912	USA	FL	Grant	Ed	Kenna	180	72		R	5/5/1902	5/9/1902
+15213	williar01	8/26/1877	USA	MA	Somerville	5/16/1941	USA	VA	Arlington	Art	Williams			L	R	5/7/1902	9/1/1902
+10796	oyleran01	5/5/1880	USA	PA	Newville	10/24/1970	USA	PA	E.Pennsboro Twsp.	Andy	Oyler	138		R	R	5/8/1902	7/21/1902
+8517	lundbja01	3/10/1877	USA	MI	Manistee	10/31/1949	USA	MI	Manistee	Jack	Lundbom	187	72	R	R	5/9/1902	9/4/1902
+15066	wheeled01	6/15/1878	USA	MI	Sherman	8/15/1960	USA	TX	Ft.Worth	Ed	Wheeler	160	70	B	R	5/10/1902	9/30/1902
+3872	dunhawi01	1/30/1877	USA	OH	Piketon	1/16/1934	USA	OH	Cleveland	Wiley	Dunham	180	73			5/24/1902	6/21/1902
+2012	callaji01	1/12/1881	USA	PA	Allegheny County	3/9/1968	USA	PA	Carnegie	Jim	Callahan	145	69	R	R	5/25/1902	5/25/1902
+5168	gladefr01	1/25/1876	USA	IA	Dubuque	11/21/1934	USA	NE	Grand Island	Fred	Glade	190	72	R	R	5/27/1902	6/21/1908
+14871	washbli01	6/16/1874	USA	NH	Lyme	3/22/1940	USA	NY	Malone	Libe	Washburn	180	70	B	L	5/30/1902	7/17/1903
+9194	mcdonji02									Jim	McDonald	180	72	R	R	6/2/1902	6/3/1902
+5930	hartlch01	8/22/1880	USA	PA	Philadelphia	7/18/1948	USA	PA	Philadelphia	Chick	Hartley	180	68	R	R	6/4/1902	6/4/1902
+6133	hendrja01	4/9/1875	USA	IL	Joliet	5/13/1943	USA	IL	Chicago	Jack	Hendricks	160		L	L	6/12/1902	9/28/1903
+11384	porteod01	5/24/1877	USA	IN	Borden	5/2/1903	USA	IN	Borden	Odie	Porter				L	6/16/1902	6/16/1902
+1183	blewebo01	6/28/1877	USA	WI	Fond Du Lac	3/17/1958	USA	WA	Sedro Woolley	Bob	Blewett	170	71	L	L	6/17/1902	7/14/1902
+8518	lundgca01	2/16/1880	USA	IL	Marengo	8/21/1934	USA	IL	Marengo	Carl	Lundgren	175	71	R	R	6/19/1902	4/23/1909
+82	adkindo01	8/5/1872	USA	WI	Troy	2/21/1934	USA	NC	Durham	Doc	Adkins	220		R	R	6/24/1902	9/29/1903
+1838	burkejo02	1/27/1877	USA	PA	Hazleton	8/4/1950	USA	NJ	Jersey City	John	Burke			R	R	6/27/1902	7/15/1902
+2004	calhoja01	12/14/1879	USA	PA	Pittsburgh	2/27/1947	USA	OH	Cincinnati	Jack	Calhoun	185	72	R	R	6/27/1902	9/18/1902
+4780	fulleni01	3/30/1878	USA	OH	Toledo	3/1/1937	USA	OH	Toledo	Nig	Fuller	165	71	R	R	7/1/1902	7/12/1902
+14691	wagnehe01	9/23/1880	USA	NY	New York	3/20/1943	USA	NY	New Rochelle	Heinie	Wagner	183	69	R	R	7/1/1902	7/3/1918
+353	arndtha01	2/12/1879	USA	IN	South Bend	3/25/1921	USA	IN	South Bend	Harry	Arndt	165		R	R	7/2/1902	5/25/1907
+15225	willida02	2/7/1881	USA	PA	Scranton	4/25/1918	USA	AR	Hot Springs	Dave	Williams	167		R	L	7/2/1902	8/3/1902
+2479	clarkda03	7/16/1873	USA	CA	San Francisco	7/26/1956	USA	UT	Ogden	Dad	Clark	170	71	L	L	7/3/1902	8/28/1902
+14555	varnedi01	8/9/1880	USA	NH	Dover	4/23/1950	USA	NY	Long Island City	Dike	Varney	165	72	L	L	7/3/1902	7/29/1902
+6863	jacobmi01	12//1877	USA	KY	Louisville	3/21/1949	USA	KY	Louisville	Mike	Jacobs	180	71			7/16/1902	7/22/1902
+8182	lepinpe01	9/5/1876	CAN	PQ	Montreal	12/3/1949	USA	RI	Woonsocket	Pete	LePine	142	70	L	L	7/21/1902	9/20/1902
+7794	krughe01	12/4/1876	USA	CA	San Francisco	1/14/1908	USA	CA	San Francisco	Henry	Krug			R	R	7/26/1902	9/30/1902
+9500	mellobi01	6/6/1874	USA	NJ	Camden	11/5/1940	USA	RI	Bridgeton	Bill	Mellor	190	72	R	R	7/28/1902	8/8/1902
+3146	currasa01	10/30/1874	USA	MA	Dorchester	5/19/1936	USA	MA	Dorchester	Sammy	Curran				L	8/1/1902	8/1/1902
+10999	pearsal01	3/9/1877	USA	PA	Greensboro	10/30/1966	USA	PA	Rochester	Alex	Pearson	160		R	R	8/1/1902	8/6/1903
+6253	hessot01	10/10/1878	Switzerland		Bern	2/25/1926	USA	AZ	Tucson	Otto	Hess	170	73	L	L	8/3/1902	6/13/1915
+1938	butleik01	8/22/1873	USA	MI	Langston	3/17/1948	USA	CA	Oakland	Ike	Butler	175	72		R	8/5/1902	9/29/1902
+13195	smithch02	4/20/1880	USA	OH	Cleveland	1/3/1929	USA	OH	Wickliffe	Charlie	Smith	185	73	R	R	8/6/1902	9/19/1914
+2537	claybi01	11/23/1874	USA	MD	Baltimore	10/12/1917	USA	PA	York	Bill	Clay				R	8/8/1902	8/12/1902
+7261	kaneha01	7/27/1883	USA	AR	Hamburg	9/15/1932	USA	OR	Portland	Harry	Kane			L	L	8/8/1902	5/5/1906
+2485	clarkgi01	3/7/1879	USA	OH	Wooster	5/10/1943	USA	LA	Lake Charles	Ginger	Clark	165	71	R	R	8/11/1902	8/11/1902
+3799	dressbo01	10/4/1878	USA	MA	Newton	7/27/1924	USA	MA	Duxbury	Bob	Dresser			L	L	8/13/1902	8/13/1902
+9093	mccarar01	1/21/1881	USA	MI	Ypsilanti					Arch	McCarthy	160	72		R	8/14/1902	9/18/1902
+1861	burnscb01	5/15/1879	USA	MD	Bay View	6/6/1968	USA	MD	Havre De Grace	C.B.	Burns	175	72	R	R	8/19/1902	8/19/1902
+11012	pedroch01	10/27/1869	Cuba		Havana	/6/1927	USA	IL	Chicago	Chick	Pedroes					8/21/1902	8/22/1902
+3436	deisepa01	4/29/1876	USA	OH	Ripley	4/17/1948	USA	OH	Cincinnati	Pat	Deisel	145	65	R	R	8/21/1902	9/19/1903
+9639	millebi01	5/23/1879	Germany		Bad Schwalbach	9/8/1957	USA	OH	Ashtabula	Bill	Miller	170	74	L	L	8/23/1902	8/23/1902
+6539	hopkimi01	11/1/1872	Scotland		Glasgow	2/5/1952	USA	PA	Pittsburgh	Mike	Hopkins	160	68	R	R	8/24/1902	8/24/1902
+3171	cushmha01	7/10/1877	USA	ME	Rockland	12/27/1920	USA	PA	Emsworth	Harvey	Cushman					8/24/1902	9/5/1902
+7169	jonesto01	1/22/1877	USA	PA	Honesdale	6/21/1923	USA	PA	Danville	Tom	Jones	195	73	R	R	8/25/1902	10/9/1910
+6310	hilde01	//1872								R.E.	Hillebrand					8/29/1902	8/29/1902
+6683	hugheed01	10/5/1880	USA	IL	Chicago	10/14/1927	USA	IL	McHenry	Ed	Hughes	180	73	R	R	8/29/1902	5/31/1906
+8962	mathiji01	11/11/1878	USA	MD	Baltimore	7/4/1911	USA	MD	Baltimore	Jimmy	Mathison				R	8/29/1902	9/29/1902
+4560	fohlle01	11/28/1876	USA	OH	Lowell	10/30/1965	USA	OH	Cleveland	Lee	Fohl	175	70	L	R	8/29/1902	9/27/1903
+8679	maharfr01	12/4/1878	USA	MA	Natick	12/5/1961	USA	MA	Somerville	Frank	Mahar				R	8/29/1902	8/29/1902
+6687	hughejo01	2/21/1880	USA	PA	Pardoe	3/13/1951	USA	OH	Cleveland	Joe	Hughes	165	70	R	R	8/30/1902	8/30/1902
+4219	eversjo01	7/21/1881	USA	NY	Troy	3/28/1947	USA	NY	Albany	Johnny	Evers	125	69	L	R	9/1/1902	10/6/1929
+10200	murraji01	1/16/1878	USA	TX	Galveston	4/25/1945	USA	TX	Galveston	Jim	Murray	180	70	R	L	9/2/1902	7/10/1914
+11184	phelped01	3/3/1879	USA	NY	Albany	1/31/1942	USA	NY	E.Greenbush	Ed	Phelps	185	71	R	R	9/3/1902	8/15/1913
+4026	eganwi01	6/16/1881	USA	MI	Evart	4/13/1951	USA	MI	Detroit	Wish	Egan	185	75	R	R	9/3/1902	7/23/1906
+9370	mcmacsa01	//1872	USA	OH	Cleveland	2/11/1903	USA	OH	Columbus	Sam	McMackin			L	L	9/4/1902	9/21/1902
+5819	hardyal01	//1877	CAN	ON	Toronto	4/22/1940	CAN	ON	Toronto	Alex	Hardy	175	70	R	L	9/4/1902	5/9/1903
+4649	foxhe01	11/18/1873	USA	PA	Scranton	6/6/1927	USA	PA	Scranton	Henry	Fox					9/4/1902	9/4/1902
+1005	berryjo01	9/10/1872	USA	WV	Wheeling	3/13/1961	USA	NJ	Allenwood	Howard	Berry	172	69	B	R	9/4/1902	9/4/1902
+4448	fisheed01	10/31/1876	USA	MI	Wayne	7/24/1951	USA	WA	Spokane	Ed	Fisher	200	74	R	R	9/5/1902	9/5/1902
+6520	hookebu01	8/28/1880	USA	VA	Richmond	7/2/1929	USA	VA	Richmond	Buck	Hooker		66		R	9/5/1902	4/29/1903
+14890	watkied01	6/21/1877	USA	PA	Philadelphia	3/29/1933	USA	AZ	Kelvin	Ed	Watkins					9/6/1902	9/6/1902
+12072	robinja01	7/15/1880	USA	ME	Portland	7/22/1921	USA	GA	Macon	Jack	Robinson				R	9/6/1902	10/3/1902
+12605	schialo01	3/29/1881	USA	MI	Ann Arbor	9/20/1910	USA	MI	Ann Arbor	Lou	Schiappacasse			R	R	9/7/1902	9/8/1902
+12765	sebriji01	3/22/1882	USA	PA	Liberty	12/22/1909	USA	PA	Williamsport	Jimmy	Sebring	180	72	L	R	9/8/1902	8/6/1909
+15460	wolfebi01	1/14/1876	USA	PA						Bill	Wolff					9/10/1902	9/10/1902
+7574	kisinru01	12/13/1876	USA	MI	Adrian	7/17/1941	USA	OH	Huron	Rube	Kisinger	190	72	R	R	9/10/1902	9/24/1903
+7897	lamerpe01	12/27/1873	USA	NY	New York	10/24/1931	USA	NY	Brooklyn	Pete	Lamer	170	70		R	9/10/1902	8/20/1907
+5444	greenpa01	3/20/1875	USA	RI	Providence	10/20/1934	USA	RI	Providence	Paddy	Greene	150	68	R	R	9/10/1902	7/17/1903
+11986	rittele01	9/7/1875	USA	PA	Liverpool	5/27/1952	USA	PA	Harrisburg	Lew	Ritter	150	69	R	R	9/10/1902	8/29/1908
+10175	murphjo03					4/20/1949	USA	MA	Andover	John	Murphy	160				9/10/1902	9/25/1903
+12898	sheana01	5/23/1874	USA	MA	Ware	7/8/1968	USA	MI	Bloomfield Hills	Nap	Shea	155	65	R	R	9/11/1902	9/15/1902
+8400	longre01	9/28/1876	CAN	ON	Burlington	8/11/1929	CAN	ON	Hamilton	Red	Long	190	73	R	R	9/11/1902	9/11/1902
+5640	hackeji01	10/1/1877	USA	IL	Jacksonville	3/28/1961	USA	MI	Douglas	Jim	Hackett	185	74	R	R	9/14/1902	9/27/1903
+13541	starnge01	10/6/1873	USA	IL	Belleville	2/15/1946	USA	IL	Belleville	George	Starnagle	175	71	R	R	9/14/1902	9/14/1902
+11341	polchlo01	3/14/1880	USA	MN	Mankato	8/15/1912	USA	MN	Good Thunder	Lou	Polchow		69			9/14/1902	9/14/1902
+5368	grahape01	3/23/1877	USA	IL	Aledo	7/25/1939	USA	CA	Long Beach	Peaches	Graham	180	69	R	R	9/14/1902	6/18/1912
+14916	weavear01	4/7/1879	USA	KS	Wichita	3/23/1917	USA	CO	Denver	Art	Weaver	160	73		R	9/14/1902	8/8/1908
+3905	durhajo01	10/7/1881	USA	KS	Douglass	5/7/1949	USA	KS	Coffeyville	John	Durham	175	72	R	R	9/15/1902	9/28/1902
+9224	mcfarch02	3/13/1875	USA	IL	White Hall	12/14/1924	USA	TX	Houston	Chappie	McFarland		73		R	9/15/1902	8/7/1906
+14071	terryjo01	11/1/1879	USA	CT	Waterbury	4/27/1933	USA	MO	Kansas City	John	Terry					9/17/1902	7/31/1903
+2587	coaklan01	11/20/1882	USA	RI	Providence	9/27/1963	USA	NY	New York	Andy	Coakley	165	72	L	R	9/17/1902	6/27/1911
+12248	rosser01	3/31/1880	CAN	ON	Toronto	3/28/1950	CAN	ON	Toronto	Ernie	Ross	150	68	L	L	9/17/1902	9/22/1902
+3713	dornegu01	8/18/1876	USA	PA	Chambersburg	5/4/1956	USA	PA	Chambersburg	Gus	Dorner	176	70	R	R	9/17/1902	5/17/1909
+10019	morrija01	5/2/1876	USA	MI	Lansing	10/30/1936	USA	MI	Lansing	Jack	Morrissey	160	70	B	R	9/18/1902	7/6/1903
+12613	schlala01	9/19/1878	USA	OH	Port Washington	6/27/1919	USA	OH	Beach City	Larry	Schlafly	182	71	R	R	9/18/1902	10/10/1914
+7609	klingru01	3/23/1870	USA	MO	St. Louis	3/14/1937	USA	MO	St.Louis	Rudy	Kling	178	70	R	R	9/21/1902	9/26/1902
+11396	postle01	4/12/1875	USA	MI	Woodland	8/21/1944	USA	IL	Chicago	Lew	Post					9/21/1902	9/22/1902
+14617	vickeru01	5/17/1878	CAN	ON	St. Marys	12/9/1958	USA	MI	Belleville	Rube	Vickers	225	74	L	R	9/21/1902	10/2/1909
+400	atzja01	7/1/1879	USA	DC	Washington	5/22/1945	USA	LA	New Orleans	Jake	Atz	150	69	R	R	9/24/1902	9/30/1909
+14723	walkeed01	8/11/1874	England		Cambois	9/29/1947	USA	OH	Akron	Ed	Walker	242	77	L	L	9/26/1902	6/21/1903
+15333	wilsoga01	1/12/1879	USA	MD	Baltimore	5/1/1969	USA	MD	Randallstown	Gary	Wilson	168	67	R	R	9/27/1902	9/29/1902
+15140	whitije01	5/30/1879	USA	PA	Philadelphia	10/28/1937	USA	PA	Philadelphia	Jesse	Whiting					9/27/1902	4/29/1907
+14749	walketo01	8/1/1881	USA	PA	Philadelphia	7/10/1944	USA	NJ	Woodbury Heights	Tom	Walker	170	71	R	R	9/27/1902	9/30/1905
+11558	quinnta01	9/25/1881	USA	CT	Torrington	8/6/1946	USA	CT	Waterbury	Tad	Quinn	210	73		R	9/27/1902	5/14/1903
+15264	williot01	11/2/1877	USA	NJ	Newark	3/19/1937	USA	NE	Omaha	Otto	Williams	165	68	R	R	10/5/1902	6/9/1906
+5783	hanlobi01	6/24/1876	USA	CA	Los Angeles	11/23/1905	USA	CA	Los Angeles	Bill	Hanlon	175	72	R		4/16/1903	4/26/1903
+6581	houseed01	10/12/1869	USA	PA	Pittsburgh	7/3/1924	USA	CA	Los Angeles	Ed	Householder				L	4/17/1903	4/30/1903
+14964	weimeja01	11/29/1873	USA	IA	Ottumwa	6/19/1928	USA	IL	Chicago	Jake	Weimer	175	71	R	L	4/17/1903	5/28/1909
+441	babbch01	2/20/1873	USA	OR	Milwaukie	3/19/1954	USA	OR	Portland	Charlie	Babb	165	70	B	R	4/17/1903	9/2/1905
+12631	schmihe01	6/26/1873	USA	TX	Brownsville	4/23/1926	USA	TN	Nashville	Henry	Schmidt	170	71	R	R	4/17/1903	9/22/1903
+1810	burchfr01	7/14/1879	USA	NJ	Perth Amboy	11/20/1951	USA	NY	Jordan	Fred	Burchell	175	71	R	L	4/17/1903	7/15/1909
+15188	wilheka01	1/26/1874	USA	OH	Wooster	5/22/1936	USA	NY	Rochester	Kaiser	Wilhelm	162	72	R	R	4/18/1903	8/26/1921
+12259	rothfr01	10/11/1878	USA	IL	Chicago	3/27/1955	USA	WI	Burlington	Frank	Roth	160	70	R	R	4/18/1903	10/9/1910
+12460	sandewa01	8/2/1877	USA	TN	Maynardville	8/3/1962	USA	TN	Chattanooga	War	Sanders	160	70	R	L	4/18/1903	7/4/1904
+1684	brownmo01	10/19/1876	USA	IN	Nyesville	2/14/1948	USA	IN	Terre Haute	Mordecai	Brown	175	70	B	R	4/19/1903	9/4/1916
+15480	woodha01	2/10/1881	USA	ME	Waterville	5/18/1955	USA	MD	Bethesda	Harry	Wood	155	70	L	R	4/19/1903	4/27/1903
+14584	veilbu01	8/2/1881	USA	PA	Tyrone	4/16/1931	USA	PA	Altoona	Bucky	Veil	165	70	R	R	4/19/1903	4/23/1904
+7149	jonesos01	10/22/1879	USA	MO	Carter County	6/16/1953	USA	TX	Fort Worth	Oscar	Jones	163	67	R	R	4/20/1903	8/24/1905
+9161	mccrewa01	11/9/1876	USA	IA	Manchester	7/29/1934	USA	OR	Portland	Walt	McCredie	195	74	L	R	4/20/1903	6/27/1903
+6417	hoffmda01	3/2/1880	USA	CT	Canton	3/14/1922	USA	CT	Manchester	Danny	Hoffman	175	69	L	L	4/20/1903	5/25/1911
+13489	stahlja01	4/13/1879	USA	IL	Elkhart	9/18/1922	USA	CA	Monrovia	Jake	Stahl	195	74	R	R	4/20/1903	6/13/1913
+913	bendech01	5/5/1884	USA	MN	Crow Wing County	5/22/1954	USA	PA	Philadelphia	Chief	Bender	185	74	R	R	4/20/1903	7/21/1925
+13681	stonege01	9/3/1876	USA	IA	Lost Nation	1/3/1945	USA	IA	Clinton	George	Stone	175	69	L	L	4/20/1903	10/9/1910
+4258	falkecy01	12/17/1880	USA	IL	Chicago	4/14/1961	USA	CA	San Francisco	Cy	Falkenberg	180	77	R	R	4/21/1903	7/4/1917
+13955	tannele01	10/26/1880	USA	KY	Dayton	2/16/1938	USA	FL	Live Oak	Lee	Tannehill	170	71	R	R	4/22/1903	5/8/1912
+12079	robinra01	3/5/1882	USA	WV	Wellsburg	4/9/1915	USA	CT	Waterbury	Rabbit	Robinson	148	66	R	R	4/22/1903	6/9/1910
+401	aubreha01	7/5/1881	USA	MO	St. Joseph	9/18/1953	USA	MD	Baltimore	Harry	Aubrey	130	67	R	R	4/22/1903	9/27/1903
+6144	henlewe01	10/25/1880	USA	GA	Jasper	11/16/1960	USA	FL	Palatka	Weldon	Henley	175	72	R	R	4/23/1903	6/28/1907
+5043	gessldo01	12/23/1880	USA	PA	Greensburg	12/25/1924	USA	PA	Pittsburgh	Doc	Gessler	180	70	L	R	4/23/1903	10/7/1911
+15173	wiggsji01	9/1/1876	Norway		Trondheim	1/20/1963	USA	OH	Xenia	Jimmy	Wiggs	200	76	B	R	4/23/1903	5/25/1906
+15459	wolfeba01	1/9/1876	USA	PA	Independence	2/27/1953	USA	PA	N.Charleroi	Barney	Wolfe		73	R	R	4/24/1903	5/24/1906
+1043	bevilmo01	2/24/1875	USA	IN	Dublin	1/24/1955	USA	MI	Grand Rapids	Monte	Beville	180	71	L	R	4/24/1903	10/8/1904
+7178	jordadu01	1/5/1880	USA	PA	Pittsburgh	12/23/1972	USA	PA	W.Allegheny	Dutch	Jordan	185	70	R	R	4/25/1903	10/8/1904
+10	abbotfr01	10/22/1874	USA	OH	Versailles	6/11/1935	USA	CA	Los Angeles	Fred	Abbott	180	70	R	R	4/25/1903	9/20/1905
+8871	martijo01	1/1/1876	USA	PA	Hollidaysburg	5/25/1964	USA	PA	Altoona	Joe	Martin	155		L	R	4/28/1903	8/31/1903
+5075	gibsono01	3/11/1877	USA	IL	Peoria	7/7/1959	USA	IL	Peoria	Norwood	Gibson	165	70	R	R	4/29/1903	5/18/1906
+9937	moranch01	3/26/1879	USA	DC	Washington	4/11/1934	USA	DC	Washington	Charles	Moran				R	4/29/1903	6/19/1905
+1595	brodema01	12/1/1877	USA	PA	Lattimer	2/26/1940	USA	PA	Freeland	Matt	Broderick	135		R	R	5/1/1903	5/6/1903
+6325	hillhu02	7/21/1879	USA	GA	Ringgold	9/6/1958	USA	OH	Cincinnati	Hugh	Hill	168		L	R	5/1/1903	10/9/1904
+11409	poundbi01	3/11/1878	USA	NJ	Paterson	7/7/1936	USA	NJ	Paterson	Bill	Pounds	178		R	R	5/2/1903	6/30/1903
+11672	raubto01	12/1/1870	USA	PA	Raubsville	2/16/1949	USA	NJ	Phillipsburg	Tommy	Raub	155	70	R	R	5/3/1903	6/22/1906
+9747	miltola01	5/4/1879	USA	KY	Owensboro	5/15/1942	USA	MO	Hannibal	Larry	Milton				R	5/7/1903	5/7/1903
+3425	deerijo01	6/25/1879	USA	MA	Lynn	2/15/1943	USA	MA	Beverly	John	Deering	180	72	R	R	5/12/1903	9/25/1903
+8450	lovetjo01	5/6/1877	USA	OH	Monday	12/5/1937	USA	OH	Murray City	John	Lovett					5/22/1903	5/26/1903
+5473	greyre01	4/8/1875	USA	OH	Zanesville	11/9/1934	USA	CA	Altadena	Reddy	Grey	175	71	L	L	5/28/1903	5/28/1903
+3877	dunleja01	9/14/1879	USA	NJ	Harrison	4/11/1944	USA	CT	S.Norwalk	Jack	Dunleavy	167	66	L	L	5/30/1903	10/8/1905
+3579	diehler01	10/2/1877	USA	OH	Cincinnati	11/6/1958	USA	FL	Miami	Ernie	Diehl	190	73	R	R	5/31/1903	8/12/1909
+14240	titusjo01	2/21/1876	USA	PA	St. Clair	1/8/1943	USA	PA	St.Clair	John	Titus	156	69	L	L	6/8/1903	8/8/1913
+14793	walshjo02	3/25/1879	USA	PA	Wilkes-Barre	4/25/1947	USA	NY	Jamaica	John	Walsh	162		R	R	6/22/1903	6/22/1903
+6326	hillhu01	6/21/1879	USA	TX	Austin	2/22/1959	USA	TX	Austin	Hunter	Hill			R	R	7/1/1903	9/5/1905
+2798	cookji01	11/10/1879	USA	IL	Dundee	6/17/1949	USA	MO	St.Louis	Jim	Cook	163	69	R	R	7/2/1903	7/13/1903
+3721	doschja01	7/27/1880	USA	NY	Troy	5/27/1971	USA	NJ	Park Ridge	Jack	Doscher	205	73	L	L	7/2/1903	7/30/1908
+12308	rudoldu01	7/10/1882	USA	PA	Natrona	4/17/1967	USA	PA	Natrona	Dutch	Rudolph	160	70	L	L	7/3/1903	7/17/1904
+6677	huged01	7/14/1880	USA	OH	Fayetteville	5/11/1953	USA	OH	Cincinnati	Ed	Hug			R	R	7/6/1903	7/6/1903
+3484	demonle01	9/23/1874	USA	MN	Washington County	3/22/1962	USA	NY	Pelham Manor	Lee	DeMontreville	140	67	R	R	7/10/1903	9/26/1903
+9248	mcgeeco01	8/25/1882	USA	PA	Drifton	7/4/1907	USA	PA	Hazleton	Conny	McGeehan				R	7/15/1903	8/14/1903
+5336	gouzzcl01	//1873	France			9/21/1907	USA	CO	Denver	Claude	Gouzzie	170	69	R	R	7/22/1903	7/22/1903
+6432	hofmaso01	10/29/1882	USA	MO	St. Louis	3/10/1956	USA	MO	St.Louis	Solly	Hofman	160	72	R	R	7/28/1903	8/25/1916
+3219	dalybe01	4/8/1881	USA	NJ	Bayonne	9/3/1952	USA	NJ	Bayonne	Bert	Daly	170	69	R	R	8/7/1903	9/5/1903
+14006	tayloed01	3/23/1877	USA	TX	Palestine	1/31/1912	USA	TX	Dallas	Ed	Taylor				L	8/8/1903	8/8/1903
+11026	peltyba01	9/10/1880	USA	MO	Farmington	5/24/1939	USA	MO	Farmington	Barney	Pelty	175	69	R	R	8/20/1903	8/10/1912
+6499	holmefr01	7/1/1878	USA	IL	Chicago	2/13/1956	USA	IL	Norwood Park	Fred	Holmes	145	67	R	R	8/23/1903	4/24/1904
+7499	killied01	11/12/1876	USA	WI	Racine	7/18/1928	USA	MI	Detroit	Ed	Killian	170	71	L	L	8/25/1903	7/15/1910
+5822	hardyja01	6/23/1877	USA	OH	Cleveland	10/20/1921	USA	OH	Cleveland	Jack	Hardy	185	72	R	R	8/29/1903	6/28/1910
+2127	carisfr01	11/14/1881	USA	WI	Fountain City	4/19/1977	USA	CA	San Gabriel	Fred	Carisch	174		R	R	8/31/1903	7/4/1923
+14159	thompgu01	6/22/1877	USA	IA	Humboldt	3/28/1958	USA	MT	Kalispell	Gus	Thompson	185	74			8/31/1903	9/21/1906
+13704	stovaje01	7/24/1875	USA	MO	Leeds	7/12/1955	USA	CA	San Diego	Jesse	Stovall	175	72	L	R	8/31/1903	10/7/1904
+15701	zalusja01	6/22/1879	USA	MN	Minneapolis	8/11/1935	USA	MN	Minneapolis	Jack	Zalusky	172		R	R	9/4/1903	9/29/1903
+11522	puttmam01	9/9/1880	USA	OH	Cincinnati	6/21/1936	USA	NY	Jamaica	Ambrose	Puttmann	185	76		L	9/4/1903	5/10/1906
+12863	shannow01	12/22/1879	USA	NE	Omaha	4/10/1918	USA	NE	Omaha	Owen	Shannon			R	R	9/6/1903	8/24/1907
+8848	marshjo01	2/19/1876	USA	MN	Audubon	9/11/1931	USA	CA	Santa Monica	Joe	Marshall	170	68	R	R	9/7/1903	8/17/1906
+11173	pfiesja01	5/24/1878	USA	OH	Cincinnati	9/3/1953	USA	OH	Loveland	Jack	Pfiester	180	71	R	L	9/8/1903	5/10/1911
+14478	urylo01	//1877	USA	KS	Fort Scott	3/4/1918	USA	MO	Kansas City	Lon	Ury	168	72		R	9/9/1903	9/12/1903
+9938	moranch02	2/22/1878	USA	TN	Nashville	6/14/1949	USA	KY	Horse Cave	Charlie	Moran	180	68	R	R	9/9/1903	10/4/1908
+14089	thatcgr01	2/23/1877	USA	PA	Maytown	3/17/1936	USA	PA	Lancaster	Grant	Thatcher	180			R	9/9/1903	4/24/1904
+2497	clarkpe01	3/20/1883	USA	OH	Union City	6/8/1965	USA	WI	Milwaukee	Pep	Clark	175		R	R	9/11/1903	9/28/1903
+1868	burnsja01	5/13/1880	USA	PA	Avoca	6/24/1957	USA	CT	Waterford	Jack	Burns	160	70	R	R	9/11/1903	4/22/1904
+11281	pinnaed01	10/22/1879	CAN	ON	Walpole Island	12/12/1944	CAN	ON	Walpole Island	Ed	Pinnance	180	73	L	R	9/14/1903	9/29/1903
+235	amesre01	8/2/1882	USA	OH	Warren	10/8/1936	USA	OH	Warren	Red	Ames	185		B	R	9/14/1903	9/25/1919
+694	bartlbi01	1/8/1885	USA	OH	Cincinnati	5/17/1965	USA	OH	Cincinnati	Bill	Bartley	190		R	R	9/15/1903	9/20/1907
+6807	iottha01	7/7/1876	USA	ME	Houlton	2/17/1941	USA	ME	Island Falls	Happy	Iott	175	70	R	R	9/16/1903	9/18/1903
+1014	berteha01	5/10/1872	USA	KY	Covington	5/6/1952	USA	CA	Los Angeles	Harry	Berte				R	9/17/1903	9/22/1903
+1369	bowcobe01	10/28/1879	USA	MA	Fall River	6/16/1961	USA	MA	Taunton	Benny	Bowcock	150	67	R	R	9/18/1903	9/28/1903
+9968	morgacy01	11/10/1878	USA	OH	Pomeroy	6/28/1962	USA	WV	Wheeling	Cy	Morgan	175	72	R	R	9/18/1903	9/1/1913
+10742	osteech01	2/24/1877	USA	NC	Hendersonville	12/14/1962	USA	SC	Greenville	Champ	Osteen	150	68	L	R	9/18/1903	5/3/1909
+4249	fairbji01	3/17/1881	USA	NY	Deansboro	12/27/1955	USA	NY	Utica	Jim	Fairbank	175		R	R	9/18/1903	10/8/1904
+10382	nichosi01	7/18/1882	USA	MD	Germantown	3/12/1911	USA	MD	Baltimore	Simon	Nicholls	165		L	R	9/18/1903	4/25/1910
+13887	swandpi01	7/4/1880	USA	OH	Portsmouth	10/24/1944	USA	MA	Springfield	Pinky	Swander	180	69	L	L	9/18/1903	4/14/1904
+3401	dearmch01	2/13/1877	USA	OH	Okeana	12/17/1933	USA	OH	Morning Sun	Charlie	DeArmond	165	70	R	R	9/19/1903	9/27/1903
+2926	covenja01	6/10/1880	USA	MA	South Natick	3/28/1961	USA	MA	Wayland	Jack	Coveney	175	69	R	R	9/19/1903	9/27/1903
+11696	reagari01	6/5/1878	USA	IL	Lincoln	6/8/1953	USA	MO	Kansas City	Rip	Ragan	170	71	R	R	9/19/1903	9/27/1903
+8342	loberha01	10/18/1881	USA	DE	Wilmington	9/14/1968	USA	PA	Philadelphia	Hans	Lobert	170	69	R	R	9/21/1903	10/3/1917
+3163	curtige01	5/5/1883	USA	WV	Bethany	1/1/1919	USA	OH	Steubenville	Gene	Curtis	220	75	R	R	9/21/1903	9/26/1903
+9955	morenle01	8/4/1883	USA	PA	Pittsburgh	11/2/1966	USA	PA	Pittsburgh	Lew	Moren	150	71	R	R	9/21/1903	9/23/1910
+1034	bettsha01	6/19/1881	USA	OH	Alliance	5/22/1946	USA	TX	San Antonio	Harry	Betts	200	70	R	R	9/22/1903	5/13/1913
+12535	scanldo01	3/7/1881	USA	NY	Syracuse	5/29/1949	USA	NY	Brooklyn	Doc	Scanlan	165	68	L	R	9/24/1903	9/1/1911
+6786	hynespa01	3/12/1884	USA	MO	St. Louis	3/12/1907	USA	MO	St.Louis	Pat	Hynes				L	9/27/1903	10/9/1904
+9984	moriage02	7/7/1885	USA	IL	Chicago	4/8/1964	USA	FL	Miami	George	Moriarty	185	72	R	R	9/27/1903	5/4/1916
+7463	kerwida01	7/9/1874	USA	PA	Philadelphia	7/13/1960	USA	PA	Philadelphia	Dan	Kerwin	164	69	L	L	9/27/1903	9/27/1903
+11541	quicked01	12//1881	USA	MD	Baltimore	6/19/1913	USA	CO	Rocky Ford	Eddie	Quick		71		R	9/28/1903	9/28/1903
+1185	blissel01	3/9/1875	USA	PA	Penfield	3/18/1962	USA	PA	Bradford	Elmer	Bliss	180	72	L	R	9/28/1903	5/11/1904
+6340	hilleed01	6/17/1879	USA	OH	Cleveland	11/14/1956	USA	OH	Cleveland	Ed	Hilley	170		R	R	9/29/1903	9/29/1903
+7249	kalahjo01	9/30/1878	USA	PA	Philadelphia	6/20/1952	USA	PA	Philadelphia	John	Kalahan	165	72	R	R	9/29/1903	9/29/1903
+2088	canneri01	1/23/1880	USA	ME	South Bridgton	8/26/1948	USA	ME	Bridgton	Rip	Cannell	180		L	R	4/14/1904	10/7/1905
+6423	hoffmiz01	1/5/1875	USA	NJ	Bridgeport	11/13/1942	USA	PA	Philadelphia	Izzy	Hoffman	160	69	L	L	4/14/1904	10/5/1907
+10566	olearch01	10/15/1882	USA	IL	Chicago	1/6/1941	USA	IL	Chicago	Charley	O'Leary	165	67	R	R	4/14/1904	9/30/1934
+3538	devliar01	10/16/1879	USA	DC	Washington	9/18/1948	USA	NJ	Jersey City	Art	Devlin	175	72	R	R	4/14/1904	8/25/1913
+15508	woodrsa01	12/27/1876	USA	OH	Chilo	7/22/1937	USA	OH	Cincinnati	Sam	Woodruff	160	69	R	R	4/14/1904	7/17/1910
+9150	mccormo01	2/28/1881	USA	PA	Philadelphia	7/9/1962	USA	PA	Lewisburg	Moose	McCormick	180	71	L	L	4/14/1904	10/4/1913
+9147	mccormi01	5//1883	Scotland			11/18/1953	USA	NJ	Jersey City	Mike	McCormick	155	63	R	R	4/14/1904	8/31/1904
+3868	dundogu01	7/10/1874	USA	OH	Columbus	9/1/1940	USA	PA	Pittsburgh	Gus	Dundon	165	70	R	R	4/14/1904	10/7/1906
+8511	lumleha01	9/29/1880	USA	PA	Forest City	5/22/1938	USA	NY	Binghamton	Harry	Lumley	183	70	L	L	4/14/1904	5/19/1910
+1952	byersbi01	10/3/1877	USA	IN	Bridgeton	9/8/1948	USA	MD	Baltimore	Bill	Byers		67	L	R	4/15/1904	6/4/1904
+2883	corrifr01	11/25/1880	USA	RI	Newport	2/21/1941	USA	NY	Syracuse	Frank	Corridon	170	72	B	R	4/15/1904	9/7/1910
+1424	brackjo01	12/24/1880	USA	PA	Harrisburg	3/20/1953	USA	PA	Harrisburg	John	Brackenridge		72	R	R	4/15/1904	5/30/1904
+12865	shannsp01	2/7/1878	USA	PA	Pittsburgh	5/16/1940	USA	MN	Minneapolis	Spike	Shannon	180	71	B	R	4/15/1904	9/30/1908
+6678	huggimi01	3/27/1878	USA	OH	Cincinnati	9/25/1929	USA	NY	New York	Miller	Huggins	140		B	R	4/15/1904	9/13/1916
+687	barryto01	4/10/1879	USA	MO	St. Louis	6/4/1946	USA	MO	St.Louis	Tom	Barry	155	69		R	4/15/1904	4/15/1904
+8441	loudech01	5/21/1881	USA	MD	Baltimore	10/31/1933	USA	MD	Baltimore	Charlie	Loudenslager	186	69		R	4/15/1904	4/15/1904
+14457	unglabo01	7/31/1881	USA	MD	Baltimore	11/29/1916	USA	MD	Baltimore	Bob	Unglaub	178	71	R	R	4/15/1904	9/17/1910
+8845	marshdo01	9/22/1875	USA	PA	Butler	12/11/1959	USA	IL	Clinton	Doc	Marshall	185	72	R	R	4/15/1904	10/7/1909
+4062	elliocl01	11/17/1876	USA	WI	Pardeeville	6/21/1923	USA	WI	Pardeeville	Claude	Elliott	190	72	R	R	4/16/1904	10/7/1905
+6275	hickeja01	11/3/1881	USA	MN	Minneapolis	12/28/1941	USA	WA	Seattle	Jack	Hickey	170	70	R	L	4/16/1904	5/4/1904
+10590	oneilpe01	8/30/1879	USA	IN	Anderson	8/2/1955	USA	IN	Anderson	Peaches	O'Neill	165	71	R	R	4/16/1904	8/4/1904
+10624	odwelfr01	9/25/1872	USA	NY	Downsville	8/19/1948	USA	NY	Downsville	Fred	Odwell	160		L	R	4/16/1904	9/12/1907
+4460	fisheto01	11/1/1880	USA	IN	Anderson	9/3/1972	USA	IN	Anderson	Tom	Fisher	185		R	R	4/17/1904	10/3/1904
+5696	hallbo01	12/20/1878	USA	MD	Baltimore	12/1/1950	USA	MA	Wellesley	Bob	Hall	158	70		R	4/18/1904	10/7/1905
+2236	cassijo02	2/8/1883	USA	PA	Chester	3/25/1906	USA	PA	Chester	Joe	Cassidy			R	R	4/18/1904	10/7/1905
+13532	stantto01	10/25/1874	USA	MO	St. Louis	1/17/1957	USA	MO	St.Louis	Tom	Stanton	175	70	B	R	4/19/1904	4/19/1904
+3707	doranto01	12/2/1880	USA	NY	Westchester County	6/22/1910	USA	NY	New York	Tom	Doran	152	71	L	R	4/19/1904	8/11/1906
+14520	vanbude01	12/14/1870	USA	IL	LaSalle County	6/29/1957	USA	OR	Portland	Deacon	Van Buren	175	70	L	R	4/21/1904	5/15/1904
+15378	wiltsho01	9/7/1879	USA	NY	Hamilton	1/21/1959	USA	NY	Long Beach	Hooks	Wiltse	185	72	R	L	4/21/1904	9/25/1915
+13223	smithfr03	10/28/1879	USA	PA	Pittsburgh	11/3/1952	USA	PA	Pittsburgh	Frank	Smith	194		R	R	4/22/1904	9/30/1915
+8529	lushjo01	10/8/1885	USA	PA	Williamsport	11/18/1946	USA	CA	Beverly Hills	Johnny	Lush	165		L	L	4/22/1904	10/13/1910
+1004	berrycl01	2/14/1880	USA	IN	Losantville	2/1/1974	USA	IN	Richmond	Claude	Berry	165	67	R	R	4/22/1904	10/3/1915
+2039	camniho01	8/22/1881	USA	KY	Covington	3/2/1960	USA	KY	Louisville	Howie	Camnitz	169	69	R	R	4/22/1904	5/3/1915
+13737	stricel01	8/29/1876	USA	KS	Glasco	6/7/1964	USA	CA	Santa Cruz	Elmer	Stricklett	140	66	R	R	4/22/1904	9/24/1907
+8930	masonde01	10/29/1883	USA	NY	Newfane	12/31/1962	USA	FL	Winter Park	Del	Mason	160	72	R	R	4/23/1904	8/16/1907
+12614	schlead01	1/12/1878	USA	OH	Cincinnati	1/24/1958	USA	WV	Huntington	Admiral	Schlei	179		R	R	4/24/1904	4/24/1911
+3731	doughto01	5/30/1881	USA	IL	Chicago	11/6/1953	USA	WI	Milwaukee	Tom	Dougherty	195	71.5	L	R	4/24/1904	4/24/1904
+3671	donahsh01	6/29/1877	USA	NY	Oswego	8/28/1947	USA	NY	New York	She	Donahue		69	R	R	4/29/1904	10/3/1904
+6869	jacobbe01	6/5/1881	USA	WI	Port Washington	1/31/1933	USA	IL	Decatur	Beany	Jacobson	170	72	L	L	4/30/1904	6/24/1907
+12710	schwabi02	4/22/1884	USA	OH	Cleveland	8/29/1961	USA	TN	Nashville	Bill	Schwartz	185	74	R	R	5/2/1904	6/16/1904
+7594	kleinre01	7/20/1877	USA	WI	Milwaukee	10/9/1929	USA	NY	New York	Red	Kleinow	165	70	R	R	5/3/1904	9/6/1911
+10579	oneilbi01	1/22/1880	CAN	NB	St. John	7/20/1920	USA	NY	Woodhaven	Bill	O'Neill	175	71	B	R	5/7/1904	10/7/1906
+14785	walshed01	5/14/1881	USA	PA	Plains	5/26/1959	USA	FL	Pompano Beach	Ed	Walsh	193	73	R	R	5/7/1904	9/11/1917
+10301	needhto01	4/17/1879	USA	OH	Steubenville	12/13/1926	USA	OH	Steubenville	Tom	Needham	180	70	R	R	5/12/1904	7/8/1914
+4367	ferrycy01	9/27/1878	USA	NY	Hudson	9/27/1938	USA	MA	Pittsfield	Cy	Ferry	170	73	R	R	5/12/1904	8/4/1905
+691	barthjo01	4/14/1882	USA	PA	Philadelphia	11/4/1946	USA	PA	Fairview Village	John	Barthold	180	71	B	R	5/17/1904	6/8/1904
+3697	donovmi01	10/18/1881	USA	NY	Brooklyn	2/3/1938	USA	NY	New York	Mike	Donovan	155	68	R	R	5/29/1904	10/8/1908
+10112	mulliji01	10/16/1883	USA	NY	New York	1/24/1925	USA	PA	Philadelphia	Jim	Mullin	173	70	R	R	6/1/1904	7/8/1905
+2680	collior01	4/27/1880	USA	IN	Lafayette	12/13/1949	USA	FL	Ft.Lauderdale	Orth	Collins	150	72	L	R	6/1/1904	7/27/1909
+10457	noonape01	11/24/1881	USA	MA	West Stockbridge	2/11/1965	USA	MA	Great Barrington	Pete	Noonan	180	72	R	R	6/20/1904	10/6/1907
+8549	lynchmi02	6/28/1880	USA	MA	Holyoke	4/2/1927	USA	NY	Garrison	Mike	Lynch	170	74	R	R	6/21/1904	9/25/1907
+1718	brucelo01	1/16/1877	USA	NY	St. Regis	2/9/1968	USA	NY	Ilion	Lou	Bruce	145	65	L	R	6/22/1904	10/10/1904
+15107	whiteja01	1/19/1878	USA	IN	Traders Point	9/30/1963	USA	IN	Indianapolis	Jack	White		66	R	R	6/26/1904	6/26/1904
+8658	mageesh01	8/6/1884	USA	PA	Clarendon	3/13/1929	USA	PA	Philadelphia	Sherry	Magee	179	71	R	R	6/29/1904	9/27/1919
+2531	clarkwa01	11/3/1878	USA	MA	Cambridge	10/10/1946	USA	MA	Cambridge	Walter	Clarkson	150	70	R	R	7/2/1904	4/28/1908
+13515	stankto01	3/20/1882	USA	MA	Waltham	6/13/1958	USA	MA	Waltham	Tom	Stankard	190	72	R	R	7/2/1904	7/26/1904
+13703	stovage01	11/23/1877	USA	MO	Leeds	11/5/1951	USA	IA	Burlington	George	Stovall	180	74	R	R	7/4/1904	10/3/1915
+9417	mcniced01	1/10/1879	USA	OH	Martins Ferry	11/1/1952	USA	OH	Salineville	Ed	McNichol	170	65	R	R	7/9/1904	10/3/1904
+453	baderar01	9/21/1886	USA	MO	St. Louis	4/5/1957	USA	MO	St.Louis	Art	Bader	160	69	R	R	8/2/1904	8/3/1904
+2234	cassaha01	7/20/1880	USA	IL	Bellflower	4/19/1969	USA	CA	Fresno	Harry	Cassady	145	68	L	L	8/8/1904	5/28/1905
+9058	mcaulge01	2/28/1872	USA	MA	Randolph	4/29/1953	USA	MA	Randolph	Gene	McAuliffe	180	73	R	R	8/17/1904	8/17/1904
+2150	carnebi01	3/25/1874	USA	MN	St. Paul	7/31/1938	USA	MN	Hopkins	Bill	Carney		70	B	R	8/22/1904	8/22/1904
+13191	smithbu01	8/20/1880	USA	WV	Plum	5/1/1928	USA	WV	Charleston	Bull	Smith	180	72	R	R	8/30/1904	8/30/1911
+7736	koukajo01	3/3/1880	Austria-Hungary			1/2/1947	USA	IL	Chicago	Joe	Koukalik	160	68			9/1/1904	9/1/1904
+12085	robitch01	3/2/1879	USA	NY	Whitehall	7/30/1947	USA	NY	Waterford	Chick	Robitaille	150	68	R	R	9/2/1904	8/29/1905
+5542	grother01	12/24/1884	USA	WI	Cedarburg	5/23/1950	USA	WI	Milwaukee	Ernie	Groth	175	71	R	R	9/6/1904	10/7/1904
+325	archeji01	5/13/1883	Ireland		Dublin	3/29/1958	USA	WI	Milwaukee	Jimmy	Archer	168	70	R	R	9/6/1904	9/2/1918
+13926	swindch01	10/26/1878	USA	IL	Rockford	7/22/1940	USA	OR	Portland	Charlie	Swindells	180		R	R	9/7/1904	9/22/1904
+6878	jaegech01	4/17/1875	USA	IL	Ottawa	9/27/1942	USA	IL	Ottawa	Charlie	Jaeger			R	R	9/9/1904	10/7/1904
+2001	caldwra01	1/18/1884	USA	PA	Philadelphia	8/5/1969	USA	NJ	W.Trenton	Ralph	Caldwell	155	69	L	L	9/10/1904	7/5/1905
+10741	ostdiha01	4/12/1881	USA	IA	Ottumwa	5/6/1956	USA	MN	Minneapolis	Harry	Ostdiek	185	71	R	R	9/10/1904	10/7/1908
+11787	reisldo01	7/25/1874	USA	OH	Martins Ferry	3/4/1955	USA	OK	Tulsa	Doc	Reisling	180	70	R	R	9/10/1904	10/5/1910
+717	batchem01	1/21/1880	USA	NY	Brooklyn	8/23/1926	USA	NY	Brooklyn	Emil	Batch	170	67	R	R	9/13/1904	10/5/1907
+13637	stewajo01	3/11/1879	USA	NC	Monroe	2/9/1913	USA	OH	Youngstown	Joe	Stewart	175	71		R	9/13/1904	6/11/1904
+13802	sullian01	8/30/1884	USA	MA	Southborough	2/14/1920	USA	MA	Framingham	Andy	Sullivan				R	9/13/1904	9/13/1904
+13726	streega01	9/30/1882	USA	AL	Huntsville	2/6/1951	USA	MO	Joplin	Gabby	Street	180	71	R	R	9/13/1904	9/20/1931
+10564	oharaki01	12/19/1875	USA	PA	Wilkes-Barre	12/1/1954	USA	OH	Canton	Kid	O'Hara	152		B	R	9/15/1904	9/22/1904
+3901	durhabu01	6/27/1877	USA	PA	New Oxford	6/28/1960	USA	KS	Bentley	Bull	Durham		70	R	R	9/15/1904	5/19/1909
+12254	rossmcl01	6/17/1881	USA	NY	Philmont	1/16/1928	USA	NY	Poughkeepsie	Claude	Rossman	188	72	L	L	9/16/1904	9/3/1909
+9116	mccheha01	6/1/1880	USA	PA	Pittsburgh	8/11/1960	USA	PA	Pittsburgh	Harry	McChesney	165	69	R	R	9/17/1904	10/9/1904
+10147	murchsi01	11/21/1880	USA	ME	Castine	6/6/1939	USA	NH	Exeter	Simmy	Murch	220	76	R	R	9/20/1904	5/22/1908
+8010	lautebi01	6/9/1879				4/19/1965	USA	NY	Andover	Bill	Lauterborn			R	R	9/20/1904	8/28/1905
+14483	vahreha01	2/13/1885	USA	MO	St. Louis	10/10/1943	USA	MO	St.Louis	Harry	Vahrenhorst	175	73	R	R	9/21/1904	9/21/1904
+12680	schulfr01	9/17/1882	USA	NY	Cohocton	10/2/1949	USA	CA	Oakland	Frank	Schulte	170	71	L	R	9/21/1904	9/2/1918
+9259	mcginji01	10/2/1878	USA	MA	Groveland	9/20/1961	USA	MA	Haverhill	Jim	McGinley	165		R	R	9/22/1904	5/5/1905
+11688	raymobu01	2/24/1882	USA	IL	Chicago	9/7/1912	USA	IL	Chicago	Bugs	Raymond	180	70	R	R	9/23/1904	6/16/1911
+11596	rafteja01	2/20/1875	USA	NY	Troy	1/5/1943	USA	NY	Troy	Jack	Rafter	165	68	R	R	9/24/1904	9/24/1904
+14631	vinsoru01	3/20/1879	USA	DE	Dover	10/12/1951	USA	PA	Chester	Rube	Vinson	168	69			9/27/1904	5/7/1906
+10431	nillra01	7/14/1881	USA	IN	Fort Wayne	5/24/1962	USA	IN	Fort Wayne	Rabbit	Nill	160	67	R	R	9/27/1904	6/22/1908
+315	applefr01	5/9/1879	USA	PA	Williamsport	4/21/1968	USA	PA	Williamsport	Fred	Applegate	180	74	R	R	9/30/1904	10/10/1904
+11517	purneje01	5/11/1881	USA	PA	Glenside	7/4/1966	USA	PA	Philadelphia	Jesse	Purnell	140		L	R	10/1/1904	10/8/1904
+11795	remenbu01	3/14/1878	USA	PA	Philadelphia	9/23/1922	USA	PA	Philadelphia	Butch	Rementer				R	10/8/1904	10/8/1904
+8591	macgaed01	1/10/1878	USA	NY	Buffalo	5/26/1924	USA	NY	Albany	Ed	MacGamwell			L	L	4/14/1905	4/18/1905
+9309	mcintha01	1/11/1879	USA	OH	Dayton	1/9/1949	USA	FL	Daytona Beach	Harry	McIntire	180	71	R	R	4/14/1905	4/22/1913
+2585	clymeot01	1/27/1876	USA	PA	Pine Grove	2/27/1926	USA	MN	St.Paul	Otis	Clymer	180	71	B	R	4/14/1905	8/8/1913
+7643	knighjo02	10/6/1885	USA	PA	Philadelphia	12/19/1965	USA	CA	Walnut Creek	John	Knight	180		R	R	4/14/1905	10/4/1913
+8227	lewisph01	10/7/1883	USA	PA	Pittsburgh	8/8/1959	USA	GA	Port Wentworth	Phil	Lewis	195	72	R	R	4/14/1905	9/29/1908
+2361	chaseha01	2/13/1883	USA	CA	Los Gatos	5/18/1947	USA	CA	Colusa	Hal	Chase	175	72	R	L	4/14/1905	9/25/1919
+2462	clancbi01	4/12/1879	USA	NY	Redfield	2/10/1948	USA	NY	Oriskany	Bill	Clancy	180	74	R	R	4/14/1905	6/28/1905
+2372	chechch01	4/27/1878	USA	WI	Madison	1/31/1938	USA	CA	Los Angeles	Charlie	Chech	190		R	R	4/14/1905	7/19/1909
+3701	doolami01	5/7/1880	USA	PA	Ashland	11/1/1951	USA	FL	Orlando	Mickey	Doolan	170		R	R	4/14/1905	9/2/1918
+15663	youngir01	7/21/1877	USA	ME	Columbia Falls	1/14/1935	USA	ME	Brewer	Irv	Young	170	70	L	L	4/14/1905	8/25/1911
+12872	sharpbu01	8/6/1881	USA	PA	West Chester	5/31/1916	USA	GA	Haddock	Bud	Sharpe			L	R	4/14/1905	9/24/1910
+698	bartoha01	1/20/1875	USA	PA	Chester	1/25/1955	USA	PA	Upland	Harry	Barton	155		B	R	4/15/1905	9/26/1905
+6599	howarde01	12/24/1877	USA	IL	Kenney	12/24/1956	USA	WA	Seattle	Del	Howard	180	72	L	R	4/15/1905	10/6/1909
+11169	pfeffbi01	3/31/1882	USA	IL	Champaign	12/19/1954	USA	IL	Kankakee	Big Jeff	Pfeffer	185	73	R	R	4/15/1905	10/9/1911
+5840	harledi02	8/18/1874	USA	OH	Springfield	5/16/1961	USA	OH	Springfield	Dick	Harley			R	R	4/15/1905	8/18/1905
+1554	bridwal01	1/4/1884	USA	OH	Friendship	1/23/1969	USA	OH	Portsmouth	Al	Bridwell	170	69	L	R	4/16/1905	9/23/1915
+10775	overaor01	2/2/1881	USA	CA	Farmersville	7/14/1947	USA	CA	Fresno	Orval	Overall	214	74	B	R	4/16/1905	7/29/1913
+1760	buchaji01	7/1/1876	USA	VA	Chatham Hill	6/15/1949	USA	NE	Norfolk	Jim	Buchanan	165	70	L	R	4/16/1905	10/7/1905
+2051	campbbi01	11/5/1873	USA	PA	Pittsburgh	10/6/1957	USA	OH	Cincinnati	Billy	Campbell	165	70	L	L	4/17/1905	8/23/1909
+1160	blankcl01	4/10/1880	USA	GA	Columbus	4/26/1956	USA	CA	Oakland	Cliff	Blankenship	165		R	R	4/17/1905	8/18/1909
+12877	shaugsh01	4/8/1883	USA	IL	Amboy	5/15/1969	CAN	PQ	Montreal	Shag	Shaughnessy	185		R	R	4/17/1905	6/20/1908
+13821	sullijo02	2/16/1873	USA	IL		6/5/1924	USA	MN	St.Paul	John	Sullivan	170	70	R	R	4/19/1905	9/5/1908
+6246	hershfr01	12/13/1877	USA	NY	Gorham	12/15/1949	USA	NY	Canandaigua	Frank	Hershey	175			R	4/20/1905	4/20/1905
+9273	mcgovar01	2/27/1882	CAN	NB	St. John	11/14/1915	USA	MA	Danvers	Art	McGovern	160	70	R	R	4/21/1905	10/3/1905
+8431	lordbr01	9/21/1883	USA	PA	Upland	11/13/1964	USA	MD	Annapolis	Bris	Lord	185	69	R	R	4/21/1905	10/3/1913
+13811	sullide02	9/28/1882	USA	WI	Hillsboro	6/2/1956	USA	CA	W.Los Angeles	Denny	Sullivan		70	L	R	4/22/1905	9/2/1909
+7679	koehlbe01	1/26/1877	Germany		Schoerndorn	5/21/1961	USA	IN	South Bend	Ben	Koehler	175		R	R	4/23/1905	10/7/1906
+14099	thielja01	5/20/1879	USA	MN	St. Cloud	1/28/1928	USA	MN	Minneapolis	Jake	Thielman	175	71	R	R	4/23/1905	8/9/1908
+6333	hilleho01	10/10/1879	USA	IL	Freeport	1/20/1974	USA	CA	Elsinore	Homer	Hillebrand	165	68	R	L	4/24/1905	4/24/1908
+8713	malaych01	6/13/1879	USA	NY	Brooklyn	9/18/1949	USA	NY	Brooklyn	Charlie	Malay	175		B	R	4/24/1905	10/7/1905
+14873	washebu01	10/11/1882	USA	OH	Akron	12/8/1955	USA	OH	Akron	Buck	Washer	175	70	R	R	4/25/1905	4/25/1905
+5513	grimsmy01	11/30/1875	USA	NY	St. Johnsville	12/11/1936	USA	NY	Canajoharie	Myron	Grimshaw	173	73	B	R	4/25/1905	10/5/1907
+6442	hoggbi01	9/11/1881	USA	MI	Port Huron	12/8/1909	USA	LA	New Orleans	Bill	Hogg	200	72	R	R	4/25/1905	10/2/1908
+2520	clarkni01	12/15/1882	CAN	ON	Amherstburg	6/15/1949	USA	MI	River Rouge	Nig	Clarke	165	68	L	R	4/26/1905	4/24/1920
+7650	knollpu01	10/7/1881	USA	IN	Evansville	2/8/1960	USA	IN	Evansville	Punch	Knoll	170		R	R	4/27/1905	10/4/1905
+13543	starrch01	8/30/1878	USA	OH	Pike County	10/18/1937	USA	CA	Pasadena	Charlie	Starr	165			R	4/29/1905	8/19/1909
+14121	thomafr01	5/23/1881	USA	MO	Faucett	3/18/1970	USA	MO	St.Joseph	Frosty	Thomas	185	72	R	R	5/1/1905	5/6/1905
+7238	kahlni01	4/10/1879	USA	IL	Coulterville	7/13/1959	USA	IL	Sparta	Nick	Kahl	185	69	R	R	5/2/1905	8/2/1905
+12097	rockeik01	11/3/1876	USA	NE	Omaha	2/21/1927	USA	CA	San Diego	Ike	Rockenfield	150	67	R	R	5/5/1905	10/7/1906
+4586	fordge01	4/16/1881	CAN	NS	Milton	8/23/1973	USA	FL	Dunedin	Gene	Ford	170	72	R	R	5/5/1905	7/1/1905
+11823	reulbed01	12/1/1882	USA	MI	Detroit	7/17/1961	USA	NY	Glens Falls	Ed	Reulbach	190	73	R	R	5/16/1905	7/13/1917
+9094	mccarbi01	2/14/1886	USA	MA	Boston	2/4/1928	USA	DC	Washington	Bill	McCarthy				R	6/5/1905	9/14/1907
+11918	rickebr01	12/20/1881	USA	OH	Flat	12/9/1965	USA	MO	Columbia	Branch	Rickey	175	69	L	R	6/16/1905	8/25/1914
+12263	rothgcl01	1/1/1880	USA	IL	Milford	7/6/1944	USA	WI	Manitowoc	Claude	Rothgeb	200	72	B		6/17/1905	9/30/1905
+1638	brownbu01	8/31/1881	USA	IA	Boone	2/9/1914	USA	IA	Sioux City	Buster	Brown	180	72	R	R	6/22/1905	4/26/1913
+1722	bruckan01	1/1/1882	USA	PA	Pittsburgh	1/12/1970	USA	PA	McKeesport	Andy	Bruckmiller	175	71	R	R	6/26/1905	6/26/1905
+5366	grahamo01	11/12/1877	USA	NC	Fayetteville	8/25/1965	USA	MN	Chisholm	Moonlight	Graham	170		L	R	6/29/1905	6/29/1905
+4262	falloch01	3/7/1881	USA	NY	New York	6/10/1960	USA	NY	Kings Park	Charlie	Fallon		66	R	R	6/30/1905	6/30/1905
+5072	gibsoge01	7/22/1880	CAN	ON	London	1/25/1967	CAN	ON	London	George	Gibson	190		R	R	7/2/1905	8/20/1918
+8277	lindsch01	7/24/1878	USA	PA	Moon Township	1/25/1941	USA	OH	Cleveland	Chris	Lindsay	190	72	R	R	7/6/1905	10/7/1906
+7230	justiwa01	8/17/1883	USA	IN	Moores Hill	10/4/1941	USA	IN	Greendale	Walt	Justis	195		R	R	7/12/1905	8/1/1905
+66	adamsri01	12/23/1878	USA	TX	Paris	3/10/1955	USA	TX	Paris	Rick	Adams	165	72	L	L	7/13/1905	9/29/1905
+10674	olmstha01	1/12/1879	USA	MI	Sac Bay	1/6/1969	USA	FL	Bradenton	Hank	Olmsted	147		R	R	7/15/1905	7/26/1905
+5918	harthu01	2/2/1878	USA	MA	Everett	10/10/1960	USA	IN	Fort Wayne	Hub	Hart	170	71	L	R	7/16/1905	10/5/1907
+345	armbrch01	8/30/1880	USA	OH	Cincinnati	10/7/1964	USA	OR	Grants Pass	Charlie	Armbruster	180	69	R	R	7/17/1905	9/11/1907
+13430	spenctu01	1/26/1884	USA	PA	Oil City	2/1/1945	USA	CA	San Francisco	Tubby	Spencer	215	70	R	R	7/23/1905	9/1/1918
+3162	curtifr01	10/30/1880	USA	MI	Beaver Lake	4/5/1939	USA	MN	Minneapolis	Fred	Curtis		73	R	R	7/24/1905	7/25/1905
+5382	granted01	5/21/1883	USA	MA	Franklin	10/5/1918	France		Argonne Forest	Eddie	Grant	168		L	R	8/4/1905	10/6/1915
+3620	dischge01	3/15/1879	USA	MO	Lincoln	8/25/1950	USA	SD	Rapid City	George	Disch		71		R	8/8/1905	10/3/1905
+11976	risinpo01	1/2/1872	USA	PA	Industry	1/28/1938	USA	PA	Rochester	Pop	Rising				R	8/10/1905	10/6/1905
+6832	jacksch01									Herbert	Jackson				R	8/11/1905	8/14/1905
+5216	godwijo01	3/10/1877	USA	OH	East Liverpool	5/5/1956	USA	OH	E.Liverpool	John	Godwin	190	72	R	R	8/14/1905	9/17/1906
+5715	hallajo01	5/13/1884	USA	MO	St. Louis	9/30/1947	USA	CA	ElSegundo	John	Halla	175	71	L	L	8/18/1905	8/29/1905
+504	bakerer01	8/8/1875	USA	MI	Concord	10/25/1945	USA	MI	Homer	Ernie	Baker	160	70	R	R	8/18/1905	8/18/1905
+5283	goodwi01	9/28/1885	USA	PA	Punxsutawney	12/30/1963	USA	FL	Brooksville	Wilbur	Good	180	71.5	L	L	8/18/1905	9/2/1918
+681	barryed01	10/2/1882	USA	WI	Madison	6/19/1920	USA	MA	Montague	Ed	Barry	185	75		L	8/21/1905	10/4/1907
+3448	delahfr01	12/29/1882	USA	OH	Cleveland	7/22/1966	USA	OH	Cleveland	Frank	Delahanty	160	69	R	R	8/23/1905	5/27/1915
+14769	wallaji01	11/14/1881	USA	MA	Boston	5/16/1953	USA	MA	Revere	Jim	Wallace	150	69	L	L	8/24/1905	8/29/1905
+10164	murphda03	5/4/1876	USA	MA	Adams	4/8/1940	USA	MA	Adams	Dave	Murphy				R	8/28/1905	8/30/1905
+10141	munsore01	7/31/1883	USA	OH	Cincinnati	2/19/1957	USA	IN	Mishawaka	Red	Munson		71		R	8/28/1905	10/7/1905
+13745	strobal01	6/11/1884	USA	MA	Boston	2/10/1955	USA	FL	Hollywood	Allie	Strobel	160	72	R	R	8/29/1905	8/11/1906
+2593	cobbty01	12/18/1886	USA	GA	Narrows	7/17/1961	USA	GA	Atlanta	Ty	Cobb	175	73	L	R	8/30/1905	9/11/1928
+5663	hahned01	8/27/1875	USA	OH	Nevada	11/29/1941	USA	IA	Des Moines	Ed	Hahn	160		L	R	8/31/1905	6/5/1910
+4870	ganlebo01	4/23/1875	USA	MA	Lowell	10/9/1945	USA	MA	Lowell	Bob	Ganley	156	67	L	L	9/1/1905	9/27/1909
+8069	leberem01	5/15/1881	USA	OH	Cleveland	11/6/1924	USA	OH	Cleveland	Emil	Leber	170	71	R	R	9/2/1905	9/3/1905
+2443	cicoted01	6/19/1884	USA	MI	Springwells	5/5/1969	USA	MI	Detroit	Eddie	Cicotte	175	69	B	R	9/3/1905	9/26/1920
+8128	leifile01	9/5/1883	USA	IL	Trenton	10/10/1970	USA	VA	Alexandria	Lefty	Leifield	165	73	L	L	9/3/1905	9/24/1920
+26	ablesha01	10/4/1883	USA	TX	Terrell	2/8/1951	USA	TX	San Antonio	Harry	Ables	200		R	L	9/4/1905	5/5/1911
+14664	vowinri01	11/18/1884	USA	NY	Oswego	7/13/1966	USA	NY	Oswego	Rip	Vowinkel	195	70	R	R	9/5/1905	10/7/1905
+3933	dygerji01	7/5/1884	USA	NY	Utica	2/8/1936	USA	LA	New Orleans	Jimmy	Dygert	158	70	R	R	9/8/1905	10/6/1910
+15035	westhi01	8/8/1884	USA	IL	Roseville	5/25/1963	USA	CA	Los Angeles	Hi	West	185	72	R	R	9/8/1905	7/2/1911
+6408	hoelsar01	9/30/1882	USA	MO	St. Louis	8/3/1954	USA	MO	St.Louis	Art	Hoelskoetter		74	R	R	9/10/1905	10/3/1908
+10788	owensfr01	1/26/1886	CAN	ON	Toronto	7/2/1958	USA	MN	Minneapolis	Frank	Owens	170	72	R	R	9/11/1905	10/3/1915
+6711	hummejo01	4/4/1883	USA	PA	Bloomsburg	5/18/1959	USA	MA	Springfield	John	Hummel	160	71	R	R	9/12/1905	9/2/1918
+13031	siegljo01	7/8/1874	USA	OH	Urbana	2/12/1968	USA	OH	Urbana	Johnny	Siegle	165	70	R	R	9/15/1905	10/7/1906
+7547	kinseed01	1/15/1880	USA	IL	Lexington	1/17/1976	USA	IL	Bloomington	Ed	Kinsella	175		R	R	9/16/1905	8/10/1910
+15598	yalead01	4/17/1870	USA	CT	Bristol	4/27/1948	USA	CT	Bridgeport	Ad	Yale					9/18/1905	9/20/1905
+14706	wakefho01	4/2/1884	USA	OH	Bucyrus	4/16/1941	USA	IL	Chicago	Howard	Wakefield	185	73	R	R	9/18/1905	8/15/1907
+6348	himesja01	9/22/1878	USA	OH	Bryan	12/16/1949	USA	IL	Joliet	Jack	Himes	180	74	L	R	9/18/1905	5/30/1906
+4190	eubanjo01	9/9/1872	USA	IN	Servia	11/3/1958	USA	MI	Bellevue	John	Eubank	215	74	R	R	9/19/1905	8/2/1907
+13970	tatehu01	5/19/1880	USA	PA	Everett	8/7/1956	USA	PA	Greenville	Hughie	Tate	190	71	R	R	9/21/1905	9/25/1905
+1458	bradyki01	5/28/1881	USA	NJ	Elmer	8/21/1947	USA	NY	Albany	King	Brady	190	72	R	R	9/21/1905	4/13/1912
+5891	harrijo02	2/1/1882	USA	MA	Melrose	4/12/1966	USA	MA	Melrose	Joe	Harris	198	73	R	R	9/22/1905	10/5/1907
+8190	leroylo01	2/18/1879	USA	WI	Omro	10/10/1944	USA	WI	Shawano	Louis	Leroy	180	70	R	R	9/22/1905	4/20/1910
+3430	degroru01	9/2/1879	USA	NY	Hyde Park	12/17/1955	USA	NY	Poughkeepsie	Rube	DeGroff		71	L	L	9/22/1905	4/29/1906
+5068	gibsoch01	11/17/1879	USA	PA	Sharon	11/22/1954	USA	PA	Sharon	Charlie	Gibson	160	72	R	R	9/23/1905	9/23/1905
+10072	mowremi01	4/20/1884	USA	PA	Browns Mill	3/20/1947	USA	PA	Chambersburg	Mike	Mowrey	180	70	R	R	9/24/1905	8/13/1917
+6352	hinchbi01	4/4/1883	USA	PA	Philadelphia	2/20/1963	USA	OH	Columbus	Bill	Hinchman	190	71	R	R	9/24/1905	6/23/1920
+6973	johnsol01	8/21/1879	USA	OH	Trenton	6/17/1961	USA	OH	Hamilton	Ollie	Johns			L	L	9/24/1905	9/30/1905
+8790	manuemo01	10/16/1881	USA	IL	Metropolis	4/26/1924	USA	TN	Memphis	Moxie	Manuel	170	71	R	R	9/25/1905	9/14/1908
+4497	flanast01	4/20/1881	USA	PA	Kingston	4/21/1947	USA	PA	Wilkes-Barre	Steamer	Flanagan	185	73	L	L	9/25/1905	10/7/1905
+5821	hardyha01	11/5/1875	USA	OH	Steubenville	9/4/1943	USA	OH	Steubenville	Harry	Hardy	155	66	L	L	9/26/1905	9/26/1906
+9099	mccarjo02	12/25/1881	USA	NY	Syracuse	1/12/1937	USA	NY	Syracuse	Joe	McCarthy			R	R	9/27/1905	7/8/1906
+585	barbeja01	6/10/1882	USA	NY	New York	9/10/1969	USA	WI	Milwaukee	Jap	Barbeau	140	65	R	R	9/27/1905	5/2/1910
+2821	cooneph01	9/14/1882	USA	NY	New York	10/6/1957	USA	NY	New York	Phil	Cooney	155	68	L	R	9/27/1905	9/27/1905
+2600	cockmji01	4/26/1873	CAN	ON	Guelph	9/28/1947	CAN	ON	Guelph	Jim	Cockman	145	66	R	R	9/28/1905	10/7/1905
+7961	laporfr01	2/6/1880	USA	OH	Uhrichsville	9/25/1939	USA	OH	Newcomerstown	Frank	LaPorte	175	68	R	R	9/29/1905	10/3/1915
+10296	nealof01	6/5/1876	USA	IL	Benton	4/11/1950	USA	IL	Mt.Vernon	Offa	Neal	185	72	L	R	9/30/1905	10/3/1905
+12894	sheage01	10/26/1881	USA	MO	St. Louis	5/3/1964	USA	MO	Berkeley	Gerry	Shea	160	67		R	10/1/1905	10/3/1905
+10651	oldriru01	5/30/1884	USA	NY	New York	9/9/1961	USA	NJ	Bridgeton	Rube	Oldring	186	70	R	R	10/2/1905	8/30/1918
+7625	knabeot01	6/12/1884	USA	PA	Carrick	5/17/1961	USA	PA	Philadelphia	Otto	Knabe	175	68	R	R	10/3/1905	9/25/1916
+5293	goodwar01	2/27/1877	USA	PA	Whiteley Twnshp	6/19/1943	USA	PA	Franklin Township	Art	Goodwin	195	68		R	10/7/1905	10/7/1905
+10239	myersjo01	3/18/1882	USA	DE	Wilmington	2/11/1956	USA	DE	Delaware City	Joseph	Myers	205		R	R	10/7/1905	10/7/1905
+5281	goodge01	12/13/1882	USA	MA	Roxbury	8/6/1947	USA	MA	Boston	Gene	Good	130	66	L	L	4/12/1906	9/4/1906
+10299	nealoji01	12/15/1884	USA	CA	Sacramento	4/2/1910	USA	CA	San Francisco	Jim	Nealon			R	R	4/12/1906	9/6/1907
+939	bennepu01	2/20/1874	USA	NE	Ponca	9/12/1935	USA	WA	Kirkland	Pug	Bennett	165	71	R	R	4/12/1906	9/20/1907
+729	batesjo02	8/21/1882	USA	OH	Steubenville	2/10/1949	USA	OH	Steubenville	Johnny	Bates	168	67	L	L	4/12/1906	10/10/1914
+12807	sentepa01	8/27/1879	USA	LA	New Orleans	4/27/1923	USA	OH	Cincinnati	Paul	Sentell	176	69	R	R	4/12/1906	4/27/1907
+3696	donovje01	9/3/1876	USA	PA	Lock Haven	6/27/1938	USA	FL	St.Petersburg	Jerry	Donovan			R	R	4/12/1906	9/21/1906
+203	alperwh01	11/11/1879	USA	PA	Etna	12/25/1942	USA	PA	Pittsburgh	Whitey	Alperman	180	70	R	R	4/13/1906	10/2/1909
+8266	lindavi01	10/28/1877	USA	IA	Charles City	2/13/1927	USA	IA	Charles City	Vive	Lindaman	200	73	R	R	4/14/1906	7/7/1909
+1621	broutar01	11/25/1882	USA	AL	Montgomery	9/28/1959	USA	SC	Charleston	Art	Brouthers		73	R	R	4/14/1906	6/23/1906
+7274	kargeed01	5/6/1883	USA	TX	San Angelo	9/9/1957	USA	CO	Delta	Ed	Karger	185	71	R	L	4/15/1906	9/4/1911
+10932	pastoji01	7/12/1881	USA	PA	Pittsburgh	5/10/1941	USA	PA	Pittsburgh	Jim	Pastorius	165	69	L	L	4/15/1906	8/23/1909
+5653	haffole01	9/17/1883	USA	MA	Somerville	10/1/1911	USA	CT	Willimantic	Leo	Hafford	170	72		R	4/15/1906	4/24/1906
+5362	grahach01	4/24/1878	USA	CA	Santa Clara	8/29/1948	USA	CA	San Francisco	Charlie	Graham	190	72	R	R	4/16/1906	5/29/1906
+3834	duffpa01	5/6/1875	USA	RI	Providence	9/11/1925	USA	RI	Providence	Pat	Duff				R	4/16/1906	4/16/1906
+840	beebefr01	12/31/1879	USA	NE	Lincoln	10/30/1957	USA	IL	Elgin	Fred	Beebe	190	73	R	R	4/17/1906	9/30/1916
+6114	hemphfr01	5/13/1878	USA	MI	Greenville	11/16/1950	USA	IL	Chicago	Frank	Hemphill	165	71	R	R	4/17/1906	6/23/1909
+5946	hartzro01	7/6/1881	USA	CO	Golden	11/6/1961	USA	CO	Golden	Roy	Hartzell	155		L	R	4/17/1906	7/25/1916
+48	adamsba01	5/18/1882	USA	IN	Tipton	7/27/1968	USA	MD	Silver Spring	Babe	Adams	185		L	R	4/18/1906	8/11/1926
+11138	peterbo01	6/16/1884	USA	PA	Philadelphia	11/27/1962	USA	NJ	Evesham Township	Bob	Peterson	160	73	R	R	4/18/1906	10/5/1907
+6498	holmedu02	7/8/1883	USA	OH	Dayton	9/18/1945	USA	OH	Dayton	Ducky	Holmes	160	70	R	R	4/18/1906	4/29/1906
+10461	nordylo01	8/7/1876	USA	IA	Brighton	9/27/1945	USA	CA	Los Angeles	Lou	Nordyke	185	72	R	R	4/18/1906	6/27/1906
+3819	druhoca01	9/1/1882	USA	OH		2/5/1918	USA	OR	Portland	Carl	Druhot	150	67	L	L	4/18/1906	4/22/1907
+1966	byrneji01	1/5/1880	USA	CA	San Francisco	7/31/1941	USA	CA	San Francisco	Jim	Byrnes	150	69	R	R	4/19/1906	10/3/1906
+13540	starkco01	11/16/1880	USA	IA	Red Oak	1/19/1933	USA	WA	Tacoma	Con	Starkel	200	72	R	R	4/19/1906	4/19/1906
+5791	hannija01	2/25/1883	USA	MA	Holyoke	10/27/1945	USA	MA	Northampton	Jack	Hannifin	167	71	R	R	4/19/1906	10/7/1908
+4340	ferguge01	8/19/1883	USA	IN	Ellsworth	9/5/1943	USA	FL	Montverde	George	Ferguson	165	70	R	R	4/19/1906	7/21/1911
+9095	mccarbi02	4/11/1882	USA	MA	Ashland	5/29/1939	USA	MA	Boston	Bill	McCarthy	180	71	R	R	4/21/1906	4/21/1906
+1694	brownsa01	5/21/1878	USA	PA	Webster	11/8/1931	USA	PA	Mount Pleasant	Sam	Brown			R	R	4/21/1906	10/5/1907
+10981	paynefr01	9/2/1880	USA	NY	Camden	1/16/1954	USA	NY	Camden	Fred	Payne	162	70	R	R	4/21/1906	9/4/1911
+4018	eellsha01	2/14/1881	USA	IA	Danbury	12/7/1940	USA	CA	Los Angeles	Harry	Eells	195	73	R	R	4/22/1906	8/14/1906
+12977	shipkbi01	11/18/1882	USA	MO	St. Louis	9/10/1940	USA	NE	Omaha	Bill	Shipke	145	67	R	R	4/23/1906	5/13/1909
+9990	moronji01	12/4/1883	USA	MA	Boston	2/26/1929	USA	PA	Philadelphia	Jim	Moroney	175	73	L	L	4/24/1906	7/23/1912
+10430	nilesha01	9/10/1880	USA	MI	Buchanan	4/18/1953	USA	MI	Sturgis	Harry	Niles	175	68	R	R	4/24/1906	9/28/1910
+14832	wardjo04	9/2/1884	USA	PA	Philadelphia	8/11/1934	USA	PA	Philadelphia	Joe	Ward				R	4/24/1906	7/7/1910
+13214	smithed03	2/21/1879	USA	IN	Mentone	3/20/1955	USA	FL	Tarpon Springs	Ed	Smith	170	71	R	R	4/27/1906	10/7/1906
+346	armbrha01	3/20/1882	USA	OH	Liverpool	12/10/1953	USA	OH	Cincinnati	Harry	Armbruster	190	70	L	L	4/30/1906	10/3/1906
+12625	schmibo01	9/12/1880	USA	AR	Coal Hill	11/14/1932	USA	AR	Altus	Boss	Schmidt	200	71	B	R	4/30/1906	10/8/1911
+7651	knollhu01	12/18/1883	USA	IN	Valparaiso	7/1/1946	USA	IL	Chicago	Hub	Knolls	190	74		R	5/1/1906	5/6/1906
+9128	mcclojo01	8/20/1882	USA	PA	Wyoming	6/5/1919	USA	PA	Wilkes-Barre	John	McCloskey					5/3/1906	5/31/1907
+4386	fienelo01	12/29/1884	USA	IA	Fort Dodge	12/22/1964	USA	IL	Chicago	Lou	Fiene	175	72	R	R	5/7/1906	8/15/1909
+11904	richile01	8/23/1883	USA	PA	Ambler	8/15/1936	USA	PA	South Mountain	Lew	Richie	165	68	R	R	5/8/1906	8/8/1913
+9479	meierdu01	3/30/1879	USA	MO	St. Louis	3/23/1948	USA	IL	Chicago	Dutch	Meier	175	70	R	R	5/12/1906	10/7/1906
+15432	withero01	7/26/1886	USA	PA	North Washington	12/23/1941	USA	PA	New Bethlehem	Roy	Witherup	185	72	R	R	5/14/1906	9/6/1909
+14125	thomair01	1/22/1881	USA	NY	Ballston Spa	10/11/1958	USA	PA	Philadelphia	Ira	Thomas	200	74	R	R	5/18/1906	6/18/1915
+3024	cristch01	2/10/1882	USA	OH	Cozaddale	1/7/1957	USA	OH	Cincinnati	Ches	Crist	165	71	R	R	5/18/1906	10/1/1906
+13502	stanaos01	3/17/1883	USA	CA	Tulare	11/11/1964	USA	MI	Detroit	Oscar	Stanage	185		R	R	5/19/1906	6/17/1925
+211	altizda01	11/6/1876	USA	IL	Pearl	5/14/1964	USA	IL	Pleasant Hill	Dave	Altizer	160		L	R	5/29/1906	7/10/1911
+5180	glazera01	3/13/1882	USA	CO	Denver	10/31/1968	USA	CA	Atascadero	Ralph	Glaze	165	69	R	R	6/1/1906	6/15/1908
+10208	murrare01	3/4/1884	USA	PA	Arnot	12/4/1958	USA	PA	Sayre	Red	Murray	190		R	R	6/16/1906	10/3/1917
+1807	burchal01	10/7/1883	USA	NY	Albany	10/5/1926	USA	NY	Brooklyn	Al	Burch	160		L	R	6/19/1906	7/30/1911
+9977	morgare01	10/6/1883	USA	IA	Neola	3/25/1981	USA	NY	New York	Red	Morgan	180	70.5		R	6/20/1906	10/6/1906
+6412	hoeyja01	11/10/1881	USA	MA	Watertown	11/14/1947	USA	CT	Waterbury	Jack	Hoey	185	69	L	L	6/27/1906	10/7/1908
+12286	roych01	6/22/1884	USA	MN	Beaulieu	2/10/1950	USA	ID	Blackfoot	Charlie	Roy	190	70	R	R	6/27/1906	8/10/1906
+9306	mcilvir01	7/27/1880	Ireland		Belfast	10/18/1960	USA	OH	Lorain	Irish	McIlveen	180		L	L	7/4/1906	5/6/1909
+2813	coombja01	11/18/1882	USA	IA	LeGrand	4/15/1957	USA	TX	Palestine	Jack	Coombs	185	72	B	R	7/5/1906	7/18/1920
+2172	carribi02	10/22/1883	USA	ME	Lewiston	7/8/1969	USA	ME	Lewiston	Bill	Carrigan	175	69	R	R	7/7/1906	9/30/1916
+3390	dealsn01	1/21/1879	USA	PA	Lancaster	5/9/1944	USA	PA	Harrisburg	Snake	Deal	164	72	R	R	7/9/1906	10/7/1906
+7214	judefr01	11/11/1884	USA	MN	Libby	5/4/1961	USA	TX	Brownsville	Frank	Jude	150	67	R	R	7/9/1906	10/7/1906
+5698	hallch02	7/27/1884	USA	CA	Ventura	12/6/1943	USA	CA	Ventura	Charley	Hall	187	73	L	R	7/12/1906	8/7/1918
+6486	hollyed01	7/6/1879	USA	IL	Chicago	11/27/1973	USA	PA	Williamsport	Ed	Holly	165	70	R	R	7/18/1906	6/6/1915
+11863	rhodech01	4/7/1885	USA	KS	Caney	10/26/1918	USA	KS	Caney	Charlie	Rhodes	180	67	R	R	7/26/1906	6/14/1909
+2982	crawffo01	5/10/1881	USA	TX	Rockdale	3/29/1908	USA	TX	Austin	Forrest	Crawford			L	R	7/30/1906	5/17/1907
+14305	towneba01	3/12/1880	USA	IA	Coon Rapids	10/29/1938	USA	IA	Des Moines	Babe	Towne	180	70	R	R	8/1/1906	10/6/1906
+8162	lennoed01	11/3/1883	USA	NJ	Camden	10/26/1939	USA	NJ	Camden	Ed	Lennox	174	70	R	R	8/8/1906	10/3/1915
+6293	higgiir01	4/26/1882	USA	NE	Homer	6/12/1959	USA	WA	Seattle	Irv	Higginbotham	196	73	R	R	8/11/1906	9/11/1909
+12857	shannwa01	11/30/1880	USA	OH	Massillon	3/10/1964	USA	OH	N.Canton	Warren	Shanabrook	170	72	R	R	8/13/1906	8/13/1906
+14796	walshto01	2/28/1885	USA	IA	Davenport	3/16/1963	USA	FL	Naples	Tom	Walsh	170	71	R	R	8/15/1906	9/26/1906
+12683	schulja01	11/15/1881	USA	OH	Cincinnati	8/17/1975	USA	MI	Roseville	Jack	Schulte	180	69	R	R	8/19/1906	8/19/1906
+14212	tiemeed01	5/9/1885	USA	OH	Cincinnati	9/27/1946	USA	OH	Cincinnati	Eddie	Tiemeyer	185		R	R	8/19/1906	10/1/1909
+1985	caffybe01	2/10/1879	USA	IL	Peoria	11/22/1942	USA	IL	Peoria	Ben	Caffyn	175	70	L	L	8/21/1906	10/7/1906
+13419	spencch01	3/4/1883	USA	OH	South Webster	11/10/1938	USA	OH	Portsmouth	Chet	Spencer	180	72	L	R	8/22/1906	8/29/1906
+3771	doylesl01	9/15/1881	USA	KS	Clay Center	11/21/1947	USA	NY	Tannersville	Slow Joe	Doyle	150	68	R	R	8/25/1906	6/25/1910
+603	bargecy01	5/18/1885	USA	KY	Jamestown	9/23/1964	USA	KY	Columbia	Cy	Barger	160	72	L	R	8/30/1906	10/2/1915
+3142	cunnimi01	6/14/1882	USA	SC	Lancaster	12/10/1969	USA	SC	Lancaster	Mike	Cunningham	175		R	R	8/31/1906	9/21/1906
+8782	mansklo01	7/4/1884	USA	WI	Milwaukee	4/27/1963	USA	WI	Milwaukee	Lou	Manske		72	L	L	8/31/1906	9/7/1906
+6768	hustoha01	10/14/1883	USA	OH	Bellefontaine	10/13/1969	USA	OK	Blackwell	Harry	Huston	168	69	R	R	9/3/1906	9/19/1906
+10037	moserwa01	2/27/1881	USA	NC	Concord	12/10/1946	USA	PA	Philadelphia	Walter	Moser	170	69	R	R	9/3/1906	9/9/1911
+4373	fetzewi01	6/24/1884	USA	NC	Concord	5/3/1959	USA	NC	Franklin	Willy	Fetzer	180		L	R	9/4/1906	9/4/1906
+15207	willeed01	3/7/1884	USA	VA	Norfolk	5/10/1934	USA	KS	Wellington	Ed	Willett	183	72	R	R	9/5/1906	9/23/1915
+12270	rowanja01	6/16/1886	USA	PA	New Castle	9/29/1966	USA	OH	Dayton	Jack	Rowan	210	73	R	R	9/6/1906	7/10/1914
+6500	holmeji01	8/2/1882	USA	KY	Lawrenceburg	3/10/1960	USA	FL	Jacksonville	Jim	Holmes					9/8/1906	10/7/1908
+8635	maddeto01	7/31/1883	USA	PA	Philadelphia	7/26/1930	USA	PA	Philadelphia	Tommy	Madden	160	71	L	L	9/10/1906	4/15/1910
+12904	sheanda01	7/9/1883	USA	MA	Arlington	5/22/1963	USA	MA	Boston	Dave	Shean	175	71	R	R	9/10/1906	7/17/1919
+9008	maxwebe01	10/17/1886	USA	AR	Texarkana	12/10/1961	USA	TX	Brady	Bert	Maxwell	180	72	B	R	9/12/1906	9/14/1914
+4171	essicbi01	12/18/1881	USA	IL	Grand Ridge	10/12/1951	USA	CA	Los Angeles	Bill	Essick	175	70		R	9/12/1906	5/28/1907
+1092	birmijo01	8/6/1884	USA	NY	Elmira	4/24/1946	Mexico	28	Tampico	Joe	Birmingham	185	70	R	R	9/12/1906	6/25/1914
+2030	camerja01	9/22/1884	CAN	NS	Sydney	7/12/1963	USA	NC	Charlotte	Jack	Cameron	170	70	R		9/13/1906	10/5/1906
+1832	burkefr01	2/16/1880	USA	PA	Carbon County	9/17/1946	USA	CA	Los Angeles	Frank	Burke				R	9/14/1906	7/31/1907
+4757	frommar01	9/3/1883	USA	IL	Quincy	8/24/1956	USA	CA	Los Angeles	Art	Fromme	178	72	R	R	9/14/1906	5/7/1915
+3999	edmonbo01	4/30/1879	USA	KY	Paris	8/14/1931	USA	KS	Lawrence	Bob	Edmondson	185	71	R	R	9/15/1906	10/8/1908
+4474	fitzgma01	8/31/1880	USA	NY	Albany	9/22/1949	USA	NY	Albany	Matty	Fitzgerald	185	72	R	R	9/15/1906	7/11/1907
+2305	chadbch01	10/28/1884				6/21/1943	USA	CA	Los Angeles	Chet	Chadbourne			L	R	9/17/1906	9/2/1918
+2673	collied01	5/2/1887	USA	NY	Millerton	3/25/1951	USA	MA	Boston	Eddie	Collins	175	69	L	R	9/17/1906	8/2/1930
+6693	hugheto02	1/28/1884	USA	CO	Coal Creek	11/1/1961	USA	CA	Los Angeles	Tom	Hughes	175	74	R	R	9/18/1906	7/17/1918
+5294	goodwcl01	11/12/1886	USA	OH	Athens	10/12/1963	USA	OH	Dayton	Clyde	Goodwin	145	71	R	R	9/18/1906	10/2/1906
+11701	reardph01	10/3/1883	USA	NY	Brooklyn	9/28/1920	USA	NY	Brooklyn	Phil	Reardon	160	69	R	R	9/19/1906	9/20/1906
+10565	oharato01	7/13/1880	USA	NY	Waverly	6/8/1954	USA	CO	Denver	Tom	O'Hara					9/19/1906	7/4/1907
+12701	schumha01	8/13/1884	USA	NY	Buffalo	3/25/1946	USA	NY	Mill Grove	Hack	Schumann	230	74		R	9/19/1906	10/3/1906
+10615	oberlfr01	3/29/1876	USA	MI	Elsie	1/6/1952	USA	IN	Ashley	Frank	Oberlin	165	73	R	R	9/20/1906	6/28/1910
+9272	mcglyst01	5/26/1872	USA	PA	Lancaster	8/26/1941	USA	WI	Manitowoc	Stoney	McGlynn	185	71	R	R	9/20/1906	9/2/1908
+13695	storkal01	9/27/1884	USA	NY	Auburn	3/18/1910	USA	MA	Newton	Alan	Storke		73	R	R	9/24/1906	10/6/1909
+33	abstebi01	2/2/1883	USA	MO	St. Louis	4/8/1940	USA	MO	St.Louis	Bill	Abstein	185	72	R	R	9/25/1906	6/2/1910
+8959	mathehe01	12/24/1886	USA	PA	Factoryville	7/1/1917	USA	PA	Factoryville	Henry	Mathewson	175	75	R	R	9/28/1906	5/4/1907
+15736	zimmeed01	1/1/1883	USA	NJ	Oceanic	5/6/1945	USA	PA	Emmaus	Eddie	Zimmerman	160	69	R	R	9/29/1906	9/4/1911
+11544	quillle01	5/5/1882	USA	MN	North Branch	5/14/1965	USA	MN	St.Paul	Lee	Quillen	165	70	R	R	9/30/1906	8/14/1907
+7782	krohru01	8/25/1886	USA	NY	Friendship	3/17/1944	USA	LA	New Orleans	Rube	Kroh	186	74	L	L	9/30/1906	8/22/1912
+8247	liebhgl01	3/10/1883	USA	IN	Milton	7/13/1956	USA	OH	Cleveland	Glenn	Liebhardt	175	70	R	R	10/2/1906	8/5/1909
+15375	wilsowi01	1/7/1884	USA	OH	Columbus	10/28/1925	USA	WA	Seattle	Willy	Wilson			R	R	10/3/1906	10/3/1906
+6258	hetligu01	11/21/1885	USA	MO	St. Louis	10/13/1962	USA	KS	Wichita	Gus	Hetling	165	70	R	R	10/6/1906	10/6/1906
+257	andergo01	1/13/1880	USA	OH	Cleveland	3/15/1923	USA	IN	South Bend	Goat	Anderson			L	R	4/11/1907	10/6/1907
+11105	perrini01	1/14/1885	USA	WI	Clinton	8/13/1948	USA	MO	Kansas City	Nig	Perrine	160	69	R	R	4/11/1907	7/9/1907
+13603	stephji01	12/10/1883	USA	OH	Salineville	1/2/1965	USA	AL	Oxford	Jim	Stephens	157		R	R	4/11/1907	10/6/1912
+9787	mitchmi01	12/12/1879	USA	OH	Springfield	7/16/1961	USA	AZ	Phoenix	Mike	Mitchell	185	73	R	R	4/11/1907	9/30/1914
+1961	byrnebo01	12/31/1884	USA	MO	St. Louis	12/31/1964	USA	PA	Wayne	Bobby	Byrne	145		R	R	4/11/1907	9/4/1917
+7385	kellyjo02	3/13/1879	USA	PA	Clifton Heights	3/19/1944	USA	MD	Baltimore	John	Kelly	165	69			4/11/1907	6/18/1907
+7797	krugear01	3/16/1881	USA	TX	San Antonio	11/28/1949	USA	CA	Hondo	Art	Kruger	185	72	R	R	4/11/1907	9/26/1915
+7264	kanejo01	9/24/1882	USA	IL	Chicago	1/28/1934	USA	ID	St.Anthony	John	Kane	138	66	R	R	4/11/1907	10/15/1910
+7122	jonesel01	1/27/1882	USA	MI	Oxford	4/29/1943	USA	MI	Pontiac	Elijah	Jones			R	R	4/13/1907	4/24/1909
+7318	keefebo01	6/16/1882	USA	CA	Folsom	12/7/1964	USA	CA	Sacramento	Bobby	Keefe	155	71	R	R	4/15/1907	7/26/1912
+12303	ruckena01	9/30/1884	USA	GA	Crabapple	12/19/1970	USA	GA	Alpharetta	Nap	Rucker	190	71	R	L	4/15/1907	9/13/1916
+5367	grahaos01	7/20/1878	USA	NE	Plattsmouth	10/15/1931	USA	IL	Moline	Oscar	Graham	180	72	L	L	4/16/1907	8/5/1907
+2264	castlro01	7/26/1885	USA	UT	Salt Lake City	6/24/1967	USA	CA	Los Angeles	Roy	Castleton	167	71	R	L	4/16/1907	5/29/1910
+881	bellge01	11/2/1874	USA	NY	Greenwood	12/25/1941	USA	NY	New York	George	Bell	195	72	R	R	4/17/1907	7/13/1911
+10702	orndoje01	1/15/1881	USA	IL	Chicago	9/28/1960	USA	CA	Cardiff-By-The- Sea	Jess	Orndorff	168	72	B	R	4/18/1907	4/24/1907
+11646	randane01	2/3/1880	CAN	ON	New Lowell	5/3/1955	USA	MN	Duluth	Newt	Randall	181	70	R	R	4/18/1907	10/5/1907
+1361	boultja01	8/6/1884	USA	MO	St. Louis	12/24/1955	USA	MO	St.Louis	Jake	Boultes		75		R	4/18/1907	6/24/1909
+768	baxtemo01	7/27/1876	USA	WI	Chippewa Falls	8/7/1926	USA	OR	Portland	Moose	Baxter	200	74	L	R	4/19/1907	4/24/1907
+1741	brushbo01	3/8/1875	USA	IA	Osage	4/2/1944	USA	CA	San Bernardino	Bob	Brush		70			4/20/1907	4/23/1907
+9749	minahco01	12/10/1882	USA	OH	Springfield	5/20/1958	USA	NJ	E.Orange	Cotton	Minahan	190	72	R	R	4/21/1907	5/15/1907
+14989	weldami01	12/13/1878	USA	IA	Conway	5/28/1942	USA	KS	Leavenworth	Mike	Welday	165	68	L	L	4/21/1907	7/8/1909
+3899	durbiki01	9/10/1886	USA	MO	Lamar	9/11/1943	USA	MO	Kirkwood	Kid	Durbin	155	68	L	L	4/24/1907	6/30/1909
+1594	brockle01	7/23/1880	USA	IL	Brownsville	9/19/1960	USA	IL	Norris City	Lew	Brockett	168		R	R	4/25/1907	7/26/1911
+11493	pruiete01	4/10/1883	USA	IN	Osgood	3/6/1953	USA	CA	Ventura	Tex	Pruiett	176	68	L	R	4/26/1907	7/18/1908
+6376	hittro01	6/22/1887	USA	NE	Carleton	2/8/1956	USA	CA	Pomona	Roy	Hitt	200	70	L	L	4/27/1907	10/5/1907
+8064	learyfr01	2/26/1881	USA	MA	Wayland	10/4/1907	USA	MA	Natick	Frank	Leary				R	4/30/1907	5/5/1907
+1942	butleki02	8/9/1887	USA	PA	Franklin	2/22/1964	USA	CA	Richmond	Kid	Butler	155	71	R	R	4/30/1907	8/2/1907
+3755	downsre01	8/23/1883	USA	IA	Neola	10/19/1939	USA	IA	Council Bluffs	Red	Downs	155	71	R	R	5/2/1907	9/30/1912
+969	bergehe01	1/7/1882	USA	IL	LaSalle	2/10/1954	USA	OH	Lakewood	Heinie	Berger		69		R	5/6/1907	7/22/1910
+9428	mcquige01	5/1/1885	USA	NY	Brooklyn	3/30/1940	USA	OH	Columbus	George	McQuillan	175		R	R	5/8/1907	9/1/1918
+15469	wolteha01	7/11/1884	USA	CA	Monterey	7/7/1970	USA	CA	Palo Alto	Harry	Wolter	175	70	L	L	5/14/1907	9/23/1917
+10730	osborfr02	11/28/1883	USA	OH	Nevada	9/2/1954	USA	OH	Upper Sandusky	Fred	Osborn	178	69	L	R	6/8/1907	7/24/1909
+13226	smithfr04	11/24/1878	USA	WI	New Diggings	2/4/1964	USA	CA	Los Angeles	Fred	Smith	186	72	L	R	6/14/1907	9/21/1907
+13901	sweenbi02	3/6/1886	USA	KY	Covington	5/26/1948	USA	MA	Cambridge	Bill	Sweeney	175	71	R	R	6/14/1907	10/5/1914
+4004	edmonsa01	8/30/1883	USA	DC	Washington	4/12/1979	USA	TX	Corpus Christi	Sam	Edmonston	185		L	L	6/24/1907	6/24/1907
+8273	lindeer01	6/10/1883	USA	NY	New York	12/27/1951	USA	NY	Brooklyn	Ernie	Lindemann	182	70.5	R	R	6/28/1907	6/28/1907
+7701	koneted01	9/3/1885	USA	WI	LaCrosse	5/27/1947	USA	TX	Ft.Worth	Ed	Konetchy	195		R	R	6/29/1907	10/1/1921
+1854	burneja01	12/16/1879	USA	CA	Ventura	9/3/1923	USA	CA	Modoc County	Jack	Barnett			B		7/2/1907	9/20/1907
+4997	gehrihe01	1/24/1881	USA	MN	St. Paul	4/18/1912	USA	MO	Kansas City	Henry	Gehring			R	R	7/16/1907	5/13/1908
+2965	craigge01	11/15/1887	USA	PA	Philadelphia	4/23/1911	USA	IN	Indianapolis	George	Craig				L	7/19/1907	9/17/1907
+6535	hopkibu01	1/3/1883	USA	VA	Grafton	10/2/1929	USA	VA	Phoebus	Buck	Hopkins	165	70	L	L	7/22/1907	9/24/1907
+3769	doylela01	7/31/1886	USA	IL	Caseyville	3/1/1974	USA	NY	Saranac Lake	Larry	Doyle	165	70	L	R	7/22/1907	10/2/1920
+6353	hinchha01	8/4/1878	USA	PA	Philadelphia	1/19/1933	USA	OH	Toledo	Harry	Hinchman	165	71	B	R	7/29/1907	10/6/1907
+11177	pfylmo01	5/11/1886	USA	MO	St. Louis	10/18/1945	USA	CA	San Francisco	Monte	Pfyl	190	75	L	L	7/30/1907	7/30/1907
+7068	johnswa01	11/6/1887	USA	KS	Humboldt	12/10/1946	USA	DC	Washington	Walter	Johnson	200	73	R	R	8/2/1907	9/30/1927
+6534	hopesa01	12/4/1878	USA	NY	Brooklyn	6/30/1946	USA	NY	Greenport	Sam	Hope		70	R	R	8/5/1907	8/5/1907
+1188	blockbr01	3/13/1885	USA	WI	Wisconsin Rapids	8/6/1937	USA	WI	S.Milwaukee	Bruno	Block	185	69	R	R	8/5/1907	10/4/1914
+14217	tiftra01	6/21/1884	USA	MA	Fitchburg	3/29/1945	USA	NJ	Verona	Ray	Tift	155	70.5		L	8/7/1907	9/2/1907
+381	asmusto01	9/26/1878	USA	IL	Chicago	8/21/1963	USA	IL	Arlington Heights	Tom	Asmussen				R	8/10/1907	8/19/1907
+7301	kaybi01	2/14/1878	USA	VA	New Castle	12/3/1945	USA	VA	Roanoke	Bill	Kay	180	74	L	R	8/12/1907	10/5/1907
+13299	smithto03	5/14/1884	USA	IL	Chicago	2/27/1964	USA	TX	Galveston	Tony	Smith	150	69	R	R	8/12/1907	7/11/1911
+7931	lanfosa01	1/8/1886	USA	SC	Woodruff	9/14/1970	USA	SC	Woodruff	Sam	Lanford	155	69	R	R	8/19/1907	9/14/1907
+9624	milancl01	3/25/1887	USA	TN	Linden	3/3/1953	USA	FL	Orlando	Clyde	Milan	168	69	L	R	8/19/1907	9/22/1922
+14275	tonkido01	8/11/1881	USA	NH	Concord	5/30/1959	USA	FL	Miami	Doc	Tonkin	165	69	L	L	8/19/1907	8/19/1907
+4150	erwinte01	12/22/1885	USA	TX	Forney	4/5/1953	USA	NY	Rochester	Tex	Erwin	185	72	L	R	8/26/1907	7/23/1914
+3164	curtiha01	2/19/1883	USA	ME	Portland	8/1/1951	USA	IL	Evanston	Harry	Curtis	170			R	8/28/1907	10/5/1907
+10348	neuerte01	6/8/1877	USA	OH	Fremont	1/14/1966	USA	PA	Northumberland	Tex	Neuer				L	8/28/1907	10/3/1907
+9197	mcdonjo01	1/27/1883	USA	PA	Throop	4/9/1950	USA	NJ	Roselle	John	McDonald	170	73	R	R	9/3/1907	9/3/1907
+8660	maggeha01	2/13/1883	USA	IN	Cromwell	1/7/1963	USA	CA	Fresno	Harl	Maggert	155	68	L	R	9/4/1907	10/3/1912
+15041	westeos01	7/8/1882	USA	CA	Alameda	4/17/1909	USA	CA	Alameda	Oscar	Westerberg	186	72	B	R	9/5/1907	9/7/1907
+15737	zimmehe01	2/9/1887	USA	NY	New York	3/14/1969	USA	NY	New York	Heinie	Zimmerman	176		R	R	9/8/1907	9/10/1919
+9321	mckecbi01	8/7/1886	USA	PA	Wilkinsburg	10/29/1965	USA	FL	Bradenton	Bill	McKechnie	160	70	B	R	9/8/1907	9/28/1920
+14677	wadeha01	12/20/1879	USA	PA	Spring City	7/21/1968	USA	NJ	Riverside	Ham	Wade	155	68	R	R	9/9/1907	9/9/1907
+2924	covelha01	4/23/1886	USA	PA	Shamokin	8/4/1950	USA	PA	Shamokin	Harry	Coveleski	180	72	B	L	9/10/1907	6/23/1918
+550	ballne01	4/22/1881	USA	MI	Grand Haven	10/15/1957	USA	CT	Bridgeport	Neal	Ball	145	67	R	R	9/12/1907	6/30/1913
+13562	steelel01	5/17/1886	USA	NY	Poughkeepsie	3/9/1966	USA	NY	Rhinebeck	Elmer	Steele	200	71	B	R	9/12/1907	10/9/1911
+8641	maddoni01	11/9/1886	USA	MD	Govanstown	11/27/1954	USA	PA	Pittsburgh	Nick	Maddox	175	72	L	R	9/13/1907	9/12/1910
+15133	whitege01	12/23/1882	USA	IL	Peoria	2/10/1947	USA	TX	Houston	George	Whiteman	160	67	R	R	9/13/1907	9/2/1918
+13879	swaciha01	8/22/1881	USA	MO	St. Louis	6/21/1944	USA	AL	Birmingham	Harry	Swacina	190	74	R	R	9/13/1907	8/26/1915
+8440	loudeba01	8/27/1883	USA	PA	Pittsburgh	12/8/1935	USA	WV	Piedmont	Baldy	Louden	175	71	R	R	9/13/1907	9/18/1916
+13405	speaktr01	4/4/1888	USA	TX	Hubbard	12/8/1958	USA	TX	Lake Whitney	Tris	Speaker	193		L	L	9/14/1907	8/30/1928
+8309	listepe01	7/21/1881	USA	IL	Savanna	3/27/1947	USA	FL	St.Petersburg	Pete	Lister	190	72	R	R	9/14/1907	10/6/1907
+894	bellru01	1/1/1881	USA	WI	Wausau	7/28/1955	USA	NM	Albuquerque	Rudy	Bell	158		R	R	9/16/1907	10/5/1907
+7497	killere01	4/13/1885	USA	MI	Bloomingdale	9/4/1958	USA	CA	Los Angeles	Red	Killefer	175	69	R	R	9/16/1907	8/19/1916
+14782	walshco01	4/23/1882	USA	MO	St. Louis	4/5/1953	USA	MO	St.Louis	Connie	Walsh				R	9/16/1907	9/16/1907
+9255	mcgilbi01	6/29/1880	USA	KS	Galva	8/7/1959	USA	OK	Alva	Bill	McGill	185	74	R	R	9/16/1907	9/27/1907
+1141	blairwa01	10/13/1883	USA	PA	Landrus	8/20/1948	USA	PA	Lewisburg	Walter	Blair	185	72	R	R	9/17/1907	9/29/1915
+592	barbefr01	2/3/1882	USA	NY	Newtown	5/1/1965	USA	FL	Ocala	Frank	Barberich	175		B	R	9/17/1907	6/16/1910
+471	bailebi01	4/12/1888	USA	AR	Fort Smith	11/2/1926	USA	TX	Houston	Bill	Bailey	165	71	L	L	9/17/1907	6/26/1922
+421	autrych01	1/2/1885	USA	TN	Humboldt	1/16/1976	USA	CA	Santa Rosa	Chick	Autry	168	71	L	L	9/18/1907	10/7/1909
+7659	knottjo01	3/3/1884	USA	PA	Greensboro	9/15/1950	USA	PA	Philadelphia	Joe	Knotts			R	R	9/18/1907	9/28/1907
+9541	merklfr01	12/20/1888	USA	WI	Watertown	3/2/1956	USA	FL	Daytona Beach	Fred	Merkle	190	73	R	R	9/21/1907	9/26/1926
+4754	frocksa01	12/23/1882	USA	MD	Baltimore	11/3/1925	USA	MD	Baltimore	Sam	Frock	168	72	R	R	9/21/1907	5/6/1911
+549	ballji01	2/22/1884	USA	MD	Harford County	4/7/1963	USA	CA	Glendale	Jim	Ball	175	71	R	R	9/21/1907	6/17/1908
+10926	paskedo01	8/28/1881	USA	OH	Cleveland	2/12/1959	USA	OH	Cleveland	Dode	Paskert	165	71	R	R	9/21/1907	5/27/1921
+13393	spadebo01	1/4/1877	USA	OH	Akron	9/7/1924	USA	OH	Cincinnati	Bob	Spade	190	70	R	R	9/22/1907	7/21/1910
+3521	dessaru01	3/29/1883	USA	PA	New Galilee	5/6/1952	USA	PA	York	Rube	Dessau	175	71	B	R	9/22/1907	10/12/1910
+9804	moellda01	3/23/1885	USA	IA	DeWitt	4/14/1951	USA	AL	Florence	Danny	Moeller	165	71	B	R	9/24/1907	9/30/1916
+8433	lordha01	3/8/1882	USA	ME	Porter	8/9/1948	USA	ME	Westbrook	Harry	Lord	165		L	R	9/25/1907	9/27/1915
+8774	manniru01	4/29/1883	USA	PA	Chambersburg	4/23/1930	USA	PA	Williamsport	Rube	Manning	180	72	R	R	9/25/1907	8/22/1910
+10760	oteybi01	12/16/1886	USA	OH	Dayton	4/23/1931	USA	OH	Dayton	Bill	Otey	181	74	L	L	9/27/1907	6/24/1911
+12882	shawal02	3/1/1881	USA	IL	Toledo	12/30/1974	USA	IL	Danville	Al	Shaw	165		L	R	9/28/1907	10/3/1915
+844	beechro01	5/10/1884	USA	OH	Swanton	10/11/1952	USA	OH	Toledo	Roy	Beecher	180	74	L	R	9/29/1907	6/25/1908
+3450	delahjo01	10/18/1875	USA	OH	Cleveland	1/9/1936	USA	OH	Cleveland	Joe	Delahanty	168	69	R	R	9/30/1907	10/6/1909
+2057	campbhu02	11/29/1884	USA	PA	Punxsutawney	2/13/1946	USA	PA	New Bethlehem	Hutch	Campbell	155	69	L	R	9/30/1907	10/1/1907
+7400	kelsebi01	8/24/1881	USA	OH	Covington	4/25/1968	USA	OH	Springfield	Billy	Kelsey	150	70	R	R	10/4/1907	10/6/1907
+4749	fritzch01	6/13/1882	USA	AL	Mobile	7/30/1943	USA	AL	Mobile	Charlie	Fritz				L	10/5/1907	10/5/1907
+9346	mclaned01	8/20/1881	USA	MA	Weston	8/21/1975	USA	MD	Baltimore	Ed	McLane	179	70	R		10/5/1907	10/5/1907
+8732	mallohe01	6/1/1885	USA	OH	Massillon	5/9/1942	USA	OH	Massillon	Herm	Malloy		72	R	R	10/6/1907	6/1/1908
+10939	patteha01	1/17/1882	USA	MA	Charlestown	7/17/1971	USA	VA	Lynchburg	Harry	Pattee	149	68	L	R	4/14/1908	9/29/1908
+9300	mchalji01	12/17/1875	USA	PA	Miners Mills	6/17/1959	USA	CA	Los Angeles	Jim	McHale	165	71	R	R	4/14/1908	7/7/1908
+4700	freemje01	12/26/1879	USA	CA	Placerville	9/30/1952	USA	CA	Los Angeles	Jerry	Freeman	220	74	L	R	4/14/1908	5/21/1909
+2201	carteni01	5/19/1879	USA	VA	Oatlands	11/23/1961	USA	MD	Grasonville	Nick	Carter	140	68	L	R	4/14/1908	6/8/1908
+13295	smithsy01	8/31/1883	USA	SC	Smithville	6/5/1961	USA	SC	Orangeburg	Syd	Smith	190	70	R	R	4/14/1908	4/18/1915
+2354	charlch01	3/25/1881	USA	NJ	Phillipsburg	8/4/1959	USA	PA	Bethlehem	Chappy	Charles	175	71	R	R	4/15/1908	5/28/1910
+15320	wilsoch01	8/21/1883	USA	TX	Austin	2/22/1954	USA	TX	Bertram	Chief	Wilson	185	74	L	R	4/15/1908	10/1/1916
+11519	purtebi01	1/6/1886	USA	OH	Columbus	3/17/1962	USA	FL	Bradenton	Billy	Purtell	170	69	R	R	4/16/1908	9/22/1914
+6386	hochha01	1/9/1887	USA	DE	Woodside	10/26/1981	USA	DE	Lewes	Harry	Hoch	165		R	R	4/16/1908	6/24/1915
+8710	malarbi01	11/26/1878	USA	IL	Port Byron	12/12/1956	USA	AZ	Phoenix	Bill	Malarkey	185	70	R	R	4/16/1908	8/16/1908
+13843	summeed01	12/5/1884	USA	IN	Ladoga	5/12/1953	USA	IN	Indianapolis	Ed	Summers	180	74	B	R	4/16/1908	6/1/1912
+9940	moranhe01	2/16/1884	USA	PA	Costello	9/21/1954	USA	NY	Clarkson	Herbie	Moran	150	65	L	R	4/16/1908	10/7/1915
+4211	evansst01	2/17/1885	USA	OH	Cleveland	12/28/1943	USA	OH	Cleveland	Steve	Evans	175	70	L	L	4/16/1908	10/3/1915
+12415	sallesl01	2/3/1885	USA	OH	Higginsport	3/23/1950	USA	OH	Higginsport	Slim	Sallee	180	75	R	L	4/16/1908	9/20/1921
+10601	orourpa01	4/13/1881	USA	PA	Philadelphia	4/18/1956	USA	PA	Philadelphia	Patsy	O'Rourke	160	67	R	R	4/16/1908	7/12/1908
+8494	ludwibi01	5/27/1882	USA	KY	Louisville	9/5/1947	USA	KY	Louisville	Bill	Ludwig			R	R	4/16/1908	10/3/1908
+14311	tozerbi01	7/3/1882	USA	MO	St. Louis	2/23/1955	USA	CA	Belmont	Bill	Tozer	200	72	R	R	4/16/1908	5/10/1908
+12617	schlibi01	12/4/1884	USA	NY	Rochester	1/4/1948	USA	MA	Wellesley Hills	Biff	Schlitzer	175	71	R	R	4/17/1908	5/1/1914
+9136	mcconam01	4/29/1883	USA	VT	North Pownal	5/20/1942	USA	NY	Utica	Amby	McConnell	150	67	L	R	4/17/1908	10/8/1911
+9258	mcgilbi02	4/29/1883	USA	OR	Portland	5/23/1952	USA	CO	Denver	Bill	McGilvray	160	72	L	L	4/17/1908	4/27/1908
+8004	lattibi01	5/25/1884	USA	TX	Roxton	10/30/1919	USA	CO	Colorado Springs	Bill	Lattimore	165	69	L	L	4/17/1908	5/28/1908
+6250	herzobu01	7/9/1885	USA	MD	Baltimore	9/4/1953	USA	MD	Baltimore	Buck	Herzog	160	71	R	R	4/17/1908	9/9/1920
+10549	oconnpa02	8/4/1879	Ireland		County Kerry	8/17/1950	USA	MA	Springfield	Paddy	O'Connor	168	68	R	R	4/17/1908	7/22/1918
+1859	burnsbi01	1/27/1880	USA	TX	San Saba	6/6/1953	USA	CA	Ramona	Bill	Burns	195	74	B	L	4/18/1908	5/23/1912
+7326	keelebu01	11/2/1879	USA	IL	Wilmington	5/3/1952	USA	MN	Ely	Burt	Keeley	170	69	R	R	4/18/1908	5/14/1909
+2979	cravaga01	3/23/1881	USA	CA	Escondido	5/23/1963	USA	CA	Laguna Beach	Gavvy	Cravath	186		R	R	4/18/1908	10/2/1920
+5374	grahabi01	7/22/1884	USA	MI	Owosso	2/15/1936	USA	MI	Holt	Bill	Grahame		72		L	4/18/1908	6/14/1910
+819	beckebe01	7/5/1886	USA	KS	ElDorado	8/16/1943	USA	CA	Huntington Park	Beals	Becker	170	69	L	L	4/19/1908	10/6/1915
+2272	catesel01	1/26/1877	USA	IN	Greens Fork	5/29/1964	USA	IN	Anderson	Eli	Cates	175		R	R	4/20/1908	9/29/1908
+3023	crissdo01	3/12/1885	USA	MS	Sherman	9/8/1955	USA	MS	Sherman	Dode	Criss	200	74	L	R	4/20/1908	8/25/1911
+7755	krausha01	7/12/1888	USA	CA	San Francisco	10/23/1940	USA	CA	San Francisco	Harry	Krause	165	70	B	L	4/20/1908	7/28/1912
+7877	lakejo01	1/6/1881	USA	NY	Brooklyn	6/30/1950	USA	NY	Brooklyn	Joe	Lake	185	72	R	R	4/21/1908	8/25/1913
+7263	kaneji01	11/27/1881	USA	PA	Scranton	10/2/1947	USA	NE	Omaha	Jim	Kane	225	74	L	L	4/21/1908	10/4/1908
+13795	suggsge01	7/7/1882	USA	NC	Kinston	4/4/1949	USA	NC	Kinston	George	Suggs	168		R	R	4/21/1908	9/18/1915
+15661	youngha01	9/28/1883	USA	IN	Portland	3/26/1975	USA	FL	Jacksonville	Harley	Young	169	74	R	R	4/21/1908	7/4/1908
+2974	cranddo01	10/8/1887	USA	IN	Wadena	8/17/1951	USA	CA	Bell	Doc	Crandall	180		R	R	4/24/1908	8/31/1918
+3298	davidho01	10/14/1884	USA	OH	Cleveland	7/26/1948	USA	MI	Detroit	Homer	Davidson	155		R	R	4/25/1908	8/11/1908
+11106	perrige01	8/13/1884	USA	WI	Sharon	8/20/1960	USA	WI	Beloit	George	Perring	190	72	R	R	4/25/1908	10/3/1915
+10312	neighcy01	9/23/1880	USA	MO	Fayetteville	5/20/1964	USA	WA	Tacoma	Cy	Neighbors	178	70	R		4/29/1908	4/29/1908
+12713	schweal01	12/23/1882	USA	OH	Cleveland	1/27/1969	USA	OH	Newark	Al	Schweitzer	170	66	R	R	4/30/1908	10/8/1911
+5379	graneja01	6/10/1886	CAN	ON	St. Thomas	4/20/1978	USA	MO	Louisiana	Jack	Graney	180	69	L	L	4/30/1908	6/28/1922
+4657	foxenbi01	5/31/1879	USA	NJ	Tenafly	4/17/1937	USA	NY	Brooklyn	Bill	Foxen	165		L	L	5/5/1908	5/5/1911
+2133	carliwa01	7/6/1881	England		Yorkshire	5/27/1945	USA	CA	Los Angeles	Walter	Carlisle	154	69	B	R	5/8/1908	5/11/1908
+1187	blissja01	1/9/1882	USA	WA	Vancouver	10/23/1968	USA	CA	Temple City	Jack	Bliss	185	69	R	R	5/10/1908	9/30/1912
+9102	mccarto02	5/22/1884	USA	IN	Fort Wayne	3/28/1933	USA	IN	Mishawaka	Tom	McCarthy	170	67		R	5/10/1908	7/7/1909
+13906	sweened01	7/19/1888	USA	IL	Chicago	7/4/1947	USA	IL	Chicago	Ed	Sweeney	200	73	R	R	5/16/1908	6/1/1919
+12887	shawhu01	9/29/1884	USA	WA	Yakima	7/3/1969	USA	WA	Yakima	Hunky	Shaw	165	68	B	R	5/16/1908	5/16/1908
+10318	nelsoan01	11/30/1884	USA	MN	St. Paul					Andy	Nelson				L	5/26/1908	6/6/1908
+3669	donahpa01	11/8/1884	USA	OH	Springfield	1/31/1966	USA	OH	Springfield	Pat	Donahue	175	72	R	R	5/29/1908	9/5/1910
+4651	foxja01	5/21/1885	USA	PA	Reading	6/28/1963	USA	PA	Reading	Jack	Fox	185	70	R	R	6/2/1908	6/20/1908
+13325	snodgfr01	10/19/1887	USA	CA	Ventura	4/5/1974	USA	CA	Ventura	Fred	Snodgrass	175		R	R	6/4/1908	10/5/1916
+2070	campbvi01	1/30/1888	USA	MO	St. Louis	11/16/1969	USA	MD	Towson	Vin	Campbell	185	72	L	R	6/6/1908	9/27/1915
+4412	finlape01	7/31/1888	USA	SC	Cheraw	3/6/1912	USA	NY	Brooklyn	Pembroke	Finlayson	140	66	R	R	6/6/1908	9/1/1909
+1200	bluebe01	12/9/1877	USA	OH	Bettsville	9/2/1929	USA	MI	Detroit	Bert	Blue	200	75	R	R	6/15/1908	9/4/1908
+14570	vaughhi01	4/9/1888	USA	TX	Weatherford	5/29/1966	USA	IL	Chicago	Hippo	Vaughn	215	76	B	L	6/19/1908	7/9/1921
+5934	hartmch01	8/10/1888	USA	CA	Los Angeles	10/22/1960	USA	CA	Los Angeles	Charlie	Hartman					6/24/1908	6/24/1908
+4927	gardnla01	5/13/1886	USA	VT	Enosburg Falls	3/11/1976	USA	VT	St.George	Larry	Gardner	165	68	L	R	6/25/1908	9/6/1924
+3825	dubucje01	9/15/1888	USA	VT	St. Johnsbury	8/28/1958	USA	FL	Fort Myers	Jean	Dubuc	185		R	R	6/25/1908	9/26/1919
+13085	sincobe01	9/8/1887	CAN	BC	Barkerville	8/1/1946	USA	MI	Houghton	Bert	Sincock	165		L	L	6/25/1908	6/25/1908
+10991	pearcdu01	3/17/1885	USA	OH	Corning	5/22/1933	USA	IN	Brownstown	Bunny	Pearce	185	73	R	R	7/1/1908	5/30/1909
+10672	olmstfr01	7/3/1881	USA	MI	Grand Rapids	10/22/1936	USA	OK	Muskogee	Fred	Olmstead	170	71	R	R	7/2/1908	9/4/1911
+12364	ryanja02	9/19/1884	USA	IL	Lawrenceville	10/16/1949	USA	MS	Handsboro	Jack	Ryan	165	70	R	R	7/2/1908	5/9/1911
+683	barryja01	4/26/1887	USA	CT	Meriden	4/23/1961	USA	MA	Shrewsbury	Jack	Barry	158	69	R	R	7/13/1908	6/23/1919
+8599	mackbi01	2/12/1885	USA	NY	Elmira	9/30/1971	USA	NY	Elmira	Bill	Mack	155	73	L	L	7/14/1908	7/21/1908
+11773	reillto01	8/3/1884	USA	MO	St. Louis	10/18/1918	USA	LA	New Orleans	Tom	Reilly		70	R	R	7/27/1908	7/3/1914
+332	arellfr01	1/28/1882	USA	CA	Santa Cruz	12/13/1918	USA	CA	San Jose	Frank	Arellanes	180	72	R	R	7/28/1908	8/14/1910
+4617	fosteed01	//1880				3/1/1929	USA	AL	Montgomery	Ed	Foster		73	R	R	7/31/1908	10/5/1908
+1076	billiha01	11/11/1883	USA	IN	Monroe	6/3/1923	USA	OH	Wooster	Harry	Billiard	190	72	R	R	7/31/1908	10/3/1915
+13451	spongca01	5/21/1884	USA	ID	Idaho Falls	7/21/1938	USA	CA	Los Angeles	Carl	Spongberg	208	74	R	R	8/1/1908	8/1/1908
+2915	coulsbo01	6/17/1887	USA	PA	Courtney	9/11/1953	USA	PA	Washington	Bob	Coulson	175	70	R	R	8/4/1908	7/3/1914
+8742	malonch01	5/22/1886	USA	MA	Cambridge	1/17/1967	USA	MA	Arlington	Charlie	Maloney	155	68	R	R	8/10/1908	8/10/1908
+14385	tucketo02	10/7/1884	USA	CT	Union City	10/17/1950	USA	NY	New York	Tom	Tuckey	190	71.5		L	8/11/1908	8/9/1909
+10602	orourqu01	12/26/1883	USA	CT	Bridgeport	12/22/1955	USA	MD	Sparrows Point	Queenie	O'Rourke	150	67	R	R	8/15/1908	10/8/1908
+2551	clemewa01	7/21/1881	USA	ME	Auburn	11/1/1953	USA	FL	Coral Gables	Wally	Clement	175	71	L	R	8/17/1908	10/6/1909
+9389	mcmilto01	4/18/1888	USA	PA	Pittston	7/15/1966	USA	FL	Orlando	Tommy	McMillan	130	65	R	R	8/19/1908	10/5/1912
+2352	chappbi01	3/22/1881	USA	NY	Waterloo	12/31/1944	USA	NY	Mineola	Bill	Chappelle	206	74	R	R	8/20/1908	9/24/1914
+654	barrsc01	10/6/1886	USA	TN	Bristol	12/2/1934	USA	TX	Ft.Worth	Scotty	Barr	175	72	R	R	8/22/1908	7/17/1909
+15484	woodjo02	10/25/1889	USA	MO	Kansas City	7/27/1985	USA	CT	West Haven	Joe	Wood	180	71	R	R	8/24/1908	9/24/1922
+6843	jacksjo01	7/16/1889	USA	SC	Pickens County	12/5/1951	USA	SC	Greenville	Joe	Jackson	200	73	L	R	8/25/1908	9/27/1920
+5124	gillwa01	12/21/1878	USA	IN	Ladoga	11/26/1952	USA	CA	Laguna Beach	Warren	Gill	175	73	R	R	8/26/1908	9/29/1908
+14484	vailbo01	9/24/1881	USA	ME	Linneus	3/22/1942	USA	PA	Philadelphia	Bob	Vail	165	70	R	R	8/27/1908	9/18/1908
+3212	daleyto01	11/13/1884	USA	PA	DuBois	12/2/1934	USA	CA	Los Angeles	Tom	Daley	168	65	L	R	8/29/1908	7/9/1915
+10149	murdowi01	3/14/1875	USA	NY	Avon	10/29/1941	USA	CA	Los Angeles	Wilbur	Murdoch				R	8/29/1908	10/3/1908
+10007	morriwa01	1/31/1880	USA	TX	Rockwall	8/2/1961	USA	TX	Dallas	Walter	Morris		71	R	R	8/31/1908	9/26/1908
+8791	manusfr01	9/18/1883	USA	AL	Tuscumbia	1/5/1965	USA	CA	Laguna Beach	Frank	Manush	175		R	R	8/31/1908	10/2/1908
+4279	farmeal01	5/9/1877	USA	NY	New York	3/5/1920	USA	NY	Bronx	Alex	Farmer	175	72	R	R	9/1/1908	9/29/1908
+11111	perrycl01	12/18/1881	USA	WI	Clayton	1/13/1954	USA	WI	Rice Lake	Clay	Perry	175		R	R	9/2/1908	9/13/1908
+7910	landgr01	9/22/1884	USA	KY	Frankfort	7/22/1958	USA	AZ	Phoenix	Grover	Land	190	72	R	R	9/2/1908	9/25/1915
+1478	brandch01	3/31/1887	USA	KS	Coldwater	10/7/1958	USA	CA	Santa Ana	Chick	Brandom	161	68	R	R	9/3/1908	9/7/1915
+4828	gaisefr01	8/31/1885	Germany		Stuttgart	10/9/1918	USA	NJ	Trenton	Fred	Gaiser				R	9/3/1908	9/3/1908
+6384	hoblidi01	10/26/1888	USA	WV	Waverly	11/14/1962	USA	WV	Parkersburg	Dick	Hoblitzel	172	72	L	L	9/5/1908	6/7/1918
+1022	beschbo01	2/25/1884	USA	OH	London	11/29/1942	USA	OH	London	Bob	Bescher	200	73	B	L	9/5/1908	9/1/1918
+9362	mclaura01	5/23/1885	USA	FL	Kissimmee	2/11/1943	USA	SC	McColl	Ralph	McLaurin					9/5/1908	10/4/1908
+540	baldwof01	11/3/1881	USA	MI	Carson City	2/16/1942	USA	CA	Los Angeles	O.F.	Baldwin	185			R	9/6/1908	9/22/1908
+770	bayledi01	9/6/1883	USA	MO	Joplin	12/16/1920	USA	NM	Santa Rita	Dick	Bayless	178	69	L	R	9/9/1908	10/4/1908
+7962	lappja01	9/10/1884	USA	PA	Frazer	2/6/1920	USA	PA	Philadelphia	Jack	Lapp	160	68	L	R	9/11/1908	10/1/1916
+3882	dunnjo01	3/11/1885	USA	OH	Springfield	3/19/1944	USA	OH	Springfield	Joe	Dunn	160	69	R	R	9/12/1908	9/26/1909
+12420	salvegu01	12/29/1885	USA	MA	Boston	3/29/1971	USA	RI	Providence	Gus	Salve	190	72	L	L	9/14/1908	9/14/1908
+15360	wilsope01	10/9/1885	USA	MA	Springfield	6/5/1957	USA	FL	St.Petersburg	Pete	Wilson				L	9/15/1908	10/2/1909
+4021	egandi01	6/23/1884	USA	OR	Portland	7/7/1947	USA	CA	Oakland	Dick	Egan	162	71	R	R	9/15/1908	10/5/1916
+13590	stemfr01	9/22/1885	USA	NC	Oxford	9/5/1964	USA	SC	Darlington	Fred	Stem	160	74	L	R	9/15/1908	8/15/1909
+8968	matteal01	6/16/1883	USA	NY	West Rush	11/6/1958	USA	NY	West Rush	Al	Mattern	165	70	L	R	9/16/1908	4/19/1912
+2997	creebi01	10/23/1882	USA	PA	Khedive	11/8/1942	USA	PA	Sunbury	Birdie	Cree	150	66	R	R	9/17/1908	9/21/1915
+4921	gardnea01	1/24/1884	USA	IL	Sparta	3/2/1943	USA	IL	Sparta	Earle	Gardner	160	71	R	R	9/18/1908	6/22/1912
+1908	bushdo01	10/8/1887	USA	IN	Indianapolis	3/28/1972	USA	IN	Indianapolis	Donie	Bush	140	66	B	R	9/18/1908	9/15/1923
+14142	thomawa01	4/28/1884	USA	PA	Foot Of Ten	6/6/1950	USA	PA	Altoona	Walt	Thomas	156	68	R	R	9/18/1908	9/19/1908
+4503	flateja01	9/22/1880	USA	MD	Sandymount	3/20/1970	USA	MD	Westminster	Jack	Flater	175	70	R	R	9/18/1908	10/3/1908
+14846	warhoja01	7/4/1884	USA	WV	Hinton	10/4/1960	USA	IL	Freeport	Jack	Warhop	168		R	R	9/19/1908	8/12/1915
+2279	catteto01	8/25/1884	USA	RI	Warwick	2/5/1920	USA	ME	Portland	Tom	Catterson	170	70	L	L	9/19/1908	5/24/1909
+10607	otoolma01	11/27/1888	USA	PA	Wm.Penn	2/18/1949	USA	WA	Aberdeen	Marty	O'Toole	175	71	R	R	9/21/1908	10/6/1914
+6996	johnsch01	3/12/1885	USA	PA	Slatington	8/28/1940	USA	PA	Marcus Hook	Charlie	Johnson	150	69	L	L	9/21/1908	10/7/1908
+506	bakerfr01	3/13/1886	USA	MD	Trappe	6/28/1963	USA	MD	Trappe	Frank	Baker	173	71	L	R	9/21/1908	9/29/1922
+12517	savidra01	2/3/1879	USA	PA	Jerseytown	7/22/1959	USA	PA	Berwick	Ralph	Savidge	210	74	R	R	9/22/1908	5/19/1909
+13754	strunam01	1/22/1889	USA	PA	Philadelphia	7/22/1979	USA	PA	Llanerch	Amos	Strunk	175		L	L	9/24/1908	6/28/1924
+8822	marquru01	10/9/1886	USA	OH	Cleveland	6/1/1980	USA	MD	Baltimore	Rube	Marquard	180	75	B	L	9/25/1908	9/18/1925
+3543	devorjo01	11/13/1887	USA	OH	Murray City	10/6/1954	USA	OH	Chillicothe	Josh	Devore	160	66	L	L	9/25/1908	10/6/1914
+7368	kelloal01	9/9/1886	USA	RI	Providence	7/21/1953	USA	OR	Portland	Al	Kellogg	208	75		L	9/25/1908	10/3/1908
+4020	eganbe01	11/20/1883	USA	NY	Augusta	2/18/1968	USA	NY	Sherrill	Ben	Egan	195	72	R	R	9/29/1908	9/23/1915
+15313	wilsoar01	12/11/1885	USA	IL	Macon	6/12/1960	USA	IL	Chicago	Art	Wilson	170	68	R	R	9/29/1908	6/12/1921
+4400	filesed01	5/19/1883	USA	ME	Portland	5/10/1954	USA	ME	Cornish	Eddie	Files			R	R	10/3/1908	10/7/1908
+9372	mcmahdo01	12/19/1886	USA	MA	Woburn	12/11/1929	USA	MA	Woburn	Doc	McMahon					10/6/1908	10/6/1908
+7796	krugeab01	2/14/1885	USA	PA	Morris Run	7/4/1962	USA	NY	Elmira	Abe	Kruger	190	74	R	R	10/6/1908	10/7/1908
+10542	oconnan01	9/14/1884	USA	MA	Roxbury	9/26/1980	USA	MA	Norwood	Andy	O'Connor	160	72	R	R	10/6/1908	10/6/1908
+8863	martido01	9/23/1887	USA	MA	Roxbury	4/14/1935	USA	MA	Milton	Doc	Martin	165	71	R	R	10/7/1908	6/5/1912
+3481	demmira01	2/2/1884	USA	IL	Illiopolis	2/19/1956	USA	IL	Glen Ellyn	Ray	Demmitt	170	68	L	R	4/12/1909	9/28/1919
+4110	englecl01	3/19/1884	USA	OH	Dayton	12/26/1939	USA	MA	Boston	Clyde	Engle	190	70	R	R	4/12/1909	6/9/1916
+3248	danziba01	4/30/1887	USA	NY	Binghamton	7/14/1931	USA	CA	San Francisco	Babe	Danzig	205	74	R	R	4/12/1909	5/4/1909
+9308	mcinnst01	9/19/1890	USA	MA	Gloucester	2/16/1960	USA	MA	Ipswich	Stuffy	McInnis	162		R	R	4/12/1909	8/1/1927
+5405	graydo01	12/4/1878	USA	MI	Houghton	4/4/1956	USA	CA	Yuba City	Dolly	Gray	160	74	L	L	4/13/1909	9/29/1911
+5527	groombo01	9/12/1884	USA	IL	Belleville	2/19/1948	USA	IL	Belleville	Bob	Groom	175	74	R	R	4/13/1909	7/20/1918
+9137	mcconge01	9/16/1877	USA	TN	Shelbyville	5/10/1964	USA	TN	Chattanooga	George	McConnell	190	75	R	R	4/13/1909	9/26/1916
+2038	camniha01	10/26/1884	USA	KY	McKinney	1/6/1951	USA	KY	Louisville	Harry	Camnitz	168	73	R	R	4/14/1909	10/3/1911
+813	beckfr02	11/17/1886	USA	IL	Havana	3/12/1962	USA	IL	Havana	Fred	Beck	180	73	L	L	4/14/1909	10/3/1915
+10608	oakesre01	12/17/1883	USA	LA	Arizona	2/29/1948	USA	LA	Rocky Springs	Rebel	Oakes	170	68	L	R	4/14/1909	10/3/1915
+9714	millewa02	7/5/1884	USA	IL	Mount Carroll	9/4/1958	USA	IL	Dixon	Ward	Miller	177	71	L	R	4/14/1909	7/15/1917
+4512	fletcar01	1/5/1885	USA	IL	Collinsville	2/6/1950	USA	CA	Los Angeles	Art	Fletcher	170		R	R	4/15/1909	9/16/1922
+6782	hyattha01	11/1/1884	USA	NC	Buncombe County	9/11/1963	USA	WA	Liberty Lake	Ham	Hyatt	185	73	L	R	4/15/1909	9/2/1918
+4077	ellisru01	11/17/1885	USA	CA	Downey	3/13/1938	USA	CA	Rivera	Rube	Ellis	170	72	L	L	4/15/1909	10/6/1912
+11551	quinnja01	7/1/1883	Austria-Hungary		Stefurov	4/17/1946	USA	PA	Pottsville	Jack	Quinn	196	72	R	R	4/15/1909	7/7/1933
+10563	oharabi01	8/14/1883	CAN	ON	Toronto	6/15/1931	USA	NJ	Jersey City	Bill	O'Hara	165	70	L	R	4/15/1909	5/8/1910
+9947	morefo01	8/30/1881	USA	IN	Hayden	8/17/1968	USA	IN	Columbus	Forrest	More	180	72	R	R	4/15/1909	9/8/1909
+7865	lafited01	4/7/1886	USA	LA	New Orleans	4/12/1971	USA	PA	Jenkintown	Ed	Lafitte	188	74	R	R	4/16/1909	8/26/1915
+11412	powelbi01	5/8/1885	USA	VA	Richmond	9/28/1967	USA	OH	E.Liverpool	Bill	Powell	182		R	R	4/16/1909	4/28/1913
+818	beckehe01	6/15/1884	USA	NY	New York	9/15/1949	USA	NY	Jackson Heights	Heinie	Beckendorf	174	69	R	R	4/16/1909	9/10/1910
+5658	hagerri01	6/20/1888	USA	KS	Lyndon	1/30/1930	USA	NM	Albuquerque	Rip	Hagerman	200	74	R	R	4/16/1909	5/11/1916
+9594	meyerch01	7/29/1880	USA	CA	Riverside	7/25/1971	USA	CA	San Bernardino	Chief	Meyers	194	71	R	R	4/16/1909	10/4/1917
+6523	hoopeha01	8/24/1887	USA	CA	Bell Station	12/18/1974	USA	CA	Santa Cruz	Harry	Hooper	168	70	L	R	4/16/1909	10/4/1925
+13862	suterha01	9/15/1887	USA	MO	Independence	7/24/1971	USA	KS	Topeka	Harry	Suter	190	70	L	L	4/16/1909	10/2/1909
+9657	milledo02	9/9/1886	USA	NJ	Kearny	9/5/1923	USA	NY	Saranac Lake	Dots	Miller	170		R	R	4/16/1909	9/27/1921
+3962	eastete01	4/20/1885	USA	NE	Lincoln	7/6/1951	USA	CA	Clearlake Highlands	Ted	Easterly	165	68	L	R	4/17/1909	10/3/1915
+7836	kustuju01	9/5/1882	USA	MI	Detroit	4/27/1916	USA	MI	Eloise	Jul	Kustus		70	R	R	4/17/1909	7/10/1909
+11597	rafteto01	10/5/1881	USA	MA	Boston	12/31/1954	USA	MA	Boston	Tom	Raftery	175		R	R	4/18/1909	6/27/1909
+15566	wrighlu01	2/21/1880	USA	OH	Tontogany	7/6/1941	USA	OH	Tontogany	Lucky	Wright	178	72	R	R	4/18/1909	5/18/1909
+4123	enwrich01	10/6/1887	USA	CA	Sacramento	1/19/1917	USA	CA	Sacramento	Charlie	Enwright		70	L	R	4/19/1909	4/22/1909
+418	austiji01	12/8/1879	Wales		Swansea	3/6/1965	USA	CA	Laguna Beach	Jimmy	Austin	155		B	R	4/19/1909	10/6/1929
+11598	raganpa01	11/15/1885	USA	IA	Blanchard	9/4/1956	USA	CA	Los Angeles	Pat	Ragan	185		R	R	4/21/1909	7/5/1923
+4960	gaspaha01	4/28/1883	USA	IA	Kingsley	5/14/1940	USA	CA	Orange	Harry	Gaspar	180	72	R	R	4/21/1909	6/20/1912
+12843	shafeti01	3/22/1889	USA	CA	Los Angeles	1/10/1962	USA	CA	Los Angeles	Tillie	Shafer	165	70	B	R	4/24/1909	10/4/1913
+13410	speerki01	6/16/1886	USA	MO	Corning	1/13/1946	CAN	AB	Edmonton	Kid	Speer	152	69	L	L	4/24/1909	10/1/1909
+13104	sittoca01	9/22/1881	USA	SC	Pendleton	9/11/1931	USA	GA	Valdosta	Carl	Sitton	170		R	R	4/24/1909	9/2/1909
+12736	scottji01	4/23/1888	USA	SD	Deadwood	4/7/1957	USA	CA	Jacumba	Jim	Scott	235	73	R	R	4/25/1909	8/17/1917
+9213	mcelvpr01	11/5/1881	USA	GA	Atlanta	10/27/1951	USA	TN	Pleasant Hill	Pryor	McElveen	168	70	R	R	4/26/1909	6/4/1911
+6093	heitmhe01	5/25/1883	USA	CA	San Francisco	10/8/1912	USA	CA	Los Angeles	Heinie	Heitmuller	215	74	R	R	4/26/1909	7/23/1910
+14775	wallere01	6/16/1883	USA	DC	Washington	2/9/1915	USA	NJ	Secaucus	Red	Waller					4/27/1909	4/27/1909
+14671	wackech01	12/8/1883	USA	IN	Jeffersonville	8/7/1948	USA	IN	Evansville	Charlie	Wacker		69	L	L	4/28/1909	4/28/1909
+4589	fordru01	4/25/1883	CAN	MB	Brandon	1/24/1960	USA	NC	Rockingham	Russ	Ford	175	71	R	R	4/28/1909	8/16/1915
+9982	moriabi01	8//1883	USA	IL	Chicago	12/25/1916	USA	IL	Elgin	Bill	Moriarty	180	74	R	R	4/29/1909	5/3/1909
+15532	worksra01	3/16/1888	USA	IL	Payson	8/8/1941	USA	CA	Pasadena	Ralph	Works	185		L	R	5/1/1909	4/28/1913
+5498	griggar01	12/10/1884	USA	KS	Topeka	12/19/1938	USA	CA	Los Angeles	Art	Griggs	185	71	R	R	5/2/1909	9/2/1918
+15111	whiteki01	1/3/1884	USA	OH	Hillsboro	4/22/1943	USA	OH	Hillsboro	Kirby	White	190	72	L	R	5/4/1909	5/24/1911
+6739	huntege01	7/8/1887	USA	NY	Buffalo	1/11/1968	USA	PA	Harrisburg	George	Hunter	165		B	L	5/4/1909	5/9/1910
+3750	downeto01	1/1/1884	USA	ME	Lewiston	8/3/1961	USA	NJ	Passaic	Tom	Downey	178	70	R	R	5/7/1909	9/30/1915
+12626	schmibu01	7/19/1886	USA	MD	Baltimore	9/4/1952	USA	MD	Baltimore	Butch	Schmidt	200		L	L	5/11/1909	9/10/1915
+14526	vandybe01	8/15/1888	USA	PA	Clintonville	10/22/1973	USA	FL	Sarasota	Ben	Van Dyke	150	73	R	L	5/11/1909	9/26/1912
+6297	higgied01	3/18/1888	USA	IL	Nevada	2/14/1959	USA	IL	Elgin	Eddie	Higgins	174	72	R	R	5/14/1909	7/31/1910
+10949	patteha02	10/13/1877	USA	IL	Belleville	11/25/1945	USA	IL	Swansea	Ham	Patterson	185	74	R	R	5/18/1909	8/30/1909
+2098	cantwto01	12/23/1888	USA	DC	Washington	4/1/1968	USA	DC	Washington	Tom	Cantwell	170	72	L	R	5/19/1909	5/24/1910
+4716	frencch01	10/12/1883	USA	IN	Indianapolis	3/30/1962	USA	IN	Indianapolis	Charlie	French	140	66	L	R	5/23/1909	9/13/1910
+13303	smithwi01	8/30/1886	USA	MI	Evart	11/18/1959	USA	ND	Fargo	Wib	Smith	165		L	R	5/31/1909	9/29/1909
+8628	maddebu01	9/14/1882	USA	MA	Boston	1/20/1954	USA	MA	Cambridge	Bunny	Madden	190	70	R	R	6/3/1909	9/21/1911
+14565	vaughbo01	6/4/1885	USA	NY	Stamford	4/11/1965	USA	WA	Seattle	Bobby	Vaughn	150	69	R	R	6/12/1909	10/3/1915
+2605	coffeja01	1/28/1887	USA	NY	New York	2/14/1966	USA	NY	Bronx	Jack	Coffey	178	71	R	R	6/23/1909	9/2/1918
+5843	harmobo01	10/15/1887	USA	MO	Liberal	11/27/1961	USA	LA	Monroe	Bob	Harmon	187	72	B	R	6/23/1909	6/28/1918
+8145	lelivja01	11/14/1885	USA	IL	Chicago	1/20/1941	USA	WA	Seattle	Jack	Lelivelt	175		L	L	6/24/1909	6/13/1914
+9503	meltest01	1/2/1886	USA	IA	Marcus	1/28/1962	USA	IN	Mishawaka	Steve	Melter	180	74	R	R	6/27/1909	10/6/1909
+13068	simonmi01	4/13/1883	USA	IN	Hayden	6/10/1963	USA	CA	Los Angeles	Mike	Simon	188	71	R	R	6/27/1909	9/30/1915
+4755	froelbe01	11/12/1887	USA	PA	Pittsburgh	9/1/1916	USA	PA	Pittsburgh	Ben	Froelich			R	R	7/2/1909	7/2/1909
+11767	reillba01	2/7/1885	USA	MA	Brockton	11/15/1934	USA	MO	St.Joseph	Barney	Reilly	175	72	R	R	7/2/1909	9/5/1909
+8459	lowdegr01	1/15/1885	USA	IN	Sandborn	3/31/1968	USA	IL	Odin	Grover	Lowdermilk	190	76	R	R	7/3/1909	5/12/1920
+447	backmle01	3/20/1888	USA	OH	Cleves	11/8/1975	USA	OH	Cincinnati	Les	Backman	195	72	R	R	7/3/1909	8/28/1910
+8856	martedo01	6/29/1883	USA	MA	Weymouth	10/11/1947	USA	DC	Washington	Doc	Martel	185	72	R	R	7/6/1909	6/18/1910
+10860	papela01	7/21/1883	USA	OH	Norwood	7/21/1918	USA	PA	Swissvale	Larry	Pape	175	71	R	R	7/6/1909	9/26/1912
+6593	hovlijo01	8/16/1884	Czechoslovakia			11/3/1951	USA	IA	Oxford Junction	Joe	Hovlik	194		R	R	7/10/1909	9/25/1911
+7397	kellysp01	8/19/1884	USA	OH	Bryan	5/6/1949	USA	IN	Goshen	Speed	Kelly	185	74	R	R	7/13/1909	10/1/1909
+8144	lelivbi01	10/21/1884	USA	IL	Chicago	2/14/1968	USA	IL	Chicago	Bill	Lelivelt	168	70	R	R	7/19/1909	5/6/1910
+2683	collira01	2/11/1887	USA	VT	Colchester	1/9/1970	USA	VT	Burlington	Ray	Collins	185	73	L	L	7/19/1909	10/7/1915
+10488	noursch01	8/7/1887	USA	MA	Ipswich	4/20/1958	USA	FL	Clearwater	Chet	Nourse	185	75	R	R	7/27/1909	8/4/1909
+13086	sinerho01	3/20/1885	USA	IN	Shelburn	6/10/1948	USA	IN	Sullivan	Hosea	Siner	185		R	R	7/28/1909	8/23/1909
+10639	ohljo01	1/10/1888	USA	NJ	Jobstown	12/18/1951	USA	NJ	Camden	Joe	Ohl			L	L	7/29/1909	8/5/1909
+9715	millewa01	7/14/1885	USA	PA	Philadelphia	8/12/1956	USA	PA	Philadelphia	Warren	Miller	160	70	L	L	7/29/1909	6/9/1911
+1298	boolere01	7/14/1880	USA	LA	Bernice	3/16/1955	USA	LA	Monroe	Red	Booles	150	70	L	L	7/30/1909	8/20/1909
+9202	mcdoned01	9/11/1886	USA	IL	Elgin	9/2/1926	USA	IL	Elgin	Ed	McDonough	160	72	R	R	8/3/1909	10/11/1910
+10172	murphho01	1/1/1882	USA	AL	Birmingham	10/5/1926	USA	TX	Fort Worth	Howard	Murphy	150		L	R	8/4/1909	10/6/1909
+11613	raleijo01	4/21/1887	USA	WI	Elkhorn	8/24/1955	USA	CA	Escondido	John	Raleigh	165	69	R	L	8/4/1909	7/12/1910
+12536	scanlfr01	4/28/1890	USA	NY	Syracuse	4/9/1969	USA	NY	Brooklyn	Frank	Scanlan	175		L	L	8/6/1909	9/1/1909
+13814	sulliha01	4/22/1888	USA	IL	Rockford	9/22/1919	USA	IL	Rockford	Harry	Sullivan			L	L	8/11/1909	9/23/1909
+11658	raridbi01	2/4/1888	USA	IN	Bedford	8/28/1942	USA	IN	Bedford	Bill	Rariden	168	70	R	R	8/12/1909	10/2/1920
+1157	blankco01	10/18/1892	USA	MO	St. Louis	12/8/1961	USA	MO	St.Louis	Coonie	Blank	165	71	R	R	8/15/1909	8/15/1909
+3658	dolanco02	12/23/1889	USA	IL	Chicago	12/10/1958	USA	IL	Chicago	Cozy	Dolan	160	70	R	R	8/15/1909	7/7/1922
+5049	getzgu01	8/3/1889	USA	PA	Pittsburgh	5/28/1969	USA	NJ	Red Bank	Gus	Getz	165	71	R	R	8/15/1909	7/10/1918
+2638	colewi01	1/6/1882	USA	WI	Milton Junction	10/11/1965	USA	WI	Madison	Willis	Cole	170	68	R	R	8/22/1909	6/13/1910
+3225	dambi01	4/4/1885	USA	MA	Cambridge	6/22/1930	USA	MA	Quincy	Bill	Dam					8/23/1909	8/23/1909
+3159	curticl01	7/3/1881	USA	OH	Delaware	4/23/1943	USA	OH	Utica	Cliff	Curtis	180	74	R	R	8/23/1909	8/16/1913
+2525	clarkto01	5/9/1888	USA	NY	New York	8/14/1945	USA	NY	Corona	Tommy	Clarke	175	71	R	R	8/26/1909	8/21/1918
+8978	matthwi01	1/12/1878	USA	PA	Mahanoy City	1/23/1946	USA	PA	Mt.Carbon	William	Matthews				R	8/28/1909	9/23/1909
+11765	reilldu01	8/25/1884	USA	IL	Chicago	3/4/1968	USA	IN	Indianapolis	Duke	Reilley	148		B	R	8/28/1909	9/28/1909
+9560	messebo01	3/19/1884	USA	ME	Bangor	7/10/1951	USA	ME	Bath	Bobby	Messenger	165		B	R	8/30/1909	5/5/1914
+10237	myershy01	4/27/1889	USA	OH	East Liverpool	5/1/1965	USA	OH	Minerva	Hy	Myers	175		R	R	8/30/1909	5/3/1925
+15631	yohebi01	9/2/1878	USA	IL	Mount Erie	12/24/1938	USA	WA	Bremerton	Bill	Yohe	180	68	R	R	8/30/1909	9/27/1909
+3499	dented01	12/8/1887	USA	MD	Baltimore	11/25/1974	USA	AL	Birmingham	Eddie	Dent	190	73	R	R	8/31/1909	4/11/1912
+14464	uppje01	12/10/1883	USA	OH	Sandusky	6/30/1937	USA	OH	Sandusky	Jerry	Upp				L	9/2/1909	9/27/1909
+2147	carmich01	1/9/1888	USA	IN	Muncie	8/22/1960	USA	NY	Rochester	Chet	Carmichael	200		R	R	9/5/1909	9/23/1909
+10763	otisha01	10/5/1886	USA	NJ	West New York	1/29/1976	USA	NJ	Teaneck	Harry	Otis	180	72	R	L	9/5/1909	9/29/1909
+10942	pattecl01	10/5/1887	USA	KS	Arkansas City	3/28/1913	USA	CA	Mojave	Clare	Patterson	180	72	L	R	9/5/1909	10/5/1909
+11717	redmoha01	9/13/1887	USA	OH	Cleveland	7/10/1960	USA	OH	Cleveland	Harry	Redmond	170	68	R	R	9/7/1909	9/14/1909
+15060	wheatza01	5/23/1888	USA	MO	Hamilton	3/11/1972	USA	MO	Sedalia	Zack	Wheat	170	70	L	R	9/11/1909	9/21/1927
+7635	knetzel01	7/22/1885	USA	PA	Carrick	10/3/1975	USA	PA	Pittsburgh	Elmer	Knetzer	180	70	R	R	9/11/1909	6/18/1917
+13538	starkdo01	1/19/1885	USA	MS	Ripley	12/1/1924	USA	TN	Memphis	Dolly	Stark	160	69	R	R	9/12/1909	5/24/1912
+7496	killebi01	10/10/1887	USA	MI	Bloomingdale	7/3/1960	USA	DE	Elsmere	Bill	Killefer	200		R	R	9/13/1909	10/1/1921
+13005	shottbu01	10/18/1884	USA	OH	Brownhelm	7/29/1962	USA	FL	Lake Wales	Burt	Shotton	175	71	L	R	9/13/1909	4/21/1923
+3038	crompne01	2/13/1889	England		Liverpool	9/28/1950	USA	PA	Aspinwall	Ned	Crompton	175		L	L	9/13/1909	10/8/1910
+3545	devoywa01	3/14/1886	USA	MO	St. Louis	12/17/1953	USA	MO	St.Louis	Walt	DeVoy	165	71	R	R	9/13/1909	10/3/1909
+12221	rosech01	9/1/1885	USA	MO	Macon	8/4/1961	USA	KS	Salina	Chuck	Rose	158		L	L	9/13/1909	9/29/1909
+6295	higgibo01	9/23/1886	USA	TN	Fayetteville	5/25/1941	USA	TN	Chattanooga	Bob	Higgins	176	68	R	R	9/13/1909	5/2/1912
+3749	downere01	2/6/1889	USA	IN	Aurora	7/10/1949	USA	MI	Detroit	Red	Downey	174	71	L	L	9/14/1909	10/7/1909
+15381	winchfr01	1/23/1882	USA	MA	Arlington	8/8/1958	CAN	ON	Toronto	Fred	Winchell		68		R	9/16/1909	10/3/1909
+5138	gillija01	10/18/1885	USA	IL	Chicago	11/19/1980	USA	CA	Modesto	Jack	Gilligan	190	72	B	R	9/16/1909	7/4/1910
+13729	stremph01	4/16/1880	USA	OH	Zanesville	12/26/1947	USA	IL	Chicago	Phil	Stremmel	175	72	R	R	9/16/1909	5/29/1910
+10345	netzemi01	5/12/1886	USA	PA	Eldred	3/18/1938	USA	CA	Oxnard	Milo	Netzel			L	L	9/16/1909	10/3/1909
+6610	howarpa01	5/20/1884	USA	MA	Boston	8/29/1968	USA	FL	Miami	Paul	Howard	170	68	R	R	9/16/1909	9/29/1909
+14720	walkedi01	6/1/1887	USA	PA	Brownsville	11/14/1965	USA	AL	Leeds	Dixie	Walker	192	72	L	R	9/17/1909	5/29/1912
+9151	mccorbi01	7/9/1887	USA	NY	Saranac Lake	3/22/1973	USA	GA	Augusta	Bill	McCorry	157	69	L	R	9/17/1909	9/29/1909
+679	barrocu01	10/20/1883	USA	ME	Gray	2/10/1955	USA	ME	Gorham	Cuke	Barrows	158	68	L	R	9/18/1909	9/10/1912
+7832	kuseled01	2/15/1886	USA	OH	Cleveland	10/20/1948	USA	OH	Cleveland	Ed	Kusel	165	72		R	9/18/1909	10/1/1909
+4053	ellamro01	2/8/1886	USA	PA	West Conshohocken	10/28/1948	USA	PA	Conshohocken	Roy	Ellam	203		R	R	9/18/1909	8/29/1918
+10972	pauxtsi01	7/20/1885	USA	PA	Pittston	3/13/1961	USA	PA	Philadelphia	Si	Pauxtis	175	72	R	R	9/18/1909	10/5/1909
+6886	jamesbe01	7/7/1886	USA	TN	Coopertown	1/2/1959	USA	KY	Adairville	Bert	James	175	71	L	R	9/18/1909	9/23/1909
+4204	evansch01	10/15/1889	USA	VT	Arlington	9/2/1916	USA	NY	Schenectady	Chick	Evans			R	R	9/19/1909	8/27/1910
+4599	formabi01	10/10/1886	USA	PA	Venango	10/2/1958	USA	PA	Uniontown	Bill	Forman	180	71	B	R	9/20/1909	7/9/1910
+3634	doanewa01	3/12/1887	USA	ID	Bellevue	10/19/1935	USA	PA	Coatesville	Walt	Doan	165	72	L	R	9/20/1909	9/14/1910
+7586	klawial01	3/29/1889	USA	PA	Wilkes-Barre	5/2/1950	USA	WI	Milwaukee	Al	Klawitter	187		R	R	9/20/1909	5/30/1913
+9791	mitchwi01	12/1/1889	USA	MS	Pleasant Grove	11/23/1973	USA	MS	Sardis	Willie	Mitchell	176	72	R	L	9/22/1909	5/31/1919
+2816	coonebi01	4/7/1883	USA	MA	Boston	11/6/1928	USA	MA	Roxbury	Bill	Cooney				R	9/22/1909	5/2/1910
+9076	mccabsw01	11/20/1881	USA	PA	Towanda	12/9/1944	USA	CT	Bristol	Swat	McCabe	187	70	L	R	9/23/1909	5/20/1910
+988	bernajo01	3/24/1882	USA	IL	Brighton	9/22/1960	USA	IL	Springfield	Joe	Bernard	175	73	R	R	9/23/1909	9/23/1909
+12714	schweru01	4/6/1884	USA	KY	Louisville	11/27/1941	USA	KY	Anchorage	Rudy	Schwenck	174	72	L	L	9/23/1909	10/6/1909
+8491	luderfr01	9/12/1885	USA	WI	Milwaukee	1/5/1961	USA	WI	Three Lakes	Fred	Luderus	185		L	R	9/23/1909	6/23/1920
+15652	youngde01	10/24/1885	USA	MO	Macon	12/17/1959	USA	OH	Cleveland	Del	Young	195	71	L	R	9/24/1909	5/12/1915
+254	anderfr01	12/11/1885	USA	NC	Calahaln	11/8/1957	USA	NC	Winston-Salem	Fred	Anderson	180	74	R	R	9/25/1909	7/9/1918
+3818	drucklo01	12/3/1888	USA	TX	Waco	9/22/1955	USA	TX	Waco	Louis	Drucke	188	73	R	R	9/25/1909	5/1/1912
+2178	carrodi01	7/21/1884	USA	OH	Cleveland	11/22/1945	USA	OH	Cleveland	Dick	Carroll		74	R	R	9/25/1909	9/25/1909
+3220	dalyge01	7/28/1887	USA	NY	Buffalo	12/12/1957	USA	NY	Buffalo	George	Daly	175		R	R	9/26/1909	10/7/1909
+9589	meyerle02	3/29/1888	USA	IA	Iowa City	9/2/1968	USA	DE	Smyrna	Leo	Meyer				R	9/27/1909	10/4/1909
+14815	wanneja01	11/29/1885	USA	IL	Geneseo	5/28/1919	USA	IL	Geneseo	Jack	Wanner	190		R	R	9/28/1909	10/2/1909
+9898	moorege02	11/9/1885	USA	TX	Lancaster	8/31/1938	USA	TX	Dallas	Gene	Moore	185	74	L	L	9/28/1909	9/2/1912
+11666	rathmo01	12/25/1886	USA	TX	Mobeetie	11/18/1945	USA	PA	Upper Darby	Morrie	Rath	160		L	R	9/28/1909	10/3/1920
+1692	brownra01	1/31/1889	USA	IL	Chicago	5/29/1955	USA	CA	Los Angeles	Ray	Brown	172	73	R	R	9/29/1909	9/29/1909
+3294	davidbi01	5/10/1884	USA	IN	Lafayette	5/23/1954	USA	NE	Lincoln	Bill	Davidson	170	70	R	R	9/29/1909	9/18/1911
+15623	yerkest02	5/15/1888	USA	PA	Hatboro	1/31/1971	USA	PA	Lansdale	Steve	Yerkes	165	69	R	R	9/29/1909	10/1/1916
+3046	crookto01	7/26/1884	USA	DC	Washington	4/5/1929	USA	VA	Quantico	Tom	Crooke	180	72	R	R	9/29/1909	5/9/1910
+2224	caseyjo01	8/15/1887	USA	MA	Boston	6/2/1966	USA	MA	Melrose	Joe	Casey	180	69	R	R	10/1/1909	8/24/1918
+4823	gainede01	11/10/1886	USA	WV	Montrose	1/29/1947	USA	WV	Elkins	Del	Gainer	180	72	R	R	10/2/1909	9/30/1922
+392	atkinto01	12/9/1887	USA	NE	Ponca	5/7/1956	USA	OH	Cleveland	Tommy	Atkins	165		L	L	10/2/1909	9/28/1910
+3154	curryji01	3/10/1886	USA	NJ	Camden	8/2/1938	USA	NJ	Grenloch	Jim	Curry	160	71	R	R	10/2/1909	7/12/1918
+7823	kulljo01	6/24/1882	USA	PA	Shenandoah	3/30/1936	USA	PA	Schuylkill Haven	John	Kull	190	74	L	L	10/2/1909	10/2/1909
+7968	larkied01	7/1/1885	USA	PA	Wyalusing	3/28/1934	USA	PA	Wyalusing	Ed	Larkin		68	R	R	10/2/1909	10/2/1909
+7704	konnimi01	1/13/1889	USA	PA	Glen Lyon	7/9/1971	USA	PA	Wilkes-Barre	Mike	Konnick	180	69	R	R	10/3/1909	5/24/1910
+7071	johnsdo01	9/9/1887	USA	TN	Cleveland	2/17/1961	USA	TN	Chattanooga	Doc	Johnston	170	72	L	L	10/3/1909	9/30/1922
+9613	midkiez01	11/13/1882	USA	WV	Salt Rock	3/20/1957	USA	WV	Huntington	Ezra	Midkiff	180	70	L	R	10/5/1909	8/6/1913
+1913	busheja01	8/29/1885	USA	OH	Cincinnati	10/26/1955	USA	VA	Roanoke	Jack	Bushelman	175	74	R	R	10/5/1909	5/13/1912
+4518	fletcsa01	2/21/1881	USA	PA	Bedford					Sam	Fletcher	210	74		R	10/6/1909	6/10/1912
+2635	coleki01	4/15/1886	USA	IA	Toledo	1/6/1916	USA	MI	Bay City	King	Cole	170	73	R	R	10/6/1909	9/20/1915

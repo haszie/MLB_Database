@@ -1,0 +1,31 @@
+; Tiny test for basic functionality
+;
+; Invoke test as:  java PlayerDB DB01.txt Script01.txt Log01.txt
+; Uses:  1900s.txt
+;
+; Import a few records:
+import	1900s.txt
+;
+; Check the ID and Name indices (fairly large):
+show_index_for	PlayerID
+show_index_for	PlayerName
+show_index_for	PlayerDebut
+;
+; Try some player ID searches:
+show_stats_for	scotted01
+show_stats_for	grimsmy01
+show_stats_for	towneba01
+show_stats_for	coleki01
+;
+; Try some player name searches:
+identify_by_name	Crolius
+identify_by_name	Brown
+identify_by_name	Murphy
+identify_by_name	Williams
+identify_by_name	Meyer
+;
+; Try a debut search with lots of matches:
+show_debuts_for	1902
+;
+; Quit:
+exit	

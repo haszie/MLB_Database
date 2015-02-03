@@ -1,0 +1,32 @@
+; Test with large data file; mostly just confirming
+; the indices are constructed.
+;
+; Invoke test as:  java PlayerDB DB03.txt Script03.txt Log03.txt
+; Uses:  MasterTabbedAndFiltered2.txt
+;
+; Import a few records:
+import	MasterTabbedAndFiltered2.txt
+;
+; Check the ID and Name indices (truly large, uncomment only if you dare):
+;show_index_for	PlayerID
+show_index_for	PlayerName
+;show_index_for	PlayerDebut
+;
+; Try some player ID searches:
+show_stats_for	martiph01
+show_stats_for	shaffor01
+show_stats_for	arnolbi01
+show_stats_for	farreja01
+;
+; Try some player name searches:
+identify_by_name	Reid
+identify_by_name	Rogers
+identify_by_name	Miller
+identify_by_name	Snyder
+identify_by_name	Smith
+;
+; Try a debut search with some of matches:
+show_debuts_for	1873
+;
+; Quit:
+exit	

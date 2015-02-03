@@ -1,0 +1,30 @@
+; Test with a medium-sized but varied daa file.
+;
+; Invoke test as:  java PlayerDB DB05.txt Script05.txt Log05.txt
+; Uses:  California.txt
+;
+; Import a few records:
+import	California.txt
+;
+; Check the ID and Name indices:
+show_index_for	PlayerID
+show_index_for	PlayerName
+show_index_for	PlayerDebut
+;
+; Try some player ID searches:
+show_stats_for	harveza01
+show_stats_for	gilesma01
+show_stats_for	demilha01
+;
+; Try some player name searches:
+identify_by_name	Ayala
+identify_by_name	Lake
+identify_by_name	Flores
+;
+; Try a debut search with some of matches:
+show_debuts_for	1900
+show_debuts_for	1918
+show_debuts_for	1873
+;
+; Quit:
+exit	
